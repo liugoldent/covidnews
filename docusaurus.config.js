@@ -10,6 +10,11 @@ module.exports = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-145633929-3',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'covid-19 news',
       logo: {
