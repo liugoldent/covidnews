@@ -1,0 +1,1 @@
+(self.webpackChunkcovidnews=self.webpackChunkcovidnews||[]).push([[276],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2021-05-19 \u78ba\u8a3a\u6848\u4f8b","permalink":"/blog/hola"}]}')}}]);

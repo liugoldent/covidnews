@@ -1,0 +1,1 @@
+(self.webpackChunkcovidnews=self.webpackChunkcovidnews||[]).push([[21],{3560:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"0519-\u78ba\u8a3a\u6848\u4f8b","name":"0519 \u78ba\u8a3a\u6848\u4f8b","count":1,"permalink":"/blog/tags/0519-\u78ba\u8a3a\u6848\u4f8b"}')}}]);

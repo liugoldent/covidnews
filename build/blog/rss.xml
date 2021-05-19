@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Covid-19 News Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>Covid-19 News Blog</description>
+        <lastBuildDate>Wed, 19 May 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-05-19 確診案例]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/hola</link>
+            <guid>hola</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. 衛福部公告連結]]></description>
+        </item>
+    </channel>
+</rss>
