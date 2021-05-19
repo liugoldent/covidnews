@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Covid-19 News',
   tagline: '各縣市確診足跡與每日新增確診人數',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://covidnews.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
