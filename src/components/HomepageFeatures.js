@@ -13,7 +13,7 @@ const FeatureList = [
   },
   {
     title: '足跡地圖',
-    Svg: require('../../static/img/tutorial/Map.png').default,
+    Svg: require('../../static/img/tutorial/map.png').default,
     description: (
       <>
 
