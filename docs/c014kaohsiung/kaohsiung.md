@@ -2,6 +2,9 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0520 公布足跡
+![0520足跡1](https://heho.com.tw/wp-content/uploads/2021/05/1621499085.9763.jpg)
+![0520足跡2](https://heho.com.tw/wp-content/uploads/2021/05/1621499100.5333.jpg)
 ## 0519 公布足跡
 ![0519確診](https://heho.com.tw/wp-content/uploads/2021/05/1621414226.9261.jpg)
 ![0519確診](https://heho.com.tw/wp-content/uploads/2021/05/1621414250.5972.jpg)

@@ -2,6 +2,8 @@
 title: 台中縣市確診案例
 tags: [covid-19, 台中縣市確診案例]
 ---
+## 0520 公布足跡
+![0520確診](https://tw.appledaily.com/resizer/hgrChi0YQyS-Cp7cAl9Iq9XkFXc=/760x1140/filters:quality(100)/cloudfront-ap-northeast-1.images.arcpublishing.com/appledaily/TQREK5VEAFDBBPW7E2IB5BKAE4.png)
 ## 0519 公布足跡
 ![0517確診](https://www.cdc.gov.tw/File/Get/3Vcqt-N50n9kCSojoEpVQQ)
 ![0517確診](https://www.cdc.gov.tw/File/Get/9LNgW0jrAdEna8lyzR3aZQ)
