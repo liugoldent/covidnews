@@ -2,6 +2,8 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0521 公布足跡
+![05211](https://heho.com.tw/wp-content/uploads/2021/05/1621567942.5976.jpg)
 ## 0520 公布足跡
 ![05201](https://heho.com.tw/wp-content/uploads/2021/05/1621482694.5409.jpg)
 ![05202](https://heho.com.tw/wp-content/uploads/2021/05/1621482699.631.jpg)

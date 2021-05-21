@@ -2,6 +2,8 @@
 title: 新北市確診案例
 tags: [covid-19, 新北市確診案例]
 ---
+## 0521 公布足跡
+![05211](https://www.health.ntpc.gov.tw/archive/images/S__6529591.jpg)
 ## 0520 公布足跡
 ![05201](https://imgcdn.cna.com.tw/www/WebPhotos/1024/20210520/2000x2826_0636940701224.jpg)
 
