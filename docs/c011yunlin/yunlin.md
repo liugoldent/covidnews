@@ -2,6 +2,14 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0522 公布足跡
+![05221](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337449/679d4ada-49a8-4618-960b-0cf546f81397.jpg)
+![05222](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337450/37f71729-05a4-4410-a600-ae2b724b6e85.jpg)
+![05223](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337283/195869f3-87cf-492e-8288-ded424067865.jpg)
+![05224](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337282/8bbfa01e-ca8c-4d93-a88c-2f62560f8afb.jpg)
+![05225](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337279/49974f24-8596-4a94-84c7-7c7a791f3e38.png)
+![05226](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337455/2c3a8d9c-7d5e-4007-ae50-efa170c7789d.jpg)
+![05227](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337456/9180f77f-c27a-4076-9c40-1b4c35671a02.jpg)
 ## 0521 公布足跡
 ![0521足跡1](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/337381/e417caaa-b016-4a59-8bda-1d11729038bc.jpg)
 ## 0520 公布足跡

@@ -18,5 +18,6 @@ sidebar_position: 0
 * [台南確診足跡](c013tainan/tainan.md)
 * [高雄確診足跡](c014kaohsiung/kaohsiung.md)
 * [屏東確診足跡](c015pingtung/pingtung.md)
+* [花蓮確診足跡](c016hualian/hualian.md)
 
 

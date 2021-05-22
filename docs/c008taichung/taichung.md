@@ -2,6 +2,16 @@
 title: 台中縣市確診案例
 tags: [covid-19, 台中縣市確診案例]
 ---
+## 0522 公布足跡
+![05221](https://www.taichung.gov.tw/media/679099/%E6%A1%883441%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05222](https://www.taichung.gov.tw/media/679100/%E6%A1%883442%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05223](https://www.taichung.gov.tw/media/679101/%E6%A1%883443%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05224](https://www.taichung.gov.tw/media/679102/%E6%A1%883444%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05225](https://www.taichung.gov.tw/media/679103/%E6%A1%883446%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05226](https://www.taichung.gov.tw/media/679104/%E6%A1%883447%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05227](https://www.taichung.gov.tw/media/679105/%E6%A1%883448%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05228](https://www.taichung.gov.tw/media/679106/%E6%A1%883449%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
+![05229](https://www.taichung.gov.tw/media/679107/%E6%A1%883450%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
 ## 0521 公布足跡
 ![05211](https://www.taichung.gov.tw/media/678866/%E6%A1%882833%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
 ![05212](https://www.taichung.gov.tw/media/678868/%E6%A1%882920%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg)
