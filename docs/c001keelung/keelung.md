@@ -2,6 +2,12 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+
+## 0523 公布足跡
+![05231](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/189127045_3944114382290756_8098653199228165968_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=F19qXUjTBxQAX8laRuK&_nc_ht=scontent.ftpe8-4.fna&oh=535a8829b959d83df2d021d357e698ad&oe=60D0A082)
+![05232](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187032417_3944114388957422_6092438307382303934_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=wRI303xRBewAX_4rMWa&_nc_ht=scontent.ftpe8-4.fna&oh=fe690a0729353d617f4275fb3e092df2&oe=60D16347)
+![05233](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/186482577_3944114385624089_1739573125134717937_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=gFLMrfAaljwAX9dim7V&_nc_ht=scontent.ftpe8-4.fna&oh=16ac7b7ee5a1b9f7cde8934afb36a4c5&oe=60D14A64)
+![05234](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/186564250_3944114392290755_6283357688504969119_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=sPd_HUAz8OIAX92upoC&_nc_ht=scontent.ftpe8-4.fna&oh=8819b8101ac55a62acc1c0c493ac3d82&oe=60D1A08E)
 ## 0522 公布足跡
 ![05221](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1621667664820.jpg)
 ![05221](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1621667665429.jpg)
