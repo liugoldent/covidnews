@@ -2,7 +2,8 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
-
+## 0524 公布足跡
+![05241](https://s.yimg.com/ny/api/res/1.2/lbbYHykmjIYI8ocM2KuO1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0NDA7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/nZxqqNl.hQzjFOM1nbgggw--~B/aD0xMjAwO3c9ODAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/ko/news_tvbs_com_tw_938/b23bffd1564bc6e3d30061c3e9c68f77)
 ## 0523 公布足跡
 ![05231](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/189127045_3944114382290756_8098653199228165968_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=F19qXUjTBxQAX8laRuK&_nc_ht=scontent.ftpe8-4.fna&oh=535a8829b959d83df2d021d357e698ad&oe=60D0A082)
 ![05232](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187032417_3944114388957422_6092438307382303934_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=wRI303xRBewAX_4rMWa&_nc_ht=scontent.ftpe8-4.fna&oh=fe690a0729353d617f4275fb3e092df2&oe=60D16347)
