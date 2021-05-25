@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/covid191.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
@@ -19,7 +19,7 @@ module.exports = {
       title: 'covid-19 news',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/covid19.jpg',
+        src: 'img/covid191.png',
       },
       items: [
         {
@@ -28,7 +28,7 @@ module.exports = {
           position: 'left',
           label: '每日確診者足跡',
         },
-        {to: '/blog', label: '最新消息', position: 'left'},
+        { to: '/blog', label: '最新消息', position: 'left' },
         {
           href: 'https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&ll=24.703339047947587%2C121.41987825364788&z=10&fbclid=IwAR2-5R3ge14IYOGUpVUY2iKVSJUsKFDi8n36bL3p056OG-2oFpydFG_53wk&mid=10TfvVgBJ__iAkKMI9DObANFbfCrFV6nk',
           label: '足跡地圖',
@@ -96,4 +96,4 @@ module.exports = {
       },
     ],
   ],
-};
+}

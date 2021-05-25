@@ -2,6 +2,9 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0525 公布足跡
+![05251](https://heho.com.tw/wp-content/uploads/2021/05/1621914855.9995.jpg)
+![05252](https://heho.com.tw/wp-content/uploads/2021/05/1621914861.87.jpg)
 ## 0524 公布足跡
 ![05241](https://s.yimg.com/ny/api/res/1.2/lbbYHykmjIYI8ocM2KuO1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0NDA7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/nZxqqNl.hQzjFOM1nbgggw--~B/aD0xMjAwO3c9ODAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/ko/news_tvbs_com_tw_938/b23bffd1564bc6e3d30061c3e9c68f77)
 ## 0523 公布足跡
