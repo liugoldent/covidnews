@@ -20,5 +20,6 @@ sidebar_position: 0
 * [屏東確診足跡](c015pingtung/pingtung.md)
 * [花蓮確診足跡](c016hualian/hualian.md)
 * [台東確診足跡](c017taitung/taitung.md)
+* [馬祖確診足跡](c018mazu/mazu.md)
 
 

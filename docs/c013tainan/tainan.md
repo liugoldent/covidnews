@@ -2,6 +2,9 @@
 title: 台南縣市確診案例
 tags: [covid-19, 台南縣市確診案例]
 ---
+## 0526 公布足跡
+![05261](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvYmJiZDcyMzctM2M2NC00N2Y4LTgxNDUtNTg3ODA1OTA5NmIwLmpwZw%3d%3d&n=5qGINTY0NeWAi%2bahiOizh%2bioiuWPiui2s%2bi3oS5qcGc%3d&icon=.jpg)
+![05262](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvM2UzZTYyODUtYzFhZS00ZjEzLWE3OTItNjRkYjk3NDAwN2VkLmpwZw%3d%3d&n=5qGINTY0NOWAi%2bahiOizh%2bioiuWPiui2s%2bi3oS5qcGc%3d&icon=.jpg)
 ## 0525 公布足跡
 ![05251](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7773426/c4476e4f-4a94-4656-b5bc-f81b991f12cc@710x470.jpg)
 ![05252](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7773426/d3b83832-e6b1-4c5c-badc-ee612321741d@710x470.jpg)

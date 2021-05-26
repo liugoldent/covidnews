@@ -2,6 +2,11 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0526 公布足跡
+![05261](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUxZDQzMTUxLTg0ZTEtNDAzYy05ODNkLWYzODAzZGMxMTQzOUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
+![05262](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Y3Mzc5MmFiLTc5ZjMtNGMxMy1iYmIzLWEwMzAyNjY4NTFiN0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMigxKS5qcGc%3d&Icon=.jpg)
+![05263](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzk2MzcwYTkzLTZlYmEtNDFjNS1iMzgwLTI1OTY1NGIwN2EwYUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMy5qcGc%3d&Icon=.jpg)
+![05264](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Q5Y2Y3MmRhLTY1OTktNDY1NC1iYjI0LTc0OWJlNzg4OGQ1YkAxMDI0eDc2OC5qcGc%3d&n=NTQ1Ni5qcGc%3d&Icon=.jpg)
 ## 0525 公布足跡
 ![05251](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQ4YzIxOTZmLThkM2UtNDg1Yi04NTQ0LWRjYzI1YzAzNDE3NkAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ![05252](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2FiMGE0NDY2LTA3NDUtNGU4Mi04MTYwLWVjMTIzNjk5NGM4MUAxMDI0eDc2OC5qcGc%3d&n=5YWs5YWx5rS75YuV5Y%2by6Laz6LehLmpwZw%3d%3d&Icon=.jpg)
