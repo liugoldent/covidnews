@@ -2,6 +2,18 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0527 公布足跡
+
+![052721](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzYxN2JiMWFjLWFmMGEtNGY1Mi1iNjVhLTE4YzQwZjgxZTlhOEAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMy5qcGc%3d&Icon=.jpg)
+![052722](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2JiNDdjMzQ4LTQ1ZDAtNDZjZS1iZDZkLWQ3NWRjMzhhNThlYUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHNC5qcGc%3d&Icon=.jpg)
+![052723](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2M5MzY3YzkxLTcxNTUtNGI2Ny1iZmExLTRkZGIyNzQ2MzNmNEAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHNS5qcGc%3d&Icon=.jpg)
+![052724](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2M0NDRhNTZjLTIzZGMtNDc3YS05ZjI5LTUxYjE5NzU4NTE5ZkAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHNy5qcGc%3d&Icon=.jpg)
+![052725](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzg5ZWEyMjIwLTgwZmYtNDZhOC1hYmQ0LTg3Y2ZkZDdkOTQ3Y0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHOC5qcGc%3d&Icon=.jpg)
+![052726](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzk3ZWJlYmQ0LTk5YjgtNGI1My04ZjFjLWE4MWQ2ZGFlMTlmMUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHOS5qcGc%3d&Icon=.jpg)
+![052727](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzM3MzE2NzZkLTFlOTMtNDY3Ny05MWQ2LWQ5ZWI3ZmUwMzFjOUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMTAuanBn&Icon=.jpg)
+![052728](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQyM2Q3YzMzLTA0YWQtNGI2MC04MDEzLWIyNmUxYzI4YTY0ZUAxMDI0eDc2OC5qcGc%3d&n=Njc3MC5qcGc%3d&Icon=.jpg)
+![052729](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUwOTc0Y2UzLTBlYmQtNGJmNy05ZTU0LTkwNTFjNTYyNGVkZkAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
+![0527210](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzAwZjMwZTZlLTUwZWQtNDI2Yi04ZmUxLTFmOWRmMjVkNjNmMEAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMi5qcGc%3d&Icon=.jpg)
 ## 0526 公布足跡
 ![05261](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUxZDQzMTUxLTg0ZTEtNDAzYy05ODNkLWYzODAzZGMxMTQzOUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ![05262](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Y3Mzc5MmFiLTc5ZjMtNGMxMy1iYmIzLWEwMzAyNjY4NTFiN0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMigxKS5qcGc%3d&Icon=.jpg)

@@ -2,6 +2,29 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0527 公布足跡
+
+![052721](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/338285/1ee24589-73a2-46b1-bafc-45a78cf335f1.jpg)
+![052720](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/338286/493946cb-1147-4912-807d-e0c11f8f8650.jpg)
+![052719](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/338285/1ee24589-73a2-46b1-bafc-45a78cf335f1.jpg)
+![052718](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/338286/493946cb-1147-4912-807d-e0c11f8f8650.jpg)
+![052717](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337973/96403d13-cdfc-46eb-8bd4-d3661d377250.jpg)
+![05271](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337972/407582a8-1d59-4244-893b-f61dcacd0d77.jpg)
+![05272](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337794/ad2c4044-3e3e-4a62-9474-cea725910b02.jpg)
+![05273](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337793/f6f614b6-fa85-4c7b-b388-8e1157ed6428.jpg)
+![05274](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337649/66328c1f-8ed6-47fa-b083-3f5a2e158974.jpg)
+![05275](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337647/7a65e9f0-f7ec-44b3-8b0c-46b8d144491a.jpg)
+![05276](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337645/fe8d5830-bff7-47f3-b47a-d06d77a8a0b3.jpg)
+![05277](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337449/0579002e-0d9f-4085-b24c-529a139d69ae.jpg)
+![05278](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337475/cc750e76-6a7e-47a3-9adf-1ef2390915dd.jpg)
+![05279](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337490/2c3fd55d-e8b5-4148-aac9-b9d0a6a5dc72.jpg)
+![052710](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337476/b5091091-41ce-4a59-989a-9545c6da6ae5.jpg)
+![052711](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337456/9180f77f-c27a-4076-9c40-1b4c35671a02.jpg)
+![052712](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337455/2c3a8d9c-7d5e-4007-ae50-efa170c7789d.jpg)
+![052713](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337279/49974f24-8596-4a94-84c7-7c7a791f3e38.png)
+![052714](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337282/8bbfa01e-ca8c-4d93-a88c-2f62560f8afb.jpg)
+![052715](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337283/195869f3-87cf-492e-8288-ded424067865.jpg)
+![052716](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337450/37f71729-05a4-4410-a600-ae2b724b6e85.jpg)
 ## 0526 公布足跡
 ![05261](https://ws.yunlin.gov.tw/001/Upload/400/relpic/17407/337972/09c64759-4e55-44c6-a50c-3cc51d1d7c91.jpg)
 ![05262](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL3JlbGZpbGUvMTc0MDcvMzM3OTczLzY5ODg3MjAwLWFkYzAtNDYzNS1hOGIxLTQ4NmJlZmYyMGZlMC5qcGc%3d&n=5qGINTg4NSjpm7LmnpfnuKMp56K66Ki65YCL5qGI6Laz6LehMDAwMS5qcGc%3d)
