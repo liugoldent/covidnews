@@ -2,6 +2,13 @@
 title: 台南縣市確診案例
 tags: [covid-19, 台南縣市確診案例]
 ---
+## 0528 公布足跡
+![05281](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/187692321_4351238244927978_9103781236169826603_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=J7Hi9vBbGYUAX_g4zVx&_nc_ht=scontent.ftpe8-2.fna&oh=543d114e6c7eadf0e1c5c7d276a1999b&oe=60D4D9B4)
+![05282](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/187631677_4351237658261370_8977896675664612283_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lmx3TKdw8xEAX9TufkU&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-2.fna&oh=ade6a41a6eba75eb0b62ea712dae1faf&oe=60D68F70)
+![05283](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186551791_4351238654927937_1069629533146362241_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=o7u3WuSD3VsAX9e3LrL&_nc_ht=scontent.ftpe8-2.fna&oh=28deb367108c20d835db4b09c17f994a&oe=60D74C98)
+![05284](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/188785872_4351238844927918_1130318081501642188_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=zcOiqB4J8HoAX8eF9R7&_nc_ht=scontent.ftpe8-2.fna&oh=9a08e9b445ab4b3dea1d87016cfacaaa&oe=60D726DD)
+![05285](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186466640_4351240361594433_2758600513201749681_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=xjIW5dP9X9MAX-YwiEC&_nc_ht=scontent.ftpe8-2.fna&oh=1d609e1c0f929be1e7e939a11a7cf730&oe=60D46EFE)
+![05286](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186558241_4351240521594417_1456290447229582750_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=y9iC4h5JqVUAX9aibvm&_nc_ht=scontent.ftpe8-2.fna&oh=18198eae14559a223c3eb77d8c14de15&oe=60D51394)
 ## 0526 公布足跡
 ![05261](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvYmJiZDcyMzctM2M2NC00N2Y4LTgxNDUtNTg3ODA1OTA5NmIwLmpwZw%3d%3d&n=5qGINTY0NeWAi%2bahiOizh%2bioiuWPiui2s%2bi3oS5qcGc%3d&icon=.jpg)
 ![05262](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvM2UzZTYyODUtYzFhZS00ZjEzLWE3OTItNjRkYjk3NDAwN2VkLmpwZw%3d%3d&n=5qGINTY0NOWAi%2bahiOizh%2bioiuWPiui2s%2bi3oS5qcGc%3d&icon=.jpg)

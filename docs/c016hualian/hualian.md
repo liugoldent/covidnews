@@ -2,6 +2,17 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0528 公布足跡
+![05281](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/188509467_4185895598115636_881318290661454940_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=72qTAdxsA24AX9b61OA&_nc_ht=scontent.ftpe8-4.fna&oh=70795a29235eecdc7dfeb5ad62e10439&oe=60D6491E)
+![05282](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187458231_4185895154782347_8462137136136472789_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=BYDI11lE58kAX_GVQQ3&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=92dab5b7c19acb5e5f6d09a91940dab1&oe=60D76CD9)
+![05283](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/188423380_4185894831449046_3114083965337682336_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=qsHhzshHYZMAX-7Aw6m&_nc_ht=scontent.ftpe8-2.fna&oh=9024135654ff5b229a07fc23dc715360&oe=60D5EE80)
+![05284](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/190733689_4185895334782329_4182363209248859293_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9bEjicqeGyIAX-Itswd&_nc_ht=scontent.ftpe8-1.fna&oh=d12a46ce7f33194e975befee8d7ea34f&oe=60D628BB)
+![05285](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/190121607_4185895058115690_2762850198258006679_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ORwXkjHcLeMAX-6HnW6&_nc_ht=scontent.ftpe8-2.fna&oh=0c6e0b4639c34dc5f3f2cccb23fe51d1&oe=60D7132D)
+![05286](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/184257234_4185895574782305_567448743511311955_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=gnN-uMGe3FoAX8bzbzs&_nc_ht=scontent.ftpe8-1.fna&oh=67ed797be0893e8e2d92d257b84c8828&oe=60D831CB)
+![05287](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187248028_4185895378115658_3830071832543046122_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=OC5b-YVmRvwAX89V20m&_nc_ht=scontent.ftpe8-4.fna&oh=37caf8313668e78bbc28167218cb716c&oe=60D776D8)
+![05288](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/189163628_4185895048115691_7321162584521528370_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=VxRiczEhNi8AX-h2Yf1&_nc_ht=scontent.ftpe8-2.fna&oh=d6571c82d52fd8bab35574db718a2b20&oe=60D62F41)
+![05289](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187609734_4185894944782368_8803360227139316528_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=7PCN8ayWR0QAX-7dr_n&_nc_ht=scontent.ftpe8-4.fna&oh=e5ca383a4ea987221cc063b702ce212a&oe=60D6A3AA)
+![052810](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/190221649_4185894964782366_726332831088146880_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=yDgKf_qSzlwAX8h08BT&_nc_ht=scontent.ftpe8-2.fna&oh=fa027daeb351640172d35a7a38374036&oe=60D5C54A)
 ## 0527 公布足跡
 
 ![05271](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/191166300_4182862985085564_7759305023812764849_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=wEl7SnQJhrMAX_1WnJP&_nc_ht=scontent.ftpe8-3.fna&oh=5ea3c569b6ec8c284d24abf24368ae92&oe=60D36C32)

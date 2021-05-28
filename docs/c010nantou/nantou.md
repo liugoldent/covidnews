@@ -2,6 +2,10 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0528 公布足跡
+![05281](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186488169_1129337244144542_4505732589044735688_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=IFypI4CUR2IAX-i5iy0&_nc_ht=scontent.ftpe8-2.fna&oh=b9d1e4ab3a3eacc8bbbfe6398e0f9094&oe=60D5D8CB)
+![05282](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186532548_1129337277477872_9176116596014021374_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=_hMDzdSsx_UAX9LGoPx&_nc_ht=scontent.ftpe8-2.fna&oh=3daa6670bc3ccd41a2efa6be3d72927d&oe=60D81E74)
+![05283](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186558429_1129338597477740_7876574563754396957_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=hVFne3MSqdcAX9s1MGx&_nc_ht=scontent.ftpe8-2.fna&oh=61102924f3dfc708adb0f1821e8eebbd&oe=60D59C66)
 ## 0527 公布足跡
 
 ![052721](https://www.ntshb.gov.tw/Files/CKEditor/202105270305596762%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1.jpg)
