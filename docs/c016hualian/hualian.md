@@ -2,6 +2,13 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0529 公布足跡
+![05291](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/191208191_4189353111103218_7926352459202770533_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=pk_gBVviqYoAX97x3uM&_nc_ht=scontent.ftpe8-4.fna&oh=311ee5cb5772aca138eefd5a24931beb&oe=60D79EB2)
+![05292](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/186564180_4189353424436520_1351667407772123655_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=LGqSLjaxCPYAX8ggHy7&_nc_ht=scontent.ftpe8-4.fna&oh=6521e4b675de1cffdfd878b8ac13622b&oe=60D82449)
+![05293](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/186522318_4189353647769831_4837622539362446737_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=SXKGd7mLVK0AX97sL1j&_nc_ht=scontent.ftpe8-3.fna&oh=18b54d62738d153595fca4eed6107326&oe=60D8BC09)
+![05294](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/193339291_4189353471103182_1835652126338587234_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=3Rpd0qN2to8AX_F_VIh&_nc_ht=scontent.ftpe8-4.fna&oh=46399c46ce5bd61fa5f38281615bbcac&oe=60D711AF)
+![05295](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191972548_4189353594436503_6641911265309043355_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=b2eVqrWSoB8AX-IObfv&_nc_oc=AQkcF2pS_Ha_4jzS1f2RRH-24oHv_M6G4bpE7tgSy2dKKv1l0pNcI5RQNC1JDh0zOmk&_nc_ht=scontent.ftpe8-2.fna&oh=c85f0f327007d8b2a2e6fcf685f19d88&oe=60D77DEA)
+![05296](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/188933529_4189353284436534_2595415052660541369_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=BEl70vn4Gl8AX-NsBa4&_nc_ht=scontent.ftpe8-3.fna&oh=002068dcdf0f4fe8d0bf50c8418af15c&oe=60D614EB)
 ## 0528 公布足跡
 ![05281](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/188509467_4185895598115636_881318290661454940_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=72qTAdxsA24AX9b61OA&_nc_ht=scontent.ftpe8-4.fna&oh=70795a29235eecdc7dfeb5ad62e10439&oe=60D6491E)
 ![05282](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/187458231_4185895154782347_8462137136136472789_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=BYDI11lE58kAX_GVQQ3&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=92dab5b7c19acb5e5f6d09a91940dab1&oe=60D76CD9)
