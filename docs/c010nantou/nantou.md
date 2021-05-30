@@ -2,6 +2,12 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0530 公布足跡
+![05301](https://www.ntshb.gov.tw/Files/CKEditor/20210530123829%E5%80%8B%E6%A1%881.jpg)
+![05302](https://www.ntshb.gov.tw/Files/CKEditor/20210530123844%E5%80%8B%E6%A1%882.jpg)
+![05303](https://www.ntshb.gov.tw/Files/CKEditor/20210530123859%E5%80%8B%E6%A1%883.jpg)
+![05304](https://www.ntshb.gov.tw/Files/CKEditor/20210530123915%E5%80%8B%E6%A1%884-1.jpg)
+![05305](https://www.ntshb.gov.tw/Files/CKEditor/20210530123928%E5%80%8B%E6%A1%884-2.jpg)
 ## 0528 公布足跡
 ![05281](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186488169_1129337244144542_4505732589044735688_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=IFypI4CUR2IAX-i5iy0&_nc_ht=scontent.ftpe8-2.fna&oh=b9d1e4ab3a3eacc8bbbfe6398e0f9094&oe=60D5D8CB)
 ![05282](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/186532548_1129337277477872_9176116596014021374_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=_hMDzdSsx_UAX9LGoPx&_nc_ht=scontent.ftpe8-2.fna&oh=3daa6670bc3ccd41a2efa6be3d72927d&oe=60D81E74)

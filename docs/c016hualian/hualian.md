@@ -2,6 +2,14 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0530 公布足跡
+![05301](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/186536027_4192090720829457_1434805841763903578_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=u6_qBKyxsVMAX-v0dAi&_nc_oc=AQkkykC_lBN0djXhTrRqChofujM2OSZyRIrWmfN3yCk0RmDYE4gVJwxzFRwuYxej7dM&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-1.fna&oh=b950535419d8d4ed9c761cdf0a80e828&oe=60D9D0FD)
+![05302](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/192567102_4192090704162792_7231594981747091872_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=wzhlCsKmQu4AX_6jms6&_nc_ht=scontent.ftpe8-1.fna&oh=a9346e5a5e1d8d8fa15377ebcf4851b8&oe=60D74B05)
+![05303](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/186525599_4192090817496114_5053438875027879102_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=T18_vGs6cgMAX8qbg-Z&_nc_ht=scontent.ftpe8-3.fna&oh=b791806f76428cd4c3b670e6546ba7ca&oe=60D8C632)
+![05304](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/188104084_4192090780829451_3738952545568881685_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=inE0A2UedPkAX8xYM_s&_nc_oc=AQkIm9SsipI-riM4imrl_4AW0rQEAG2C2Z9dzxgS_Ljvs8L084uIrHDuYvfYWlCslA0&_nc_ht=scontent.ftpe8-1.fna&oh=0aedede1b12e9aa036e15449c151d9da&oe=60D892AB)
+![05305](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/188465168_4192090880829441_5535077177423224385_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=yPw-PqxLmXkAX95uZfB&_nc_ht=scontent.ftpe8-2.fna&oh=64e064702461d6194c75b98a911454b6&oe=60D7D118)
+![05307](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/189972649_4192090884162774_8091366718911485665_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=HW_Tkl88rg0AX-e8UK_&_nc_ht=scontent.ftpe8-3.fna&oh=293c5dbd556675b040067f20d7c885e2&oe=60D92466)
+![05306](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/189291589_4192091014162761_6549534009363556499_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=cjI8DAQ5Rn8AX8tNYPk&_nc_ht=scontent.ftpe8-3.fna&oh=d0ef908ed2cb68a4eae257e3268bba44&oe=60DA4ED9)
 ## 0529 公布足跡
 ![05291](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/191208191_4189353111103218_7926352459202770533_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=pk_gBVviqYoAX97x3uM&_nc_ht=scontent.ftpe8-4.fna&oh=311ee5cb5772aca138eefd5a24931beb&oe=60D79EB2)
 ![05292](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/186564180_4189353424436520_1351667407772123655_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=LGqSLjaxCPYAX8ggHy7&_nc_ht=scontent.ftpe8-4.fna&oh=6521e4b675de1cffdfd878b8ac13622b&oe=60D82449)

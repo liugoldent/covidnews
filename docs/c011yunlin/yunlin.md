@@ -2,6 +2,11 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0530 公布足跡
+![05301](https://tw.appledaily.com/resizer/k0KQx24UO_uszHd-AZVxeLUgW7s=/760x379/filters:quality(100)/cloudfront-ap-northeast-1.images.arcpublishing.com/appledaily/SWUKESJPXVEITMMS2QOEGZUE34.jpg)
+![05302](https://tw.appledaily.com/resizer/JNMNwBFY5pux8DUQEfyaf86ej1o=/760x244/filters:quality(100)/cloudfront-ap-northeast-1.images.arcpublishing.com/appledaily/IVL6LQ6WIBCALI567OUMJCZWLM.jpg)
+![05303](https://tw.appledaily.com/resizer/bzD1nzoGDavddw7HetoZnHJCQ9A=/760x219/filters:quality(100)/cloudfront-ap-northeast-1.images.arcpublishing.com/appledaily/SWZWE6V6LBDBDBNTX4OVO24ODQ.jpg)
+![05304](https://tw.appledaily.com/resizer/u4ZTPfvQN7sB-_ZuCNfvEpCQZVU=/760x1092/filters:quality(100)/cloudfront-ap-northeast-1.images.arcpublishing.com/appledaily/F63MM6RQJFD5NOLT235NUJO6QM.jpg)
 ## 0529 公布足跡
 ![05291](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS81NDA3ODdmOC04MWVhLTQyYzEtODIwOC0yZmQzZjNhNmQ4MmQucG5n&n=aW1hZ2UucG5n)
 ![05292](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9kZjJjZjlhYi04NWJjLTRlN2QtOTk4ZS1mNWY1MWM4NWU1ZDMucG5n&n=aW1hZ2UucG5n)
