@@ -43,7 +43,7 @@ module.exports = {
           title: '政府官方連結',
           items: [
             {
-              label: '衛福部',
+              label: '衛福部官網',
               to: 'https://www.cdc.gov.tw/',
             },
           ],
