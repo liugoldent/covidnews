@@ -2,6 +2,8 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0531 公布足跡
+無
 ## 0530 公布足跡
 ![05301](https://www.ntshb.gov.tw/Files/CKEditor/20210530123829%E5%80%8B%E6%A1%881.jpg)
 ![05302](https://www.ntshb.gov.tw/Files/CKEditor/20210530123844%E5%80%8B%E6%A1%882.jpg)

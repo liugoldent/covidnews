@@ -2,6 +2,8 @@
 title: 臺東縣確診足跡
 tags: [covid-19, 臺東縣確診案例]
 ---
+## 0531 公布足跡
+無
 ## 0530 公布足跡
 ![05301](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191714637_3790693104386387_4134114239788008970_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=Y-Cky_tY7IcAX_STMEP&_nc_ht=scontent.ftpe8-2.fna&oh=0157aa1fc183d7ef23e911cc8a187f07&oe=60D7FA77)
 ## 0529 公布足跡

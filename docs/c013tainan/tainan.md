@@ -7,6 +7,10 @@ tags: [covid-19, 台南縣市確診案例]
 由於台南目前沒有公佈表格版的足跡，只有地圖版的，所以把網址附帶給大家  
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 ___
+## 0531 公布足跡
+![05311](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/192622268_4360486760669793_6117074847402544823_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=Qr9a_6gsakEAX-USr2U&_nc_ht=scontent.ftpe8-2.fna&oh=7ad61d1b400a4c9792f8265564c55aa1&oe=60DA9AF6)
+## 0530 公布足跡
+![05301](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/189343633_4357556930962776_2125972345136537302_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=fXZlK-oeW5YAX_OrDKa&_nc_ht=scontent.ftpe8-1.fna&oh=80500b618eb49f4d559d0cd5594cfab8&oe=60DBC465)
 ## 0528 公布足跡
 ![05281](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/187692321_4351238244927978_9103781236169826603_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=J7Hi9vBbGYUAX_g4zVx&_nc_ht=scontent.ftpe8-2.fna&oh=543d114e6c7eadf0e1c5c7d276a1999b&oe=60D4D9B4)
 ![05282](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/187631677_4351237658261370_8977896675664612283_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lmx3TKdw8xEAX9TufkU&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-2.fna&oh=ade6a41a6eba75eb0b62ea712dae1faf&oe=60D68F70)

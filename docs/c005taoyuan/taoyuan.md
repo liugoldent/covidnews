@@ -2,6 +2,10 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+## 0531 公布足跡
+![05311](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/189819886_4346845898660350_8725064103299989860_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9zF7GIDghkwAX97uB_a&_nc_ht=scontent.ftpe8-2.fna&oh=c876c64c5a69250bc347ac7639d2cdf3&oe=60DC2118)
+![05312](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/192013072_4346845948660345_1726897222739103678_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=cdhtc61MEmgAX9WRcP1&_nc_ht=scontent.ftpe8-2.fna&oh=ae372ed969d0f095b106bc65559c1430&oe=60D8FD82)
+![05313](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/192250234_4346846001993673_2378501685690556617_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ir7247bhdmQAX8rvTtC&_nc_ht=scontent.ftpe8-2.fna&oh=b978c2abad9ed7f0794ab732335a0dc0&oe=60DC4DCC)
 ## 0530 公布足跡
 ![05301](https://www.tycg.gov.tw/uploaddowndoc?file=health17/202105301553560.jpg&flag=pic&filedisplay=5%E6%9C%8830%E6%97%A5%E6%A1%83%E5%9C%92%E5%80%8B%E6%A1%88%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E8%B6%B3%E8%B7%A1.jpg)
 ![05302](https://www.tycg.gov.tw/uploaddowndoc?file=health17/202105301553280.jpg&flag=pic&filedisplay=%E6%9B%B4%E6%96%B0+5%E6%9C%8826%E6%97%A5%E5%8F%8A5%E6%9C%8829%E6%97%A5%E6%A1%83%E5%9C%92%E5%80%8B%E6%A1%88%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80%E8%B6%B3%E8%B7%A1.jpg)

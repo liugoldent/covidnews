@@ -1,8 +1,11 @@
 ---
 sidebar_position: 0
 ---
-
 # Covid-19 每日各縣市公布足跡
+
+## 更新時間
+### 6/1（二）因本人有事，將於21:00~23:00更新，歡迎分享
+___
 ## 各縣市公布資料
 * [基隆確診足跡](c001keelung/keelung.md)
 * [宜蘭確診足跡](c004yilan/yilan.md)
@@ -23,7 +26,6 @@ sidebar_position: 0
 * [台東確診足跡](c017taitung/taitung.md)
 * [馬祖確診足跡](c018mazu/mazu.md)
 * [澎湖確診足跡](c019ponghu/ponghu.md)
-___
-## 更新時間
-每日約19:00~21:00更新，歡迎分享
+
+
 

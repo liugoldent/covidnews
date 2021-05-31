@@ -2,6 +2,8 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0531 公布足跡
+![05311](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/187091720_3969183213117206_832342022246284130_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=xTG8kO3BskMAX8GjREf&_nc_ht=scontent.ftpe8-2.fna&oh=fd637a36f96e389d470acc16468d3240&oe=60DB2675)
 ## 0530 公布足跡
 ![05301](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/190493346_3966631376705723_4399518942752969024_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=CeDHkD6iaQ0AX-fo1Jb&_nc_ht=scontent.ftpe8-1.fna&oh=6fc52b44ad176607229cc0907462d1e4&oe=60D8497F)
 ![05302](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/193315746_3966631373372390_8855616691985060403_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=tgAnAZr1oYEAX_oUUpO&_nc_ht=scontent.ftpe8-4.fna&oh=61ee73ce561ccbe44f27af21b96a4add&oe=60DA8964)
