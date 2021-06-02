@@ -16,22 +16,18 @@ module.exports = {
       async: true,
     },
   ],
+  plugins: [
+    'docusaurus-plugin-google-adsense',
+  ],
   themeConfig: {
-    plugins: [
-      'docusaurus-plugin-google-adsense',
-    ],
     googleAnalytics: {
       trackingID: 'UA-145633929-3',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
     googleAdsense: {
-      trackingID: "ca-pub-6522129511614311",
-      anonymizeIP: true
+      dataAdClient: "ca-pub-6522129511614311",
     },
-    // googleAdsense: {
-    //   dataAdClient: "ca-pub-6522129511614311",
-    // },
     navbar: {
       title: 'covid-19 news',
       logo: {
