@@ -9,13 +9,6 @@ module.exports = {
   favicon: 'img/covid191.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-  scripts: [
-    {
-      src:
-        'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-      async: true,
-    },
-  ],
   plugins: [
     'docusaurus-plugin-google-adsense',
   ],

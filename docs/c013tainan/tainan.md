@@ -4,10 +4,12 @@ tags: [covid-19, 台南縣市確診案例]
 ---
 
 ## `注意`
-由於台南目前沒有公佈表格版的足跡，只有地圖版的，所以把網址附帶給大家  
+台南市政府有做儀表板的足跡，把網址附帶給大家參考  
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 ___
 
+## 0602 公布足跡
+![06021](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/192170770_4366112653440537_485833555429393816_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=ve4dgO9oRvwAX9UCtBw&_nc_ht=scontent.ftpe8-4.fna&oh=fc4b4680289760c7e1caa1d64ac20efe&oe=60DE34C2)
 ## 0601 公布足跡
 ![06011](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/191389656_4363235053728297_5574865790980716317_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=bBvpzrpTR_8AX8IVlu4&_nc_ht=scontent.ftpe8-4.fna&oh=2181ee79f38d7d1ad55945f03bd5db3b&oe=60D9DE39)
 ## 0531 公布足跡

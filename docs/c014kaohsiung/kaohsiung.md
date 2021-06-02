@@ -2,6 +2,13 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0602 公布足跡
+![06021](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%871.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=vw0Rowv76FHRTMGfzLRJbY8b7I0%3D)
+![06022](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%872.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=D2f5VfPcbGgTXKjSUR0%2BIn8PqB4%3D)
+![06023](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%874.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Dgi%2BQXgFUyaPT7uPzaI5lm0OaAY%3D)
+![06024](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%873.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=wdURnvt49clTSUoyMRUkDo2G7IM%3D)
+![06025](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/8563.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=1UUQE%2BztAXkPKl2RZ0PLaGkxg4Y%3D)
+![06026](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%28%E6%96%B0%E5%8C%97%298696.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=b4v8wXcpUlokZ3reJN6E1iTrbh0%3D)
 ## 0601 公布足跡
 無
 
