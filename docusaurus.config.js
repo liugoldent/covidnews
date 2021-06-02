@@ -26,8 +26,12 @@ module.exports = {
       anonymizeIP: true, // Should IPs be anonymized?
     },
     googleAdsense: {
-      dataAdClient: "ca-pub-6522129511614311",
+      trackingID: "ca-pub-6522129511614311",
+      anonymizeIP: true
     },
+    // googleAdsense: {
+    //   dataAdClient: "ca-pub-6522129511614311",
+    // },
     navbar: {
       title: 'covid-19 news',
       logo: {
