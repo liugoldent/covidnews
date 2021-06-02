@@ -10,10 +10,16 @@ module.exports = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    plugins: [
+      'docusaurus-plugin-google-adsense',
+    ],
     googleAnalytics: {
       trackingID: 'UA-145633929-3',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
+    },
+    googleAdsense: {
+      dataAdClient: "ca-pub-6522129511614311",
     },
     navbar: {
       title: 'covid-19 news',
