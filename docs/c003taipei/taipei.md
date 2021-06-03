@@ -2,6 +2,8 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0603 公布足跡
+![06031](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80YWIzZTc0NS1kNDNhLTQ2MTEtOGUxOC0zMzlkZDFmMjdjMWYucG5n&n=5bel5L2c5Y2A5Z%2bfIDFAMngucG5n&icon=.png)
 ## 0602 公布足跡
 ![06021](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80YTQyYmEyZi05YmIzLTRiYTMtYmJlMS0wZTQ1NjRjZWNlYjcuanBn&n=MDYwMl80LmpwZw%3d%3d&icon=.jpg)
 ## 0601 公布足跡

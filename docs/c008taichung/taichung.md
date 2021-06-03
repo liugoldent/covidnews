@@ -2,6 +2,8 @@
 title: 台中縣市確診案例
 tags: [covid-19, 台中縣市確診案例]
 ---
+## 0603 公布足跡
+![06031](https://www.taichung.gov.tw/media/681863/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1-%E6%A1%889555-%E6%A1%889997.jpg)
 ## 0602 公布足跡
 ![06021](https://www.taichung.gov.tw/media/681542/6%E6%9C%882%E6%97%A5%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1-%E6%A1%888988-%E6%A1%888989.jpg)
 ![06022](https://www.taichung.gov.tw/media/681544/6%E6%9C%882%E6%97%A5%E5%A4%96%E7%B8%A3%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1.jpg)

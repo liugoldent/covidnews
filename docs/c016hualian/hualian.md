@@ -2,6 +2,8 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0603 公布足跡
+無
 ## 0602 公布足跡
 ![06021](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/190766552_4200404823331380_8675915783229333560_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=seU4dwKafssAX93deV8&_nc_ht=scontent.ftpe8-2.fna&oh=8318a68ed1e1ee67b15617efbfafe6c2&oe=60DE7B06)
 ## 0601 公布足跡
