@@ -2,18 +2,18 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
-## 0604 公布足跡
+## 0604 公布確診數據
 ![06041](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9kMGEwZjEyZS00MzZlLTQwODctYTEwMi03Y2E5NDg1OGQzZTEucG5n&n=5bel5L2c5Y2A5Z%2bfIDFAMngucG5n&icon=.png)
-## 0603 公布足跡
+## 0603 公布確診數據
 ![06031](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80YWIzZTc0NS1kNDNhLTQ2MTEtOGUxOC0zMzlkZDFmMjdjMWYucG5n&n=5bel5L2c5Y2A5Z%2bfIDFAMngucG5n&icon=.png)
-## 0602 公布足跡
+## 0602 公布確診數據
 ![06021](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80YTQyYmEyZi05YmIzLTRiYTMtYmJlMS0wZTQ1NjRjZWNlYjcuanBn&n=MDYwMl80LmpwZw%3d%3d&icon=.jpg)
-## 0601 公布足跡
+## 0601 公布確診數據
 ![06011](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8wODU1Nzc4MC03ZTVhLTRlOTQtYmRhNS02M2VjZjZkMmE1ODcuanBn&n=MDYwMV8xLmpwZw%3d%3d&icon=.jpg)
 
-## 0531 公布足跡
+## 0531 公布確診數據
 ![05311](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jNGVkNzFkZi01YWE0LTQ1OGUtODY3ZS03YmUxYjhmOTYxZmIucG5n&n=MDUzMF8yQDJ4LnBuZw%3d%3d&icon=.png)
-## 0530 公布足跡
+## 0530 公布確診數據
 ![05301](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82YTVkMjNhOC1hMjE2LTQyNDYtOTk4ZS1lOTMyMTc1MTIwYjEuanBn&n=MDUzMF8yLmpwZw%3d%3d&icon=.jpg)
 ## 0529 公布確診數據
 ![05291](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8xM2U2ODRiMS1jMjRkLTRhYTgtODFlMi0zNDUzZTlkY2U1ZTYucG5n&n=MDUyOS0xLnBuZw%3d%3d&icon=.png)
