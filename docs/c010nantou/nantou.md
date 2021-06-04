@@ -2,6 +2,11 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0604 公布足跡
+![06041](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/194024452_1134090713669195_150493870894821938_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=K-9GYhPBfTYAX9Catsg&_nc_ht=scontent.ftpe7-3.fna&oh=d1e63f562e95b7517801f92adf8b9435&oe=60DF3401)
+![06042](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/187808680_1134090747002525_4971789088748652117_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=oZGjzfZcvCUAX_UedsS&_nc_ht=scontent.ftpe7-3.fna&oh=a6f9b651e298ed72c6b0aa377c7db2d9&oe=60DFD2BA)
+![06043](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/192748535_1134090767002523_3276750020026884020_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=j89OtT-BHBoAX-QPW2o&tn=rJmxBGEwxe0SUA4G&_nc_ht=scontent.ftpe7-3.fna&oh=beda9ba3048a27c34462d1e55eb50c8f&oe=60E1467C)
+![06044](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/191406184_1134090813669185_7800648231591372431_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=xNAC6M0HoygAX-CEBNc&_nc_oc=AQm82emNKqY9gqA_33PApnrrBPKB7ZbxuaNJa1IjOWAKwijfpBNGoBJfJlft-71dMSg&_nc_ht=scontent.ftpe7-3.fna&oh=bdbb31109d3608ad157863bd78e6fa00&oe=60DF284F)
 ## 0603 公布足跡
 無
 ## 0602 公布足跡

@@ -2,6 +2,8 @@
 title: 嘉義縣市確診案例
 tags: [covid-19, 嘉義縣市確診案例]
 ---
+## 0604 公布足跡
+![06041](https://extws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTQ2Mi9ja2ZpbGUvN2NlZDBlYWUtNTFlNS00ODY2LThlZmMtZTcxMmE5NjZiMzkzQDEwMjR4NzY4LmpwZw%3d%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ## 0603 公布足跡
 無
 ## 0602 公布足跡

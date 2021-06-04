@@ -7,6 +7,9 @@ tags: [covid-19, 台南縣市確診案例]
 台南市政府有做儀表板的足跡，把網址附帶給大家參考  
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 ___
+## 0604 公布足跡
+無
+
 ## 0603 公布足跡
 ![06031](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/191283006_4369108046474331_8074939126745569763_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=_1qOkvvPnKgAX9WGrLQ&_nc_ht=scontent.ftpe8-4.fna&oh=3dd40a96494e929b1d617ce5b75015b0&oe=60E01566)
 ![06032](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/188765138_4369108199807649_2180883017667219616_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=1VT2xfI0zLIAX95Dk1n&_nc_ht=scontent.ftpe8-4.fna&oh=0c8efed08aa95de8cee1afd42c3b956b&oe=60DEB20F)
