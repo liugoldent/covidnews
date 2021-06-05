@@ -2,6 +2,10 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0605 公布足跡
+![06051](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/195043495_3983165788385615_73867558790674482_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=yDTpO09M2PQAX_PVl9m&tn=rJmxBGEwxe0SUA4G&_nc_ht=scontent.ftpe7-4.fna&oh=6d4e06251c79ad342ee2319a32b155f7&oe=60E15987)
+![06052](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/191204229_3983165761718951_434041916936832584_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=l6xrZEsRI6sAX9E_NvA&tn=rJmxBGEwxe0SUA4G&_nc_ht=scontent.ftpe7-1.fna&oh=b9c6469172d72702c0c157d2e7432af9&oe=60E28634)
+![06053](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/190658940_3983165768385617_895216249030437272_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=fvB-8iDcrIYAX-4bN0q&_nc_ht=scontent.ftpe7-1.fna&oh=22c90386fab97db00899f1b6ad3fbe58&oe=60DFDFF6)
 ## 0604 公布足跡
 ![06041](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/189090174_3980417315327129_2559221139946983295_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=EjvG1LEHZYMAX_L9TSf&_nc_ht=scontent.ftpe7-4.fna&oh=8848dac3e685a87edb10df06459f2372&oe=60DF13FC)
 ![06042](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/193800719_3980417311993796_452597086622498538_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=6i7wmHoOoJEAX-BNUFQ&tn=rJmxBGEwxe0SUA4G&_nc_ht=scontent.ftpe7-4.fna&oh=e555186802daa5f3d07de7bfd1632cae&oe=60E0720C)
