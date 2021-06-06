@@ -2,6 +2,11 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0606 公布足跡
+![06061](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS8wNDA0MzM4Ni1jMWU4LTRkOTItYTVkMC1hOTA4ZjA3ODZhZWMucG5n&n=aW1hZ2UucG5n)
+![06062](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS82YTYxMTcwZi1lNDhkLTRmMDAtYTljNC0zMzNhNzIxNTlhYmUucG5n&n=aW1hZ2UucG5n)
+![06064](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS8wY2NmZDFiNi03NTY2LTQzMTQtYTFlNy1lYjIzNDZlZGExODIucG5n&n=aW1hZ2UucG5n)
+![06063](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS81MzIzMDIyNS04Y2YyLTRiMjktYjA1NC04ZGRlODM3ZDYxYWUucG5n&n=aW1hZ2UucG5n)
 ## 0605 公布足跡
 ![06051](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9kOGY5ZWRiYy02N2Q1LTQ2NWItOTc0MC1hOTZhMmRhN2FiNjYucG5n&n=aW1hZ2UucG5n)
 ![06052](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9hYTFjMzAyOS1jMzliLTQwMjItYWEzMy1hNTUxMjk4M2U2NGIucG5n&n=aW1hZ2UucG5n)

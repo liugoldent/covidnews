@@ -2,6 +2,9 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0606 公布足跡
+![06061](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0606%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/11253.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=o7LZV6LOXqWbH9JTbg2%2BwEfUUoI%3D)
+![06062](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0606%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/11254.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=QgiFr%2B%2BF6busaEN9LwmqSVZVyHo%3D)
 ## 0605 公布足跡
 ![06051](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0605%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%28%E5%B1%8F%E6%9D%B1%2910671.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Ug8WUqannh4wiFCYeZMFc2cXvG4%3D)
 ![06052](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0605%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/10672.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=0lvWrFGA1Afm7Aj8fHmTManbqpE%3D)

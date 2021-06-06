@@ -2,6 +2,8 @@
 title: 宜蘭縣確診案例
 tags: [covid-19, 宜蘭縣確診案例]
 ---
+## 0606 公布足跡
+無
 ## 0605 公布足跡
 ![06051](https://www.ilshb.gov.tw/uploads/images/subject/11006/0605-2.jpg)
 ## 0604 公布足跡

@@ -2,6 +2,8 @@
 title: 嘉義縣市確診案例
 tags: [covid-19, 嘉義縣市確診案例]
 ---
+## 0606 公布足跡
+![06061](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/613521/b6859dec-86d9-4bed-b1b3-6f43d78a5613.png)
 ## 0605 公布足跡
 ![06051](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/212556/42e1859f-1fe2-448b-805d-6e2375e24551.jpg)
 ![06052](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/212556/f834efcc-6f6a-4dff-87a4-efb607da54a6.jpg)

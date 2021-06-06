@@ -2,6 +2,10 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0606 公布足跡
+![06061](https://ws.hsinchu.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvZjkxMGU2ZjUtZTI2ZS00NzhlLWFlMTktYjIzNzIyODU5YTkzLmpwZw%3d%3d&n=6Laz6Leh5ZyWMi0yNl8wLmpwZw%3d%3d&icon=.jpg)
+![06062](https://ws.hsinchu.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvNmVhMzQxYWQtMDNhYy00YzNiLTk4MzctYmZiYWYyYjBjZDNjLmpwZw%3d%3d&n=6Laz6Leh5ZyWMi0yNy5qcGc%3d&icon=.jpg)
+![06063](https://ws.hsinchu.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvMTA0YWQyOGYtZmM4MC00YmFmLWJmYzktYjEwYjI2ZGRiZGNiLmpwZw%3d%3d&n=6Laz6Leh5ZyWMi0yOC5qcGc%3d&icon=.jpg)
 ## 0605 公布足跡
 ![06051](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202106051531081.jpg&flag=pic&filedisplay=23.jpg)
 ![06052](https://ws.hsinchu.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvOTYxMGFjZjUtYjU5Mi00MDc4LWExMWYtMmYwZmJiZjMyMTkzLmpwZw%3d%3d&n=6Laz6Leh5ZyWMi0yNi5qcGc%3d&icon=.jpg)

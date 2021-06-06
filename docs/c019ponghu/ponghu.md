@@ -2,6 +2,9 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0606 公布足跡
+![06061](https://www.penghu.gov.tw/uploadimg/lawcenter/202106061822030.jpg)
+
 ## 0605 公布足跡
 無
 
