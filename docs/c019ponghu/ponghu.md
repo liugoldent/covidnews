@@ -2,6 +2,10 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0607 公布足跡
+![06071](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/191278134_4112397675483653_468800788666331031_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=npdD6skkyNsAX8z7Sju&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-1.fna&oh=cff73b7797e2a16e3a81360904c8bf87&oe=60E36496)
+![06072](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/192235517_4112397632150324_2837565744528496535_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=4VtzaPfOt8wAX9kCqw9&_nc_ht=scontent.ftpe8-2.fna&oh=8ca04629818736a3404295ae2f2cd0a6&oe=60E44106)
+![06073](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/191569406_4112397708816983_1399154821594041501_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=B-y6bQrCeEMAX999lEz&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=e0e11b1d1440f24ffe86c5197d8f98c2&oe=60E53CEA)
 ## 0606 公布足跡
 ![06061](https://www.penghu.gov.tw/uploadimg/lawcenter/202106061822030.jpg)
 

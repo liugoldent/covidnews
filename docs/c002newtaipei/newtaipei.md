@@ -2,6 +2,9 @@
 title: 新北市確診案例
 tags: [covid-19, 新北市確診案例]
 ---
+## 0607 公布足跡
+![06071](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/189698233_4660176000666409_8669039117961723642_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=qB96FPOmMQkAX9PgIMF&_nc_ht=scontent.ftpe8-4.fna&oh=a958550dd09baf65b820ffa1b7e5fc03&oe=60E298E1)
+![06072](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/190995251_4660176013999741_5570733201062600760_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=0JD_F_0onD4AX8bXmPC&_nc_ht=scontent.ftpe8-1.fna&oh=486b132fd7071dc083e25203a1e4838b&oe=60E1C5E8)
 ## 0606 公布足跡
 ![06061](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/192656347_4657312667619409_8265195916147725312_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=4V7riHE10rkAX_iqUH8&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=f3e567e1b4129b34e28d6d1d4d0fe400&oe=60E0F5FD)
 ![06062](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/193299562_4657312067619469_801572065769658469_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=W_31rudviAQAX-5KunY&_nc_ht=scontent.ftpe8-1.fna&oh=cacdc91d6e79f7630e70974ee3c20ffd&oe=60E1A0FB)
