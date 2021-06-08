@@ -2,6 +2,12 @@
 title: 苗栗縣市確診案例
 tags: [covid-19, 苗栗縣市確診案例]
 ---
+## 0608 公布足跡
+![06081](https://www.mlshb.gov.tw/upload/15/2021060815031365620.jpg)
+![06082](https://www.mlshb.gov.tw/upload/15/2021060815032180468.jpg)
+![06083](https://www.mlshb.gov.tw/upload/15/2021060815033275371.jpg)
+![06084](https://www.mlshb.gov.tw/upload/15/2021060815035129959.jpg)
+![06085](https://www.mlshb.gov.tw/upload/15/2021060815042618952.jpg)
 ## 0607 公布足跡
 ![06071](https://www.mlshb.gov.tw/upload/15/2021060716541046140.jpg)
 ![06072](https://www.mlshb.gov.tw/upload/15/2021060716542048892.jpg)

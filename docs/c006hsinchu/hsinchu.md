@@ -2,6 +2,8 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0608 公布足跡
+![06081](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202106081518151.jpg&flag=pic&filedisplay=02.jpg)
 ## 0607 公布足跡
 ![06071](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202106071545011.jpg&flag=pic&filedisplay=02.jpg)
 * 案11491：40多歲男性，居住在寶山鄉，是本縣京元電子相關個案10977及10978的同住家人。個案在6月4日出現胸悶症狀，6月5日出現腹瀉症狀，但因為太太跟女兒於6月4日確診，已被衛生單位匡列為密切接觸者居家隔離，並於6月5日採檢，隔天6月6日PCR檢驗結果陽性確診，隨即安排救護車後送至醫院負壓病房隔離治療。

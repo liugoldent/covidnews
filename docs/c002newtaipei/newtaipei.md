@@ -2,6 +2,12 @@
 title: 新北市確診案例
 tags: [covid-19, 新北市確診案例]
 ---
+## 注意
+近期新北已更新此網站為足跡公布，在此附上連結  
+[新北災訊E點通](https://e.tpf.gov.tw/)
+## 0608 公布足跡
+![06082](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202106081624381.gif&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2868%E6%9B%B4%E6%96%B0%29.gif&flag=pic)
+![06081](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202106081624380.gif&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E7%B4%AF%E8%A8%88%E7%A2%BA%E8%A8%BA%2868%E6%9B%B4%E6%96%B0%29.gif&flag=pic)
 ## 0607 公布足跡
 ![06071](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/189698233_4660176000666409_8669039117961723642_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=qB96FPOmMQkAX9PgIMF&_nc_ht=scontent.ftpe8-4.fna&oh=a958550dd09baf65b820ffa1b7e5fc03&oe=60E298E1)
 ![06072](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/190995251_4660176013999741_5570733201062600760_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=0JD_F_0onD4AX8bXmPC&_nc_ht=scontent.ftpe8-1.fna&oh=486b132fd7071dc083e25203a1e4838b&oe=60E1C5E8)
