@@ -2,6 +2,8 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0609 公布足跡
+無
 ## 0608 公布足跡
 ![06081](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202106081518151.jpg&flag=pic&filedisplay=02.jpg)
 ## 0607 公布足跡
