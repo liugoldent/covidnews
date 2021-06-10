@@ -2,6 +2,8 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0610 公布足跡
+無
 ## 0609 公布足跡
 ![06091](https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/195420416_4117953964928024_3663588135492582341_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Vi_BOa_-HWgAX-yPfLJ&_nc_ht=scontent.ftpe7-2.fna&oh=bb0e99e74bbb2fe9aff13aed7f073f3f&oe=60E4498F)
 ![06092](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/192603844_4117953974928023_7448700172600927221_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=sklcm8R3VoUAX8kjb6m&_nc_ht=scontent.ftpe7-4.fna&oh=d9bce9d4f59523a386b243c6b953a1b9&oe=60E574C6)

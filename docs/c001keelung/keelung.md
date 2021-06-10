@@ -2,6 +2,12 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0610 公布足跡
+![06101](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/194350503_3997080183660842_6220729196832524450_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=pz2w3hOHKpAAX-q4-ef&_nc_ht=scontent.ftpe8-4.fna&oh=e51b204b44e34a71dc24af1de418b534&oe=60E94A2B)
+![06102](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/193311914_3997080176994176_3829482471430170271_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=-ogZBBlwrpcAX8L_U8c&_nc_ht=scontent.ftpe8-2.fna&oh=5f91855c3f5ef3d28bf5f938bd96a968&oe=60E7FBB4)
+![06103](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/196363669_3997080170327510_4227237603762249013_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=rlK6w0tCUSoAX-3CnK9&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=9cd8f4818acfbdddf7ff5c152228ee74&oe=60E8264F)
+![06104](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/192028952_3997080153660845_796757342475565206_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=R9MUEjBBiVEAX9FcKUy&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-3.fna&oh=93a259c86c0bcc85ff3451563825e9e9&oe=60E8B228)
+![06105](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/196744341_3997080163660844_1260999441472158276_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=1BDqbqj_tEoAX-0tbpU&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-1.fna&oh=68279d63dbc3cc07557911f4a9c4e3df&oe=60E83EA3)
 ## 0609 公布足跡
 ![06091](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/196143490_3994107200624807_5887596674537604411_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=ZEs2NNCYLA4AX-cR5jp&_nc_oc=AQlX7K1HvdNkafDYLcVxVGx1KQKFlBye2rC0A7o5iWlWcR7D_XQDn2PRDjTBamQzq80&_nc_ht=scontent.ftpe7-4.fna&oh=7c45371d67855891639db0865675977f&oe=60E63774)
 ![06092](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/191696202_3994107173958143_99047571476889294_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=R9pML20uUqQAX-AzQAY&_nc_ht=scontent.ftpe7-1.fna&oh=bbfc7cc04944e92ce14fdc4472befa18&oe=60E53FB8)
