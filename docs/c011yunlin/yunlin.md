@@ -2,6 +2,9 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0611 公布足跡
+![06111](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS85MDVmZDIzMi00NGY4LTQ1N2YtOGVjMy0yZjlkMDU5OWE1MmIucG5n&n=aW1hZ2UucG5n)
+![06112](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS82NGY0Y2JjOS0zMDZkLTRhOWUtYjQ3Mi1kYmY4MGY1YzQyMDgucG5n&n=aW1hZ2UucG5n)
 ## 0610 公布足跡
 無
 ## 0609 公布足跡
