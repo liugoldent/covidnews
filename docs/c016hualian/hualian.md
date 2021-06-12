@@ -2,6 +2,12 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0612 公布足跡
+![06121](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/191069706_4229180587120470_5488252408427815977_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=7K9Am9YNswsAX-B5Eaw&_nc_ht=scontent.ftpe7-3.fna&oh=fd82a663e9b3fbf7b2557ca2ecc25785&oe=60C9341B)
+![06122](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/199018420_4229180673787128_1477678857665185635_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=yvOfk7ol2zEAX99Ugsd&_nc_ht=scontent.ftpe7-4.fna&oh=676ec544a3858706411d7a7314f21aaf&oe=60C9A644)
+![06123](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/193983107_4229180700453792_4209216904217701417_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=ByTMVgu2OqYAX_aMfHU&_nc_ht=scontent.ftpe7-1.fna&oh=476ac604f4eebc1a6d41c87d26c772f1&oe=60C9DD79)
+![06124](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/192460245_4229180777120451_7075063246376376300_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Uz3vCfSAyPcAX_S-8GN&_nc_ht=scontent.ftpe7-3.fna&oh=57633114dbd81f65d758ecb3b1d1ca3a&oe=60CA282C)
+![06125](https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/194355418_4229180807120448_3270290966872740968_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=0s5HE1iYVtkAX9pzGrR&_nc_ht=scontent.ftpe7-2.fna&oh=dc36a76eb11586c50452132cdcc80ea0&oe=60C946A3)
 ## 0611 公布足跡
 ![06111](https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/199658363_4226178120754050_5209579760979322274_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=y3whkawettcAX-NS4rw&_nc_ht=scontent.ftpe7-2.fna&oh=9596e0fcfb1d7252c5d0619ea4ef7a56&oe=60C92504)
 ![06112](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/198178999_4226178214087374_2131348928298057301_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=61BOOO_HIZkAX9Y1caU&_nc_oc=AQkCrrdTM4IjPIfteRulxI9EYZnHH5aQzRIZuZaAxh2DLKf4gD8iWxnMNEaccKgL6Ek&_nc_ht=scontent.ftpe7-3.fna&oh=b08a1d5bbc516abe5916c4a4636a5e94&oe=60C8CAC5)
