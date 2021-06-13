@@ -2,6 +2,8 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0613 公布足跡
+![06131](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/197531379_4231909786847550_6710945275056537251_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=FzQf5B8FVPAAX9CCSa0&_nc_ht=scontent.ftpe7-3.fna&oh=20cacf9966c2610fb995391bc94ccfc6&oe=60CA839C)
 ## 0612 公布足跡
 ![06121](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/191069706_4229180587120470_5488252408427815977_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=7K9Am9YNswsAX-B5Eaw&_nc_ht=scontent.ftpe7-3.fna&oh=fd82a663e9b3fbf7b2557ca2ecc25785&oe=60C9341B)
 ![06122](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/199018420_4229180673787128_1477678857665185635_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=yvOfk7ol2zEAX99Ugsd&_nc_ht=scontent.ftpe7-4.fna&oh=676ec544a3858706411d7a7314f21aaf&oe=60C9A644)
