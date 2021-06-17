@@ -2,6 +2,9 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## 0617 公布足跡
+![06171](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/131382399_4242493275789201_1495548716611951041_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=emXdrJKZTAgAX9rZY6F&_nc_ht=scontent.ftpe7-3.fna&oh=f267c2d3b0cd5678a6c14315756df55f&oe=60CF937E)
+![06172](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/194474225_4242493289122533_4384156748041141762_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=jp4OH4Cky2kAX99Mfh5&_nc_ht=scontent.ftpe7-1.fna&oh=71a1f569309eaf4409c570d9d7dda9b1&oe=60CF3839)
 ## 0616 公布足跡
 ![06161](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/200930784_4239847382720457_6094045290758625377_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=_cdxT9ipra0AX83oTrk&_nc_ht=scontent.ftpe7-1.fna&oh=25a6940f7b17fc39478f602188a6bd53&oe=60CEF81A)
 ![06162](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/195130048_4239847409387121_3964836412637481095_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=N3FWt0UrTlUAX-G3fgV&_nc_ht=scontent.ftpe7-1.fna&oh=8b14aa6484dff84d0be8f623733c2c9a&oe=60CF5A87)
