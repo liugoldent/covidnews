@@ -2,6 +2,9 @@
 title: 彰化縣市確診案例
 tags: [covid-19, 彰化縣市確診案例]
 ---
+## 0620 公布足跡
+![06201](https://www2.chcg.gov.tw/UserFiles/0620%E4%B8%8B%E5%8D%88.jpg)
+![06202](https://www2.chcg.gov.tw/UserFiles/0620-%E4%B8%8A%E5%8D%88(1).jpg)
 ## 0619 公布足跡
 無
 ## 0618 公布足跡
