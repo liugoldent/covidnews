@@ -7,8 +7,10 @@ tags: [covid-19, 台南縣市確診案例]
 台南市政府有做儀表板的足跡，把網址附帶給大家參考  
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 ___
+## 0622 公布足跡
+![06221](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvZDI4ZGJiNGUtZDJlMS00MzhiLTliODItMmViMWRlMWZmMGY3LmpwZw%3d%3d&n=MTEwMDYyMuahiDE0MTI25Y%2bw5Y2X5biC5rS75YuV6Laz6LehLmpwZw%3d%3d&icon=.jpg)
 ## 0621 公布足跡
-![06211](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7779024/c0cef6ad-8a16-4b45-bb1b-158637102665@710x470.jpg)
+![06211](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvY2I0MjNiZDgtY2M0Zi00YzQyLTlkYWUtZTYyYTIxNDM3N2Q4LmpwZw%3d%3d&n=MTEwMDYyMeahiDE0MTAz6Ie65Y2X5biC5rS75YuV6Laz6LehLmpwZw%3d%3d&icon=.jpg)
 ## 0620 公布足跡
 無
 ## 0619 公布足跡
