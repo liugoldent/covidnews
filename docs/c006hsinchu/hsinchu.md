@@ -2,6 +2,10 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0623 公布足跡
+![06231](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8752/235613/c7cd0ed5-7299-404d-88e8-98d5a94609c8.jpg)
+![06232](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8752/235613/b49acb6a-17a2-46d6-ad9a-83d8801760d5.jpg)
+![06233](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8752/235613/902281be-8936-409d-bfc2-09458e57c561.jpg)
 ## 0622 公布足跡
 ![06221](https://ws.hsinchu.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvM2ZmNDYyNDctN2Q0Ni00MjhkLTkyNGMtZDE4NTMwZjM0ZDVkLmpwZw%3d%3d&n=6Laz6Leh5ZyWMDYyMl8yLTAxLmpwZw%3d%3d&icon=.jpg)
 ## 0621 公布足跡
