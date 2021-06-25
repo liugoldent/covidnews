@@ -2,6 +2,8 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0625 公布足跡
+![06251](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0625%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%9C%AC%E5%B8%82%E6%B4%BB%E5%8B%95%E5%8F%B2%E6%A8%A1%E7%89%88.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=wq8nUG6wwJJKVzsgZfmXBbLyxYQ%3D)
 ## 0624 公布足跡
 ![06241](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0624%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%871.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=1lQAycpiHXhJx2aigHHFBEvd0EA%3D)
 ![06242](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0624%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%872.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=ymMFSZHNvwzRrdwuC3Vc22TGwLw%3D)

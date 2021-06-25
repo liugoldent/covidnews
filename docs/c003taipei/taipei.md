@@ -2,6 +2,8 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0625 公布確診數據
+![06251](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82OGNhZWNjZS1kOGZhLTRlNjctOTY0MC0xOTE3YzFlMzllYjUucG5n&n=5ZyW54mHMi5wbmc%3d&icon=.png)
 ## 0624 公布確診數據
 ![06241](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80NjI4MjQwZC03YmQ0LTQxYmYtODNjNi04YmU1NTBjNWFkNjEuanBn&n=U19fMzA3NjA5NjcuanBn&icon=.jpg)
 ![06242](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yYzI3NjZlMS0wM2FiLTQ0MGEtYTkzNC1iMTdiYzk4YjhkYmIuanBn&n=U19fMzA3NjA5NzAuanBn&icon=.jpg)
