@@ -2,6 +2,9 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0627 公布足跡
+![06271](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/203891872_1148848645526735_3576161544194515576_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Rxr02B9TyuYAX_yoSSV&_nc_ht=scontent.ftpe8-4.fna&oh=5faae5519266d6c97bbbb3bcec2dc71c&oe=60DCD1A2)
+![06272](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/208671527_1148848595526740_4777826888548001903_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=XUN9GtBjpcUAX-PVtLB&_nc_ht=scontent.ftpe8-3.fna&oh=07f83a99751e453abed63a7c3d364311&oe=60DC9F0F)
 ## 0626 公布足跡
 ![06261](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/208348502_1148223515589248_7606449298177154328_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=i5_IjMH2yJ0AX_a8xoy&_nc_ht=scontent.ftpe8-1.fna&oh=1276f3b02fe5125cfc681dae40db4dd6&oe=60DB36AA)
 ## 0625 公布足跡
