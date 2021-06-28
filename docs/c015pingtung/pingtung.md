@@ -2,6 +2,8 @@
 title: 屏東縣確診案例
 tags: [covid-19, 屏東縣確診案例]
 ---
+## 0628 公布足跡
+無
 ## 0627 公布足跡
 ![06271](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/200973361_10159228239310631_1844802947761715335_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=QoSBU-US92kAX8096IA&_nc_ht=scontent.ftpe8-1.fna&oh=61ab716e195e014c88fe416c83da5209&oe=60DDAD68)
 ## 0626 公布足跡
