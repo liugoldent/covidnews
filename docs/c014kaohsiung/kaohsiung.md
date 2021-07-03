@@ -2,28 +2,50 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+
+## 0703 公布足跡
+無
 ## 0702 公布足跡
+
 ![07021](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0702%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%A8%E5%9C%8B%E6%A1%8814805%E6%B4%BB%E5%8B%95%E5%8F%B2%E6%A8%A1%E7%89%88%200702.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=vaiBNBIoePYozLsyh3Q9LJ6H0PI%3D)
+
 ## 0701 公布足跡
+
 ![07011](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0701%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14928%20.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=tFM/Yx9YgznfxeSW1O/dqQl6ltI%3D)
+
 ## 0630 公布足跡
+
 ![06301](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0630%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/0630%E6%B4%BB%E5%8B%95%E5%8F%B2.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=qM7T6pKxK5Z60O6WTCXYkxhKO6U%3D)
 ![06302](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0630%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/1625034175136.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Gh1%2BVta3FtjWwZYJfp31hUkyaWA%3D)
+
 ## 0629 公布足跡
+
 無
+
 ## 0628 公布足跡
+
 無
+
 ## 0627 公布足跡
+
 無
+
 ## 0626 公布足跡
+
 無
+
 ## 0625 公布足跡
+
 ![06251](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0625%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%9C%AC%E5%B8%82%E6%B4%BB%E5%8B%95%E5%8F%B2%E6%A8%A1%E7%89%88.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=wq8nUG6wwJJKVzsgZfmXBbLyxYQ%3D)
+
 ## 0624 公布足跡
+
 ![06241](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0624%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%871.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=1lQAycpiHXhJx2aigHHFBEvd0EA%3D)
 ![06242](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0624%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%872.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=ymMFSZHNvwzRrdwuC3Vc22TGwLw%3D)
 ![06243](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0624%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%873.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=NfXnYUMkmc03X6t03iocBAjP8t0%3D)
+
 ## 0623 公布足跡
+
 ![06231](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14299.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=royjLwW4kkNryFDoQKTgXSfUrrE%3D)
 ![06232](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14300.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=QlWjUGh736AIVjolGZzdtdYTqXM%3D)
 ![06233](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14302.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=qdPRZULNwWS%2BrpMRMnmF6Bnz8ao%3D)
@@ -31,65 +53,114 @@ tags: [covid-19, 高雄市確診案例]
 ![06235](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14358.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=tr7b5jtdXW9Mb%2B2TtyKY0nPBDHA%3D)
 ![06236](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14359.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=/c3vT9fv3qXksWzaWa9VMMeSsKY%3D)
 ![06237](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0623%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/14361.jpg?Expires=1640880000&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=8kMg/riwdTUQiuwYhw%2Bp29Q3FO8%3D)
+
 ## 0622 公布足跡
+
 無
+
 ## 0621 公布足跡
+
 無
+
 ## 0620 公布足跡
+
 無
+
 ## 0619 公布足跡
+
 無
+
 ## 0618 公布足跡
+
 無
+
 ## 0617 公布足跡
+
 無
+
 ## 0616 公布足跡
+
 無
+
 ## 0615 公布足跡
+
 無
+
 ## 0614 公布足跡
+
 無
+
 ## 0613 公布足跡
+
 無
+
 ## 0612 公布足跡
+
 無
+
 ## 0611 公布足跡
+
 無
+
 ## 0610 公布足跡
+
 無
+
 ## 0609 公布足跡
+
 無
+
 ## 0608 公布足跡
+
 無
+
 ## 0607 公布足跡
+
 無
+
 ## 0606 公布足跡
+
 ![06061](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0606%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/11253.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=o7LZV6LOXqWbH9JTbg2%2BwEfUUoI%3D)
 ![06062](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0606%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/11254.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=QgiFr%2B%2BF6busaEN9LwmqSVZVyHo%3D)
+
 ## 0605 公布足跡
+
 ![06051](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0605%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%28%E5%B1%8F%E6%9D%B1%2910671.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Ug8WUqannh4wiFCYeZMFc2cXvG4%3D)
 ![06052](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0605%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/10672.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=0lvWrFGA1Afm7Aj8fHmTManbqpE%3D)
+
 ## 0604 公布足跡
+
 ![06041](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0604%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/10472.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=rZ60SEFWWe0%2B5lUlSHT51rKTlhs%3D)
 
 ## 0603 公布足跡
-無（個案發病前3日居家隔離中，故無本市公共場所活動史）
+
+無（個案發病前 3 日居家隔離中，故無本市公共場所活動史）
+
 ## 0602 公布足跡
+
 ![06021](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%871.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=vw0Rowv76FHRTMGfzLRJbY8b7I0%3D)
 ![06022](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%872.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=D2f5VfPcbGgTXKjSUR0%2BIn8PqB4%3D)
 ![06023](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%874.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Dgi%2BQXgFUyaPT7uPzaI5lm0OaAY%3D)
 ![06024](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%E6%8A%95%E5%BD%B1%E7%89%873.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=wdURnvt49clTSUoyMRUkDo2G7IM%3D)
 ![06025](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/8563.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=1UUQE%2BztAXkPKl2RZ0PLaGkxg4Y%3D)
 ![06026](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0602%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%28%E6%96%B0%E5%8C%97%298696.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=b4v8wXcpUlokZ3reJN6E1iTrbh0%3D)
+
 ## 0601 公布足跡
+
 無
 
 ## 0531 公布足跡
+
 ![05311](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0531%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/%28%E6%BE%8E%E6%B9%96%298433.jpg?Expires=1661875200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=PcH1UEFgskFX3zlb6iIviYNrpkA%3D)
+
 ## 0529 公布足跡
+
 ![05291](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0529%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/7810%E6%B4%BB%E5%8B%95%E5%8F%B2%E6%A8%A1%E6%9D%BF.jpg?Expires=1664467200&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=5ErbAVh2%2BuYdhbWRo/K3/iuyicQ%3D)
+
 ## 0528 公布足跡
+
 ![05281](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/0528%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/7010.jpg?Expires=1664294400&response-cache-control=0&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Signature=Ix0pDleWiCk4SKCRYg92O3x4hMI%3D)
+
 ## 0527 公布足跡
 
 ![052721](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzYxN2JiMWFjLWFmMGEtNGY1Mi1iNjVhLTE4YzQwZjgxZTlhOEAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMy5qcGc%3d&Icon=.jpg)
@@ -102,25 +173,35 @@ tags: [covid-19, 高雄市確診案例]
 ![052728](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQyM2Q3YzMzLTA0YWQtNGI2MC04MDEzLWIyNmUxYzI4YTY0ZUAxMDI0eDc2OC5qcGc%3d&n=Njc3MC5qcGc%3d&Icon=.jpg)
 ![052729](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUwOTc0Y2UzLTBlYmQtNGJmNy05ZTU0LTkwNTFjNTYyNGVkZkAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ![0527210](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzAwZjMwZTZlLTUwZWQtNDI2Yi04ZmUxLTFmOWRmMjVkNjNmMEAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMi5qcGc%3d&Icon=.jpg)
+
 ## 0526 公布足跡
+
 ![05261](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUxZDQzMTUxLTg0ZTEtNDAzYy05ODNkLWYzODAzZGMxMTQzOUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ![05262](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Y3Mzc5MmFiLTc5ZjMtNGMxMy1iYmIzLWEwMzAyNjY4NTFiN0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMigxKS5qcGc%3d&Icon=.jpg)
 ![05263](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzk2MzcwYTkzLTZlYmEtNDFjNS1iMzgwLTI1OTY1NGIwN2EwYUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMy5qcGc%3d&Icon=.jpg)
 ![05264](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Q5Y2Y3MmRhLTY1OTktNDY1NC1iYjI0LTc0OWJlNzg4OGQ1YkAxMDI0eDc2OC5qcGc%3d&n=NTQ1Ni5qcGc%3d&Icon=.jpg)
+
 ## 0525 公布足跡
+
 ![05251](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQ4YzIxOTZmLThkM2UtNDg1Yi04NTQ0LWRjYzI1YzAzNDE3NkAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
 ![05252](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2FiMGE0NDY2LTA3NDUtNGU4Mi04MTYwLWVjMTIzNjk5NGM4MUAxMDI0eDc2OC5qcGc%3d&n=5YWs5YWx5rS75YuV5Y%2by6Laz6LehLmpwZw%3d%3d&Icon=.jpg)
 ![05253](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzBjZDRlZGRkLTRjZDEtNGEzNS04MDYxLTM5NjU4Y2M4NDJkM0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMy5qcGc%3d&Icon=.jpg)
+
 ## 0524 公布足跡
+
 ![05241](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzkwMjc1MDA5LTQ2YTItNDY5MC1iZGMyLWVlZDk1NmY0ZGExNEAxMDI0eDc2OC5qcGc%3d&n=NDc0Mi5qcGc%3d&Icon=.jpg)
 ![05241](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2JlYzQ0YTViLTg5NjUtNDYwMC04MGRmLTFiOGJlY2RhNGI4NkAxMDI0eDc2OC5qcGc%3d&n=NDc0My5qcGc%3d&Icon=.jpg)
 ![05241](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzNmOTA0NDkzLWY2YzMtNDc0Yy1hOTdkLWIwNTQyYThkMTkyNEAxMDI0eDc2OC5qcGc%3d&n=MTEwMDUyNDAwMDIuanBn&Icon=.jpg)
 ![05241](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzE5NThiOGMyLWE2YzQtNGY0Ni05ZDc1LTYyZmJlYWFiYzgyOEAxMDI0eDc2OC5qcGc%3d&n=MTEwMDUyNDAwMDEuanBn&Icon=.jpg)
+
 ## 0523 公布足跡
+
 ![05231](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzBmNjI2MjEzLTQ5NzktNDczYy1iMWZhLTkxMDkxZjdiMzhlMUAxMDI0eDc2OC5qcGc%3d&n=U19fODU0NzU1MDEuanBn&Icon=.jpg)
 ![05232](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzkyZjYwODk5LTVkYzEtNDkzNy1hZWJkLTdkMTcwN2IwYjRmOEAxMDI0eDc2OC5qcGc%3d&n=U19fODU0NzU1MDQuanBn&Icon=.jpg)
 ![05233](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQ1OTNjOTk3LTgzMTQtNDZmZS05YjY1LTZiNTY3ZTBkZDAzNkAxMDI0eDc2OC5qcGc%3d&n=MTEwMDUyMi3mnKzluILmoYgyMDbmlrzpq5jpm4TluILlhazlhbHloLTmiYDmtLvli5Xlj7IuanBn&Icon=.jpg)
+
 ## 0522 公布足跡
+
 ![0522足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzUwMjRjYTAyLWVkYTktNDRhNi04MmE3LTQ1N2FhMzkyZWEzOUAxMDI0eDc2OC5qcGc%3d&n=U184NTMzMTIzNDUuanBn&Icon=.jpg)
 ![0522足跡2](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzQ0MzI3N2M4LTYzYzYtNDcwZC1hMTE0LWI4ZDVlNWJlODUxZEAxMDI0eDc2OC5qcGc%3d&n=U19fODUzMzYxNDQuanBn&Icon=.jpg)
 ![0522足跡3](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzgzNTFiZjQ0LThlZTctNDZjNi05NjVmLTcxNWFhNGNmNzc2M0AxMDI0eDc2OC5qcGc%3d&n=U19fODUzMzYxNDcuanBn&Icon=.jpg)
@@ -128,18 +209,22 @@ tags: [covid-19, 高雄市確診案例]
 ![0522足跡5](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2QxMGFlMGM2LWE2ZmItNDFiZC05NzI2LWM3N2NkYjhkYjgwY0AxMDI0eDc2OC5qcGc%3d&n=U19fODUzMzYxNDkuanBn&Icon=.jpg)
 ![0522足跡6](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzk0NTgyY2U5LTkwODMtNDJkYi04MGRkLTY5NjYyZmM4NDA2OUAxMDI0eDc2OC5qcGc%3d&n=U19fODUzMzYxNTAuanBn&Icon=.jpg)
 ![0522足跡7](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzdkYmMwN2Q4LTA2ZWItNGFhYy05MGFlLWRjM2ZhOTMwMmY0M0AxMDI0eDc2OC5qcGc%3d&n=U19fODUzMzYxNTEuanBn&Icon=.jpg)
+
 ## 0521 公布足跡
+
 ![0521足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2FkY2U0MTU5LTJlN2MtNGQ5Zi1iZTI4LTUxZGYzZTI3MjI4MUAxMDI0eDc2OC5qcGc%3d&n=Mjk2My5qcGc%3d&Icon=.jpg)
 ![0521足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzM3ZTA5OGE0LTNmN2UtNDNiYS1iOWNjLTdkYTQ0ZWNhYWU3OUAxMDI0eDc2OC5qcGc%3d&n=Mjk2NC5qcGc%3d&Icon=.jpg)
 ![0521足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2YyNmVjMDcyLTNmMzEtNDViNy1hZGY2LTQ1YzQwN2QxZWIyMEAxMDI0eDc2OC5qcGc%3d&n=Mjk2NS5qcGc%3d&Icon=.jpg)
 ![0521足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2M3OGE0OTdkLWQwYTMtNDgzMy05OGI5LWUyMmYyYzIwYmE5ZUAxMDI0eDc2OC5qcGc%3d&n=MzE0Ni5qcGc%3d&Icon=.jpg)
 
-
 ## 0520 公布足跡
+
 ![0520足跡1](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2NiZGEzZjY4LThiY2ItNDQ4ZS1hZTI1LTZhZjI5YjMyYWYxN0AxMDI0eDc2OC5qcGc%3d&n=MjMzNua0u%2bWLleWPsi5qcGc%3d&Icon=.jpg)
 ![0520足跡2](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzYyNGYzMjUxLWVkMTctNGYwNS1iMTkyLTY4ODYxMjJlM2MyZkAxMDI0eDc2OC5qcGc%3d&n=MjcxNOa0u%2bWLleWPsi5qcGc%3d&Icon=.jpg)
 ![0520足跡3](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2UwMmU4YjE2LTc2MTgtNDY2Zi1iNTYzLTU4MmIyOTBkMDFmMUAxMDI0eDc2OC5qcGc%3d&n=MjcxNea0u%2bWLleWPsi5qcGc%3d&Icon=.jpg)
+
 ## 0519 公布足跡
+
 ![0519確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2RkMzQ3ZjIyLTZkYTgtNDFmMi1hMjRlLTMyZmRkNTQ5ZWZlYUAxMDI0eDc2OC5qcGc%3d&n=5YWo5ZyLMjUzMea0u%2bWLleWPsi5qcGc%3d&Icon=.jpg)
 ![0519確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2Q1NDI0MDYxLWMzY2UtNDY2Ni04ZWQ0LWU0OWEzY2M2ZmRmMUAxMDI0eDc2OC5qcGc%3d&n=5YWo5ZyLMjUzMua0u%2bWLleWPsi5qcGc%3d&Icon=.jpg)
 ![0519確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzc2MTlmOGIxLTFkNjItNDFlMS04M2RhLTY2ZjEzOTM4NTczMUAxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHMS5qcGc%3d&Icon=.jpg)
@@ -150,8 +235,10 @@ tags: [covid-19, 高雄市確診案例]
 ![0519確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzYwNTA1M2NhLTQzNjMtNDAzNy04ZjlhLWU2ZmQ0NGEzY2VmN0AxMDI0eDc2OC5qcGc%3d&n=5oqV5b2x54mHOS5qcGc%3d&Icon=.jpg)
 
 ## 0518 公布足跡
+
 ![0518確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlL2RjNDU4ZjhkLTc3OGQtNGVjNS1iNzFiLWNlZmJkMTU1NWUwNkAxMDI0eDc2OC5qcGc%3d&n=MjA2OeahiCjlhazluIPml6XmnJ8yMDIxMDUxOCkuanBn&Icon=.jpg)
 ![0518確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzNhNjE0YWMzLTkxN2UtNGZmNC05MDkzLTM5MjllYTQ4NDQ4M0AxMDI0eDc2OC5qcGc%3d&n=MjE1MOahiCjlhazluIPml6XmnJ8yMDIxMDUxOCkuanBn&Icon=.jpg)
 
 ## 0515 公布足跡
+
 ![0515確診](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzY4OGNkODY4LTBlM2EtNDJmYi1iMTZiLTkxNzhlZjM4ODY5ZUAxMDI0eDc2OC5qcGc%3d&n=MTI4Oei2s%2bi3oeWPsuWcluWNoS5qcGc%3d&Icon=.jpg)
