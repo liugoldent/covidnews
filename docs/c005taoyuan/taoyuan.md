@@ -2,7 +2,11 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+
+## 0704 公布足跡
+![07041](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/205873592_4444441245567481_1751925385486463217_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=l5vvGeB_sYAAX9Oj4Ji&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-3.fna&oh=2f887841d47d6753f5a2fc707b2fcb19&oe=60E5D18A)
 ## 0703 公布足跡
+
 ![07031](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/203517764_4441761859168753_8157995743770768109_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=-t8aZieEdh8AX_3OoXY&_nc_ht=scontent.ftpe8-3.fna&oh=4f0b1a318c0c3de53b6ef7c198b28303&oe=60E5E70F)
 ![07032](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/207018644_4441761925835413_3784333309992574018_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=41p7h96wYaUAX-xAeON&_nc_ht=scontent.ftpe8-3.fna&oh=4ed8aa27f239a41212a48e2702037c8d&oe=60E5C65B)
 ![07033](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/204484740_4441761875835418_8332782274980956521_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=tqzOLKV2nb0AX8w8muW&_nc_ht=scontent.ftpe8-3.fna&oh=166f50dc97b41675f4a80493aba669b8&oe=60E49C80)
