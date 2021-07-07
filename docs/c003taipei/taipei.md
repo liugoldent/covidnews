@@ -3,7 +3,7 @@ title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
 ## 0707 公布確診數據
-無
+![07071](https://s.newtalk.tw/album/news/601/60e55ecd536df.jpg)
 ## 0706 公布確診數據
 無
 ## 0705 公布確診數據
