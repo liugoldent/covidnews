@@ -9,20 +9,37 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
+
+## 0711 公布足跡
+無
 ## 0710 公布足跡
+
 無
+
 ## 0709 公布足跡
+
 無
+
 ## 0708 公布足跡
+
 無
+
 ## 0707 公布足跡
+
 無
+
 ## 0706 公布足跡
+
 無
+
 ## 0705 公布足跡
+
 無
+
 ## 0704 公布足跡
+
 無
+
 ## 0703 公布足跡
 
 無

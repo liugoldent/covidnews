@@ -2,6 +2,8 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0711 公布足跡
+無
 ## 0710 公布足跡
 ![07101](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1625901466771.jpg)
 ## 0709 公布足跡
