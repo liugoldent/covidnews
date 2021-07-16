@@ -2,6 +2,10 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0716 公布確診數據
+![07161](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82YjQ2NWE5Yi1lNDllLTRlYTItYjI4ZS0xYzdlNzVmYjdlMDcucG5n&n=5bel5L2c5Y2A5Z%2bfIDRAMngucG5n&icon=.png)
+![07162](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82Mjk0MmRiMi0wN2JmLTQ0MGYtOWVmYy0yMGI0MWE2MWZlOWUucG5n&n=5bel5L2c5Y2A5Z%2bfIDVAMngucG5n&icon=.png)
+![07163](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9lN2Q0Y2RhOS0xYWE0LTRmNjQtOThmMS01NzhiMDY2NGUzZTgucG5n&n=5bel5L2c5Y2A5Z%2bfIDEwQDJ4LnBuZw%3d%3d&icon=.png)
 ## 0715 公布確診數據
 ![07151](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83MGRlY2IyOC05YmU0LTQ2NDMtYmE3Ny02MjljZTNjZGI3MTkuanBn&n=NjAwOTY5TkVXLmpwZw%3d%3d&icon=.jpg)
 ![07152](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iMWQ1MGQ0Ni04MzA0LTQ2ZWItOTY2ZS0yYTJiMzM0ODg2NTEuanBn&n=NjAwOTU5LmpwZw%3d%3d&icon=.jpg)
