@@ -2,6 +2,11 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0717 公布確診數據
+![07171](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mMmUzMmU0My01NmE4LTQwNmUtOGU2Yy00YjhkMzZjNzc1OWIuanBn&n=NjAxOTc4LmpwZw%3d%3d&icon=.jpg)
+![07172](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8wZGI2MjVhZC0zYzI4LTQ3ZDgtOTZmYi1hMTAxODUxMTcxZDMuanBn&n=NjAxOTc5LmpwZw%3d%3d&icon=.jpg)
+![07173](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yNTI0ZjJhMC0yYzMyLTRlY2ItOWIyNC0wYjYzZGQ5YTU2OTYuanBn&n=NjAxOTgwLmpwZw%3d%3d&icon=.jpg)
+
 ## 0716 公布確診數據
 ![07161](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82YjQ2NWE5Yi1lNDllLTRlYTItYjI4ZS0xYzdlNzVmYjdlMDcucG5n&n=5bel5L2c5Y2A5Z%2bfIDRAMngucG5n&icon=.png)
 ![07162](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82Mjk0MmRiMi0wN2JmLTQ0MGYtOWVmYy0yMGI0MWE2MWZlOWUucG5n&n=5bel5L2c5Y2A5Z%2bfIDVAMngucG5n&icon=.png)
