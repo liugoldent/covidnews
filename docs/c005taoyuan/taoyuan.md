@@ -3,6 +3,10 @@ title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
 
+## 0723 公布足跡
+![07231](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/223669913_4498574823487456_546309614131603888_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=cvaMocy4kwoAX-0Qnly&_nc_ht=scontent-tpe1-1.xx&oh=f259a6e92cdb10b2f4b30f061ccaf302&oe=60FEECB6)
+![07232](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/222777442_4498574876820784_2269643721622786892_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=IdKlhNDAIGgAX88Bd9r&_nc_ht=scontent-tpe1-1.xx&oh=aadcaa4bf003b635b12c65e6a625c4c0&oe=60FFCFE2)
+![07233](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/222621033_4498574840154121_6617991655787719554_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=RyaPwzMqMY8AX_33m6t&_nc_oc=AQmi00T6VKMl1UDd8KCi-Q5UN1WNJvXRVFgekWRzatPbcqJffeL-BM9DQyvH5zrH64c&_nc_ht=scontent-tpe1-1.xx&oh=d08a9a8b935b42babcb3d2dd8b14d82f&oe=61008CB9)
 ## 0722 公布足跡
 ![07221](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/222383995_4495568410454764_1648577668027517316_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=ioYttRfQBpEAX9PKU_1&tn=6F7lfqceLXSnSvox&_nc_ht=scontent-tpe1-1.xx&oh=0d9d0f513adea5c548e48666f577d8bc&oe=60FD9B4C)
 ![07222](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/222332858_4495568460454759_7095399784506051687_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=oTm5pU1dv3AAX_TKw9D&_nc_ht=scontent-tpe1-1.xx&oh=6333a611c473875d189e1e7d366a2356&oe=60FF2E06)

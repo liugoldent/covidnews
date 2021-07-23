@@ -3,6 +3,8 @@ title: 宜蘭縣確診案例
 tags: [covid-19, 宜蘭縣確診案例]
 ---
 
+## 0723 公布足跡
+![07231](https://www.ilshb.gov.tw/uploads/images/subject/11007/0723-3.jpg)
 ## 0722 公布足跡
 無
 ## 0721 公布足跡
