@@ -3,7 +3,11 @@ title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
 
+## 0725 公布足跡
+![07251](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/224083869_4504448222900116_8612973543245438728_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=KcxaH2rwXBEAX_gZfl1&_nc_ht=scontent.ftpe8-2.fna&oh=00ae7a21cd038c8a5f3a6acd23824f5f&oe=6101FCB0)
+
 ## 0724 公布足跡
+
 無
 
 ## 0723 公布足跡
