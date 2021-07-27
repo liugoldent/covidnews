@@ -3,6 +3,8 @@ title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
 
+## 0727 公布足跡
+![07271](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8752/236299/5d2baed8-a91d-48be-856d-cfffa23e3ddd.jpg)
 ## 0726 公布足跡
 無
 ## 0725 公布足跡
