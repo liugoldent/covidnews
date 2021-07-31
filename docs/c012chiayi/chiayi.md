@@ -3,7 +3,11 @@ title: 嘉義縣市確診案例
 tags: [covid-19, 嘉義縣市確診案例]
 ---
 
+## 0731 公布足跡
+![07311](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/618486/5caa74d0-624c-49e4-8f60-0b8df7410d16.jpg)
+![07312](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/220205/9f3375ca-0966-4ab4-9761-19390427684f.jpg)
 ## 0730 公布足跡
+
 ![07301](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/618420/e79efc4d-bf77-4a57-b44e-cda27216cba5.jpg)
 ![07302](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/618420/abed929f-c778-44c9-a6be-afb27328e766.jpg)
 ![07303](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/220101/9966fce1-3d46-463b-bc53-4675ef12a0b0.jpg)
@@ -13,15 +17,25 @@ tags: [covid-19, 嘉義縣市確診案例]
 ![07307](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/220101/59fe5c31-5674-4c45-bddd-09e355e70b6b.jpg)
 ![07308](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/220101/6aa262d7-0597-43a9-9972-fd177b35f1dd.jpg)
 ![07309](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/220101/7fc8fc42-5cec-4c41-861b-ee6dfd35291b.jpg)
+
 ## 0729 公布足跡
+
 無
+
 ## 0728 公布足跡
+
 無
+
 ## 0727 公布足跡
+
 無
+
 ## 0726 公布足跡
+
 無
+
 ## 0725 公布足跡
+
 無
 
 ## 0724 公布足跡

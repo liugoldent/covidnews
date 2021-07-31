@@ -3,22 +3,38 @@ title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
 
+## 0731 公布足跡
+
+![07311](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/225024047_4522083174469954_666462491525735264_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=oP6nxQivPVwAX_j7P3E&_nc_ht=scontent.ftpe8-4.fna&oh=1f863af5665c931de5c01fb28afe1559&oe=610AD0C1)
+![07312](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/223472823_4522083191136619_4545585778390325136_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=2CafFckmkNsAX8Rm-CJ&_nc_ht=scontent.ftpe8-4.fna&oh=aa9941471fbc88c982b403c63e84cb5e&oe=61093E2A)
+
 ## 0730 公布足跡
+
 無
+
 ## 0729 公布足跡
+
 ![07291](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/226127873_4516159151729023_7119573738788762533_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=B-JhAhAMEGEAX-Ti36b&tn=6F7lfqceLXSnSvox&_nc_ht=scontent-tpe1-1.xx&oh=6f89c9b71378c28aefd512ccd1639f20&oe=6106C15E)
 ![07292](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/224981403_4516159178395687_1286597656289310951_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=nkJm7qwJP94AX-bSFa1&_nc_ht=scontent-tpe1-1.xx&oh=4965cf22a195614d12c060b3b53dd898&oe=6107C362)
+
 ## 0728 公布足跡
+
 ![07281](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/228335052_4513226225355649_8394529507092686207_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=2OPfRGagKYkAX-Cg5TO&tn=6F7lfqceLXSnSvox&_nc_ht=scontent-tpe1-1.xx&oh=76e2ecad080f0fb4e854e16feb697063&oe=610715A1)
 ![07282](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/228012056_4513226128688992_1631285387928279755_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gxn8FGIbIkQAX9oOWwT&tn=6F7lfqceLXSnSvox&_nc_ht=scontent-tpe1-1.xx&oh=b836ed721545976c52a81a1d6104ec71&oe=61057405)
 ![07283](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/226392557_4513226185355653_9070441388558429513_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=FKbzm5XwWS0AX_Ee70a&tn=6F7lfqceLXSnSvox&_nc_ht=scontent-tpe1-1.xx&oh=7099100233859968afee2f446aef551c&oe=6105AC4C)
+
 ## 0727 公布足跡
+
 ![07271](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/227146976_4510242972320641_1994127518026000436_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=3iR4Rvgp87gAX-_Tezq&_nc_ht=scontent-tpe1-1.xx&oh=e511b8f19bd048ffbc56ba78b58c0c54&oe=6104800D)
 ![07272](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/226663874_4510242982320640_8388544109017288406_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=3UYDR_zZvC8AX-CKx8q&_nc_ht=scontent-tpe1-1.xx&oh=6006972149662aa7497b3a1b2d5c8370&oe=61045F38)
 ![07273](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/225567028_4510243062320632_2188305996561872680_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=IyPSr9a8agQAX-xjVHK&_nc_ht=scontent-tpe1-1.xx&oh=88edc2d9b343252de782ac38dcb5b3be&oe=610438F6)
+
 ## 0726 公布足跡
+
 ![07261](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/226077018_4507372849274320_2573561612748745286_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=-43vfiAopBUAX-Vr6yi&_nc_ht=scontent-tpe1-1.xx&oh=977eb67d2f382f7a1e045933fdd7db71&oe=6102D32A)
+
 ## 0725 公布足跡
+
 ![07251](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/224083869_4504448222900116_8612973543245438728_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=KcxaH2rwXBEAX_gZfl1&_nc_ht=scontent.ftpe8-2.fna&oh=00ae7a21cd038c8a5f3a6acd23824f5f&oe=6101FCB0)
 
 ## 0724 公布足跡
