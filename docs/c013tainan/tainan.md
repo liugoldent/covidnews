@@ -10,6 +10,9 @@ tags: [covid-19, 台南縣市確診案例]
 
 ---
 
+## 0803 公布足跡
+![08031](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvMGJlNjM4OTQtNjY0ZS00NmI1LThlZWYtZDMwMGE3OTkyYjcyLmpwZw%3d%3d&n=5qGIMTU4MTblj7DljZfluILmtLvli5XotrPot6EuanBn&icon=.jpg)
+![08032](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvODk2NTNmZjctN2VhZC00ZTU5LTkwZjQtNGYxYWVhMzViMTY2LmpwZw%3d%3d&n=5qGIMTU4MTbos4foqIrlj4rmjqXop7jogIXljKHliJcuanBn&icon=.jpg)
 ## 0802 公布足跡
 ![08021](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvNjVkMDExMmQtNTg3Zi00MjQwLWE0MTgtZmU4YWM3YmMwMWU1LmpwZw%3d%3d&n=5qGIMTU4MDjoh7rljZfluILmtLvli5XotrPot6EuanBn&icon=.jpg)
 ## 0801 公布足跡
