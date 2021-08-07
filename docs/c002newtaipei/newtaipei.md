@@ -8,25 +8,41 @@ tags: [covid-19, 新北市確診案例]
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
 
+## 0807 公布足跡
+![08071](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108071532160.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2887%E6%9B%B4%E6%96%B0%29.png&flag=pic)
+![08072](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108071532161.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2887%E6%96%B0%E5%A2%9E%29.png&flag=pic)
+![08073](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108071532162.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1%2887%E6%96%B0%E5%A2%9E%29.png&flag=pic)
+
 ## 0806 公布足跡
+
 ![08061](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108061524500.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2886%E6%9B%B4%E6%96%B0%29.png&flag=pic)
 ![08062](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108061524501.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2886%E6%96%B0%E5%A2%9E%29.png&flag=pic)
+
 ## 0805 公布足跡
+
 ![08051](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108051531160.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2885%E6%9B%B4%E6%96%B0%29.png&flag=pic)
 ![08052](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108051531161.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2885%E6%96%B0%E5%A2%9E%29++.png&flag=pic)
+
 ## 0804 公布足跡
+
 ![08041](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108041528090.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2884%E6%9B%B4%E6%96%B0%29.png&flag=pic)
 ![08042](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108041528091.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2884%E6%96%B0%E5%A2%9E%29+.png&flag=pic)
 ![08043](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108041528092.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1%2884%E6%96%B0%E5%A2%9E%29+.png&flag=pic)
+
 ## 0803 公布足跡
+
 ![08031](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108031551500.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2883%E6%9B%B4%E6%96%B0%29.png&flag=pic)
 ![08032](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108031551501.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2883%E6%96%B0%E5%A2%9E%29+++.png&flag=pic)
 ![08033](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108031551502.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1%2883%E6%96%B0%E5%A2%9E%29+++.png&flag=pic)
+
 ## 0802 公布足跡
+
 ![08021](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108021606440.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%2882%E6%9B%B4%E6%96%B0%29.png&flag=pic)
 ![08022](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108021606590.png&filedisplay=%E6%9C%AC%E6%97%A5%E7%A2%BA%E8%A8%BA%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90%2882%E6%96%B0%E5%A2%9E%29.png&flag=pic)
 ![08023](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108021607170.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E5%A0%B4%E5%9F%9F%E8%B6%B3%E8%B7%A1%2882%E6%96%B0%E5%A2%9E%29.png&flag=pic)
+
 ## 0801 公布足跡
+
 ![08011](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108011617540.png&filedisplay=0801%E7%A2%BA%E8%A8%BA%E7%97%85%E4%BE%8B.png&flag=pic)
 ![08012](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108011617541.png&filedisplay=0801%E6%84%9F%E6%9F%93%E6%BA%90%E5%88%86%E6%9E%90.png&flag=pic)
 ![08013](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108011617542.png&filedisplay=0801%E8%B6%B3%E8%B7%A1.png&flag=pic)
