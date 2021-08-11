@@ -2,19 +2,27 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
-## 0809 公布確診數據
-無
+## 0811 公布確診數據
+![08111](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yOGIzNDc2NS1hMjBmLTQzMjQtODdlMC05OTEzZWFlZjVjN2IuanBn&n=5qGIMTU5MDguanBn&icon=.jpg)
+![08112](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81MDA5MTQ0OS02NjBlLTRkMjctOWVjMS00NjlkNjExNTQxMmEucG5n&n=5qGIMTU5MDcucG5n&icon=.png)
+## 0810 公布確診數據
+![08101](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iYTE0NDgyNi0wNDU3LTQ2YTUtYmM4Ni05MTcxMTViYWFlZDkucG5n&n=5qGIMTU4OTLlhazluIN2My5wbmc%3d&icon=.png)
+![08102](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8xMWJkMWRhOS04ZTc3LTRkN2MtYTBiNi0yZDBkNWE1YmUzZjguanBn&n=5qGIMTU4OTHlhazluIMuanBn&icon=.jpg)
 ## 0809 公布確診數據
 ![08091](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83Yjg3YjI4ZS05OTM1LTRhYTgtYTg0ZC04NTA5YzU2MGM5YWEuanBn&n=U19fMzM2MzYzNjkuanBn&icon=.jpg)
+![08092](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iMjEzYzI5MC05YzEwLTRlYjYtYTgyYS1hNGJhM2JiNjk4MWMuanBn&n=MDgwOOWFrOW4g1%2fmoYgxNTg4OF9WMy5qcGc%3d&icon=.jpg)
 ## 0808 公布確診數據
-無
-
+![08081](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iYTExNDc2Mi03MjY0LTQ3ZGUtOGRhYy1jNWIyYjRmMjdkODMuanBn&n=MDgwOOWFrOW4g1%2fmoYgxNTg4OC5qcGc%3d&icon=.jpg)
+![08082](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zNDliOTQ4NS00NGZhLTQ4MjQtYWRjMy0xOGQ4YzA2MjAxMGIuanBn&n=5qGIMTU4NzXkv67mraMuanBn&icon=.jpg)
 ## 0807 公布確診數據
 ![08071](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mODVhYTNmYi1hYWJiLTRiYjEtYmU5ZC03M2Q2MDAyYjY2NGYucG5n&n=5bel5L2c5Y2A5Z%2bfIDNAMngucG5n&icon=.png)
+![08072](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yMzJlNjE3NC02NDY4LTQ3YmQtOGI0Yy0zMTFkNWJkMGFiZGYuanBn&n=5qGIMTU4NzQuanBn&icon=.jpg)
 ## 0806 公布確診數據
 ![08061](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iMGU3NTdiOS1hODkzLTQ4MjctYmQ0NS05YTI0NDYwNmQ1ZDQucG5n&n=5bel5L2c5Y2A5Z%2bfIDRAMngucG5n&icon=.png)
+![08062](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS82NzA2MjM1ZS1iNGY4LTQyODgtOTM5OC04MjY4NDAwZGI4YzkuanBn&n=MDgwNuWFrOW4gy3moYgxNTg2Mi5qcGc%3d&icon=.jpg)
+![08063](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS84MDM0OWJhOC0yYzQ0LTQ1NWEtOGM2Ny05YmIwNjA2ZGVkYmIuanBn&n=MDgwNuWFrOW4gy3moYgxNTg2My5qcGc%3d&icon=.jpg)
 ## 0805 公布確診數據
-無
+![08051](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mN2RiOWY4NS1hMTdkLTRjOWItYjI5Mi04ZWY4YjhmMjkzNjcuanBn&n=MDgwNeWFrOW4g1%2fmoYgxNTg0MS5qcGc%3d&icon=.jpg)
 ## 0804 公布確診數據
 ![08041](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83MzU1ZWE4YS1jMTgyLTQ3YmYtYTljZC01ZThjZjdhOGQwMWYuanBn&n=U19fMzM1MjE3MTIuanBn&icon=.jpg)
 ## 0803 公布確診數據
