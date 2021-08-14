@@ -10,14 +10,24 @@ tags: [covid-19, 台南縣市確診案例]
 
 ---
 
+## 0814 公布足跡
+
+無
+
 ## 0813 公布足跡
+
 ![08131](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvOGY3NGI1MmMtZGE4Mi00ZTIwLTg3MzQtNTJhNDM1OGQwNmRlLmpwZw%3d%3d&n=MTEwMDgxM%2bahiDE1OTIz6LOH6KiK5Y%2bK5o6l6Ke46ICF5Yyh5YiXLmpwZw%3d%3d&icon=.jpg)
 ![08132](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvNzVlMzg5NjEtMzI0Ni00MTMzLWFjNWItM2Y1ZGZiY2NlZGJlLmpwZw%3d%3d&n=MTEwMDgxMuahiDE1OTIz5Y%2bw5Y2X5biC5rS75YuV6Laz6LehLmpwZw%3d%3d&icon=.jpg)
+
 ## 0812 公布足跡
+
 無
+
 ## 0811 公布足跡
+
 ![08111](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvNDQ1M2VkZjktYWY1OC00OTVkLTk1YzAtMzg4Y2U4OTc3ZDc1LmpwZw%3d%3d&n=MTEwMDgxMeahiDE1OTA56Ie65Y2X5biC5rS75YuV6Laz6LehLmpwZw%3d%3d&icon=.jpg)
 ![08112](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvNWE2MGM3MWUtMjM3Ni00YjI3LWI5YWItZWY1MDliMjU4ZGFjLmpwZw%3d%3d&n=MTEwMDgxMeahiDE1OTA56LOH6KiK5Y%2bK5o6l6Ke46ICF5Yyh5YiXLmpwZw%3d%3d&icon=.jpg)
+
 ## 0810 公布足跡
 
 無
