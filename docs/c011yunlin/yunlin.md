@@ -3,6 +3,10 @@ title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
 
+## 0816 公布足跡
+備註：縣政府官網上有許多5-7月的足跡，因為時間過久，這邊就只放今日公佈的足跡
+![08161](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9kOGYyODAwNy05NjVlLTQ3N2EtYWQ2Yy0wNDA5NmExOTZhYzguanBn&n=5qGIMTU5NzEo5paw5YyX5biCKeeiuuiouuWAi%2bahiOmbsuael%2be4o%2bi2s%2bi3oV9wYWdlLTAwMDEuanBn)
+
 ## 0815 公布足跡
 
 無
