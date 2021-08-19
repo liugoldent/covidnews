@@ -10,7 +10,9 @@ tags: [covid-19, 台南縣市確診案例]
 
 ---
 
-## 0818 公布足跡
+## 0819 公布足跡
+無
+## 0818 公佈足跡
 ![08181](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvYjhiNDgyMjAtZDQxMy00NDdiLWExMjItZGZkMGZkZWQ1NTNiLmpwZw%3d%3d&n=MTEwMDgxOOWig%2bWkluahiDE1OTk55Y%2bw5Y2X5biC5rS75YuV6Laz6LehLmpwZw%3d%3d&icon=.jpg)
 ## 0817 公佈足跡
 無
