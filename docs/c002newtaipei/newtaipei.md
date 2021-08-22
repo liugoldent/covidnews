@@ -8,10 +8,16 @@ tags: [covid-19, 新北市確診案例]
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
 
+## 0822 公布足跡
+![08221](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108221709540.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0822_1.jpg&flag=pic)
+![08222](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108221709541.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0822_2.jpg&flag=pic)
+
 ## 0821 公布足跡
+
 ![08211](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108211553470.png&filedisplay=1.png&flag=pic)
 ![08212](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108211553471.png&filedisplay=2.png&flag=pic)
 ![08213](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108211553472.png&filedisplay=4+.png&flag=pic)
+
 ## 0820 公布足跡
 
 ![08201](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202108201555570.png&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88%28820%E6%9B%B4%E6%96%B0%29.png&flag=pic)
