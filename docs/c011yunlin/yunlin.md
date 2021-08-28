@@ -3,17 +3,32 @@ title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
 
+## 0828 公布足跡
+
+無
+
 ## 0827 公布足跡
+
 無
+
 ## 0826 公佈足跡
+
 無
+
 ## 0825 公佈足跡
+
 無
+
 ## 0824 公佈足跡
+
 無
+
 ## 0823 公佈足跡
+
 無
+
 ## 0822 公佈足跡
+
 ![08221](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9kODg0MzJkNC0yN2VhLTQ1MmYtOTJiOS1hY2NmZTVlNGIzOTUuanBn&n=MDAwMS5qcGc%3d)
 
 ## 0821 公布足跡

@@ -3,16 +3,30 @@ title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
 
+## 0828 公布足跡
+
+無
+
 ## 0827 公布足跡
+
 無
+
 ## 0826 公佈足跡
+
 無
+
 ## 0825 公佈足跡
+
 無
+
 ## 0824 公佈足跡
+
 ![08241](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzI0YzEyYTVlLTgwNGYtNDYyNC05NTkwLWYxOTU2NjY1NzZiM0AxMDI0eDc2OC5qcGc%3d&n=5YWo5ZyL5qGIMTYwNDIt5rS75YuV5Y%2byLmpwZw%3d%3d&Icon=.jpg)
+
 ## 0823 公佈足跡
+
 無
+
 ## 0822 公佈足跡
 
 無
