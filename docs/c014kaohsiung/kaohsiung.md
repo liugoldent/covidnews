@@ -3,7 +3,9 @@ title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
 
-## 0902 公布足跡
+## 0903 公布足跡
+![09031](https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8zMTAvY2tmaWxlLzg2MmY3OGZlLThlM2YtNGUzMy05ZTNhLWQzZTZiOTg1MjE0ZUAxMDI0eDc2OC5qcGc%3d&n=5YWo5ZyL5qGIMTYxMTko5qGD5ZyS5biC5qGIKS3mtLvli5Xlj7J2Mi5qcGc%3d&Icon=.jpg)
+## 0902 公佈足跡
 無
 ## 0901 公佈足跡
 無

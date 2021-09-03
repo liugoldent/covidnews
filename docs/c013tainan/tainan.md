@@ -10,7 +10,9 @@ tags: [covid-19, 台南縣市確診案例]
 
 ---
 
-## 0902 公布足跡
+## 0903 公布足跡
+無
+## 0902 公佈足跡
 ![09021](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9ja2ZpbGUvZDRiNDViZGQtNTk2Ny00NTg3LWExZmItZGIyZWE2MGMyZmVjLmpwZw%3d%3d&n=5aKD5aSW5qGIMTYxMTblj7DljZfluILmtLvli5XotrPot6EuanBn&icon=.jpg)
 ## 0901 公佈足跡
 無
