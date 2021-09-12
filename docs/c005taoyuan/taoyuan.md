@@ -3,19 +3,36 @@ title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
 
+## 0912 公布足跡
+![09121](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/241554020_4652003664811237_1047162789086582885_n.png?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=viLciFS-fV8AX8ren87&_nc_ht=scontent.ftpe8-2.fna&oh=bdb84887f01104e11c6b05007688e8da&oe=61435DEE)
+![09122](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/241394793_4652005931477677_5759325275193611654_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=3L2hokHKq2cAX-3gA4e&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-2.fna&oh=488aaa1100af13e3f45abcae153e34f0&oe=6142AD5F)
+
 ## 0911 公布足跡
+
 無
+
 ## 0910 公布足跡
+
 無
+
 ## 0909 公布足跡
+
 無
+
 ## 0908 公佈足跡
+
 無
+
 ## 0907 公佈足跡
+
 無
+
 ## 0906 公佈足跡
+
 無
+
 ## 0905 公佈足跡
+
 ![09051](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/241294203_4630458746965729_6227635347106153203_n.png?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=0go0cmChUeMAX-qpvA3&_nc_ht=scontent.ftpe8-2.fna&oh=2aa0b6a201171123afc8a1094a0931de&oe=613A769A)
 
 ## 0904 公布足跡
