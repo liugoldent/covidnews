@@ -3,6 +3,8 @@ title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
 
+## 0914 公布足跡
+無
 ## 0913 公布足跡
 ![09131](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/241879459_4655233451154925_1548703584491771797_n.png?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=eGgPANdJ_uAAX--eGaZ&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=638cb78e2a8be996abe02a1a827ad471&oe=61448782)
 ![09132](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/241488060_4655233481154922_1074485678437036475_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=Qjnz5CFdQQ0AX_WT_XM&_nc_ht=scontent-tpe1-1.xx&oh=7e11710e36e4378ee7614a9c89215424&oe=6143B4A0)
