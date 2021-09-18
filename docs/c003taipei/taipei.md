@@ -3,6 +3,8 @@ title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
 
+## 0918 公布足跡
+![09181](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMzgxZTEyMC0yMWM3LTQ4NWUtODNkOS1iN2M0MzExMDRmMzEuanBn&n=MDkxOOWFrOW4gy0xNjIyNiAo5pawKS5qcGc%3d&icon=.jpg)
 ## 0917 公布足跡
 無
 ## 0916 公布足跡
