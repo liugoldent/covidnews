@@ -3,35 +3,63 @@ title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
 
+## 0919 公布足跡
+
+無
+
 ## 0918 公布足跡
+
 ![09181](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMzgxZTEyMC0yMWM3LTQ4NWUtODNkOS1iN2M0MzExMDRmMzEuanBn&n=MDkxOOWFrOW4gy0xNjIyNiAo5pawKS5qcGc%3d&icon=.jpg)
+
 ## 0917 公布足跡
+
 無
+
 ## 0916 公布足跡
+
 無
+
 ## 0915 公布足跡
+
 無
+
 ## 0914 公布足跡
+
 無
+
 ## 0913 公布足跡
+
 無
 
 ## 0912 公布足跡
+
 無
 
 ## 0911 公布足跡
+
 ![09111](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8xOGU1YTU4Zi01MTcyLTQyNzktYjk5NC0zYWQwNDU0MjYwOWIuanBn&n=MDkxMV%2flhazluIPmoYgxNjE3OS5qcGc%3d&icon=.jpg)
+
 ## 0910 公布足跡
+
 無
+
 ## 0909 公布足跡
+
 ![09091](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jNTY4ZjQ3Ny00MTI2LTQ5N2UtYTEwMS02Yjg0YzY4MDIxM2IuanBn&n=5YWs5biDXzE2MTU4LmpwZw%3d%3d&icon=.jpg)
+
 ## 0908 公佈足跡
+
 ![09081](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80YzBiMmNjMC1kNjgwLTRlMjQtYjdjMS1iYTlhYzk4Yzk4ZGYuanBn&n=MDkwOOWFrOS9iF%2fmlrDljJfluILmoYgxNjE1Mi5qcGc%3d&icon=.jpg)
 ![09082](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9hYTU1OTFkNC03NTdiLTRlZjgtYjRiMy1mNDI1YTU4NzM4OWUuanBn&n=MDkwOOWFrOW4g1%2fmoYgxNjE0Ny5qcGc%3d&icon=.jpg)
+
 ## 0907 公佈足跡
+
 無
+
 ## 0906 公佈足跡
+
 無
+
 ## 0905 公佈足跡
 
 無

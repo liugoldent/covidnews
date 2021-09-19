@@ -3,18 +3,34 @@ title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
 
+## 0919 公布足跡
+
+無
+
 ## 0918 公布足跡
+
 無
+
 ## 0917 公布足跡
+
 無
+
 ## 0916 公布足跡
+
 無
+
 ## 0915 公布足跡
+
 無
+
 ## 0914 公布足跡
+
 無
+
 ## 0913 公布足跡
+
 無
+
 ## 0912 公布足跡
 
 無
@@ -24,6 +40,7 @@ tags: [covid-19, 雲林縣確診案例]
 無
 
 ## 0910 公布足跡
+
 ![09101](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAwL2NrZmlsZS9lMDU2ZDMzNS02N2IxLTQzNTUtOGJiOS05ZGZjOGE5MzY2ZDYuanBn&n=5qGIMTYxNzMo5paw5YyX5biCKeeiuuiouuWAi%2bahiOmbsuael%2be4o%2bi2s%2bi3oS5qcGc%3d)
 
 ## 0909 公布足跡
