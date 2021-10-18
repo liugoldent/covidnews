@@ -8,6 +8,13 @@ tags: [covid-19, 新北市確診案例]
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
 
+## 1018 公布足跡
+無
+## 1017 公布足跡
+無
+## 1016 公布足跡
+![10161](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202110171633501.png&filedisplay=8.png&flag=pic)
+![10162](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202110171635060.png&filedisplay=7.png&flag=pic)
 ## 1015 公布足跡
 無
 ## 1014 公布足跡
