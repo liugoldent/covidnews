@@ -77,7 +77,7 @@ module.exports = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Guan Ting Liu`,
+      copyright: `Copyright © ${new Date().getFullYear()} Guan Ting Liu 自由抖內：(812)2888-1008-314-938`,
     },
   },
   presets: [
