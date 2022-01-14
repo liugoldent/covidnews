@@ -2,6 +2,11 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+
+## 0114 公布足跡
+![01141](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8xNjJmNWY0MS0yOGUyLTRlM2UtOGMyMy01MDAzYjE3MTQ4OGMuanBn&n=5qGIMTc3MzjjgIHmoYgxNzc3MS5qcGc%3d&icon=.jpg)
+![01142](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81NjY2OWM3OS03ODU4LTQxNzItOWNmYi1mNTQ4ZGQ4ZjE2ZWIuanBn&n=5qGIMTc4MDHljJfmipXljYBf5YWs5YWx5aC05omA6Laz6LehLemtj0%2fmib92MS5qcGc%3d&icon=.jpg)
+
 ## 0113 公布足跡
 ![01131](https://www-ws.gov.taipei/001/Upload/741/relpic/56665/8507778/3a11aba3-57de-4f3f-8b8d-b231e9bb67bb.jpg)
 
