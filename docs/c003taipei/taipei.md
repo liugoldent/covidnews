@@ -2,6 +2,9 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0121
+![01211](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81MDZkYmQyMi0yNDEzLTQyODgtOTBlNC1iYmEyYTk5YzMwY2EuanBn&n=5qGIMTgxODHljJfmipXljYBf5YWs5YWx5aC05omA6Laz6LehdjEuanBn&icon=.jpg)
+![01212](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85ODg4ZDU1OC0wZGI5LTQ2YjctYTAxOS1kZGI4MmE0ZDhhODYuanBn&n=MTgxODIuanBn&icon=.jpg)
 ## 0120
 ![01201](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85NjM4Mzg4Zi0xMjRlLTQwMzgtODQ2MS05MGZkNTNhZjU1MDQuanBn&n=5qGIMTgwNTEt6Laz6Leh5YWs5L2IX%2bWkp%2bWuieWNgOOAgeWkp%2bWQjOWNgC5qcGc%3d&icon=.jpg)
 ![01202](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9lZjA3NTRjMi0yMWUxLTQyZjAtYTVlNC1hMzViMzU3ZTNhNjEuanBn&n=MTgxMTYuanBn&icon=.jpg)
