@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="各縣市確診個案公共場所活動史，確診個案足跡圖卡資訊，國內疫情通報最新情況，確診足跡，台北市確診足跡，新北市確診足跡，桃園市確診足跡，新竹市確診足跡，高雄市確診足跡>">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
