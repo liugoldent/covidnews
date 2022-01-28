@@ -2,6 +2,9 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+## 0128
+![0128](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/272454216_5128943027117296_892116822011896297_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=bpHNUmGzDv0AX9vPdvv&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT-xOuurvvmrQ_HZMzphESWxEphL_5fRWHDjfv_aoJkTog&oe=61FA5465)
+![0128](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/272790539_5128943010450631_6931945005624260277_n.png?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=Hen8fWHEfTMAX9SF3p_&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT8nAMHRAlczFzbRBkYlAu6kyVNPlkf5ELnDg0IqjDA-SQ&oe=61FA410F)
 ## 0127
 ![0127](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/272554434_5123690960975836_7576879075263377794_n.png?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=jSfNES1dxecAX-Rb-ta&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-SKw_egGKuuey_blmHm-kE6I8QvTS5l2-yL9semwyIOw&oe=61F7BC12)
 ![0127](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/272741696_5124296830915249_7254862668536699359_n.png?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=PtdWFRA2Pb4AX9Ms7sE&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-As188roq1ZyT_NXz11SyNlOVJH8mS9ZA58mnAho2sEA&oe=61F877F4)
