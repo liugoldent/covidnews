@@ -2,6 +2,11 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0130
+![0130](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110130%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18823.jpg?response-cache-control=0&Signature=Kc8yES0GtlyqF%2BuduqZL1PQ1M%2BQ%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675008000)
+![0130](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110130%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18821.jpg?response-cache-control=0&Signature=P/PUxD/dy/Imkqu4oJAq1foPsrE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675008000)
+![0130](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110130%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18820.jpg?response-cache-control=0&Signature=cnw5FTKmil13rIIB92CVHo0aFP8%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675008000)
+![0130](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110130%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18824.jpg?response-cache-control=0&Signature=bd4CLU/vy3Cwd/7Shr17vtYJ8FU%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675008000)
 ## 0129
 ![0129](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110129%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18771.jpg?response-cache-control=0&Signature=RP1KbsomQi1f0Wu/m13asy0ZoQI%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1674921600)
 ![0129](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110129%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18772.jpg?response-cache-control=0&Signature=MAOBQi0Rhjr02qLqzoWcIen67NU%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1674921600)
