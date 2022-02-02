@@ -2,6 +2,12 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0202
+![0202](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110202%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18905%E3%80%8118942%E3%80%8118988-1.jpg?response-cache-control=0&Signature=1Ml813Kpxy2sQTtl4zlf%2BXlH0SE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675267200)
+![0202](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110202%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18905%E3%80%8118942%E3%80%8118988-2.jpg?response-cache-control=0&Signature=iO22B%2BOWgKnk3M5wJC0/bhT0nZc%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675267200)
+## 0201
+![0201](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110201%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18942-1.jpg?response-cache-control=0&Signature=eblrza6b2HVqguFTLyd1nTT3/Mk%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675180800)
+![0201](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110201%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18942-2.jpg?response-cache-control=0&Signature=rI7shXkUjl2sjXNGpjNAQVdoN7Y%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675180800)
 ## 0131
 ![0131](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110131%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18905.jpg?response-cache-control=0&Signature=iwxm//WY3Ko1Xn9yCgdNJ8JswTk%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675094400)
 ![0131](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110131%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/18904.jpg?response-cache-control=0&Signature=ylxYxl3FhbmA5jgy0YWUh3SOXR4%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1675094400)
