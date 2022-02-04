@@ -2,6 +2,8 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+## 0202
+![0202](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/272993095_5145890355422563_2306900099640629723_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=A95FGOqjyGsAX-IwKO3&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT_r4Y5oCfTWZfmAnPimZYtSkGMzmZ8BDA45yg9u0Wo5vg&oe=6202C733)
 ## 0130
 ![0130](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/272683912_5136457696365829_1678677438083500474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=_ddN0CKZfGgAX93gdjf&_nc_ht=scontent.ftpe8-2.fna&oh=00_AT9rBcLq7QPzsVwyuRS5Zrm1931iFyEEMNauaUBl71V5IA&oe=61FBFEBF)
 ## 0129
