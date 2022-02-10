@@ -7,6 +7,9 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+## 0210
+![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101735450.jpg&filedisplay=273633656_5488106317873369_1805484987435493790_n.jpg&flag=pic)
+![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101734520.jpg&filedisplay=273679605_5488106064540061_5370974358488620686_n.jpg&flag=pic)
 ## 0208
 ![0208](https://s.yimg.com/ny/api/res/1.2/UKz9lJ9WTjJVW8i12FoElg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEzNTY7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/g6MCPT.qrvPZfFux.HOLTg--~B/aD0xMDI0O3c9NzI1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/zh-tw/news_ttv_com_tw_433/22b6531c6cc35a4151a6c7866fe083e1)
 ![0208](https://s.yimg.com/ny/api/res/1.2/gV0MGAWIdv8EJL7zJnLJJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEzNTY7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/mL8zeWl59Yot4Zze.ySnEw--~B/aD0xMDI0O3c9NzI1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/zh-tw/news_ttv_com_tw_433/a54c73c3bb245efc1984cf9efe4bfd4c)
