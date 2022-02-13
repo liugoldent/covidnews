@@ -9,6 +9,22 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
+## 0213
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/c06c1281-39a3-46b5-adbc-4f208578333d@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/3c02da38-8ff6-4a00-b64a-5d7924f0824f@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/c0ea934a-5344-4bd8-885f-aa8d1e4431ca@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/05d1a34e-ed18-4f70-8122-127521b61a26@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/2e1b79bb-1eaa-4d99-8adf-067d0f42d516@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/348c1c89-541f-4f93-8aab-cbbe31d73083@710x470.jpg)
+![0213](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872327/126b9c4e-ba1c-4e65-8605-2a3c2aafcfcf@710x470.png)
+## 0212
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/aa4bc927-f531-4a04-9da4-e4a4add90092@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/97a9b38e-a4c7-4b4a-a39f-fa24ddbefe12@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/42a58502-136f-4c2d-a563-1d61b4bf05eb@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/e9d5edb1-03f5-489e-b042-0a102c1feebc@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/a03490d4-98fd-4d67-9e34-d0dc62f41f55@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/2ab34fd4-67fb-46ed-b24f-3d999cc481c8@710x470.jpg)
+![0212](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7872302/5465751f-df82-4da4-9444-1698cbf8e9c8@710x470.jpg)
 ## 0211
 ![0211](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7872174/26b6f6de-f5e9-4a6a-a199-36625681e82e@710x470.jpg)
 ## 0131
