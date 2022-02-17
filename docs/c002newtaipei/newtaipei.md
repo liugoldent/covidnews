@@ -7,6 +7,9 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+## 0216
+![0216](https://cc.tvbs.com.tw/img/program/upload/2022/02/16/20220216150045-b8fda65d.jpg)
+
 ## 0210
 ![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101735450.jpg&filedisplay=273633656_5488106317873369_1805484987435493790_n.jpg&flag=pic)
 ![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101734520.jpg&filedisplay=273679605_5488106064540061_5370974358488620686_n.jpg&flag=pic)

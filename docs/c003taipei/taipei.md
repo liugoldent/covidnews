@@ -2,6 +2,9 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0217
+![0217](https://cdn2.ettoday.net/images/6184/6184554.jpg)
+![0217](https://cdn2.ettoday.net/images/6184/d6184557.jpg)
 ## 0214
 ![0214](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jM2NkYmNmYi05MjIzLTRkN2UtOTU3NS01MTM2NGY5ZGY2ZDAuanBn&n=MTk3MzAuanBn&icon=.jpg)
 ## 0213
