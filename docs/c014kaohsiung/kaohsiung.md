@@ -2,6 +2,10 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0218
+![0218](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110218%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19953.jpg?response-cache-control=0&Signature=ZySJFtBs0jRajOXGKJ%2BZqF2yobY%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676649600)
+![0218](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110218%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19952-2.jpg?response-cache-control=0&Signature=1dV0hPIs%2BFJ5/oxOr1ZsOB40u0M%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676649600)
+![0218](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110218%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19952-1.jpg?response-cache-control=0&Signature=gPJs4dKeeTPc1p0ueSrWPuVqwgw%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676649600)
 ## 0217
 ![0217](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110217%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19931.jpg?response-cache-control=0&Signature=4H56/3ySmDd4ZS6nvS8xn7APVpU%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676563200)
 ## 0216
@@ -10,7 +14,6 @@ tags: [covid-19, 高雄市確診案例]
 ![0216](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110216%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19863-1.jpg?response-cache-control=0&Signature=hWpmQhuTsESHeZf/3IZMwHOIzBE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676476800)
 ![0216](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110216%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19844.jpg?response-cache-control=0&Signature=i38nlCkFsShCyud6Y2w6EfEU3eE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676476800)
 ![0216](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110216%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19817.jpg?response-cache-control=0&Signature=iQdCMgT%2BfII%2BCCeVQ5QTrydkP9U%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676476800)
-![0216]()
 ## 0214
 ![0214](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110214%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19733.jpg?response-cache-control=0&Signature=ZjKY/QyY5kbKrfcWHBKlUca5DsA%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676304000)
 ![0214](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110214%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/19732.jpg?response-cache-control=0&Signature=rMwGkfmLx4gs2CSEqKaDeLzHI8Y%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1676304000)

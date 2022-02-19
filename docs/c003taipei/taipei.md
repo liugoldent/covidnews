@@ -2,9 +2,19 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0219
+![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMjYwNDljYi04ZDhhLTQ0YzQtOTU1Ni1hY2Q5YWNjY2VkYzYuanBn&n=MTk5OTcuanBn&icon=.jpg)
+![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMmIzOWM5OS1mN2I5LTQyMjMtYWUzMy02NzNmZGYxY2IxYjAuanBn&n=MTk5OTIuanBn&icon=.jpg)
+![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81MDQwZWZjZC01MTkzLTQ3MmEtOGRhMi02YTI2NjQ3NTQyMWEuanBn&n=MTk5OTAuanBn&icon=.jpg)
+![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9hMTVjOTlmMC05YTQ5LTQzMzAtOGIwMS1hODU4MDJlMWM2MmYuanBn&n=MTk5ODkuanBn&icon=.jpg)
+![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85YjM4OGY1NS02MGZjLTQ4NzctYWY1Yy1lNDA5OGE2M2EzZjcuanBn&n=MTk5NTAuanBn&icon=.jpg)
 ## 0217
-![0217](https://cdn2.ettoday.net/images/6184/6184554.jpg)
-![0217](https://cdn2.ettoday.net/images/6184/d6184557.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mZWRiNjkwMy1iMGJiLTRlOWMtYTQyMy0yMjU5ODczYTYzNTkuanBn&n=5aSW57ij5biC5qGIMTk4NTnotrPot6FWMygxKS5qcGc%3d&icon=.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mZTc5NzIyMi0wYWU2LTQ5MzEtOGNjZi00ZGZlYzEyNTMzM2UuanBn&n=5aSW57ij5biC5qGIMTk4NjRWNCgxKS5qcGc%3d&icon=.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8xY2E5YWZhZi01ZDcyLTRkMzktOTU4Ny1hY2NiNTJmYzBlN2IuanBn&n=5aSW57ij5biC5qGIMTk4NjRWNCgyKS5qcGc%3d&icon=.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9hZmVlNDRiZS0yYjRjLTQyOGQtYTUxNi0wYWNjYWEwODAyM2IuanBn&n=5L%2bh576p5Y2A5qGIMTk4NzflhazlhbHloLTmiYDotrPot6EoMSkuanBn&icon=.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9lYjI5NDQ4Yi1mNzk1LTRkZjYtYTI1My03MTc5NWM0OWNjYTIuanBn&n=5YyX5oqV5Y2A5qGIMTk4NzjlhazlhbHloLTmiYDotrPot6EuanBn&icon=.jpg)
+![0217](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jYTk3ODY5ZS1hZjlmLTRhYTktOGI5MC1iNTU3YzJhYTY4Y2YuanBn&n=5L%2bh576p5Y2AX%2bahiDE5ODgy5YWs5YWx5aC05omA6Laz6LehLmpwZw%3d%3d&icon=.jpg)
 ## 0214
 ![0214](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jM2NkYmNmYi05MjIzLTRkN2UtOTU3NS01MTM2NGY5ZGY2ZDAuanBn&n=MTk3MzAuanBn&icon=.jpg)
 ## 0213

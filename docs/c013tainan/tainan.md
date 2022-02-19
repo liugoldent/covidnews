@@ -9,6 +9,10 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
+## 0218
+![0218](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7873716/485d4466-12c7-44ad-80f0-22e56ea4bc6b@710x470.jpg)
+![0218](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7873716/c3a8c009-b9f5-4701-a195-2ebc90234dd1@710x470.jpg)
+![0218](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7873716/05c64550-4c4d-4b9d-9238-52baf842399b@710x470.jpg)
 ## 0216
 ![0216](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7873086/082b1999-31c0-4efb-8fdb-bf7ed0f88e71@710x470.jpg)
 ## 0214
