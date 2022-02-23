@@ -2,6 +2,12 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0221
+![0221](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS84MGI0OTI3My1iYzEzLTQ2NDEtYTgwOS1jMjI2OTkyMmQ0NTkuanBn&n=5qGIMjAwOTVWMi5qcGc%3d&icon=.jpg)
+![0221](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9hZWRkMjYwOS1hYzQ5LTQ5MzQtOTUzYy05NGFjNmI4OTQxMWQuanBn&n=MjAxNjLotrPot6EuanBn&icon=.jpg)
+![0221](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9lMjFiMjNkNi05ZDJhLTRlZTgtOTU0ZS01NzVmMzJjMjRkNDEuanBn&n=5qGIMjAwNzMuanBn&icon=.jpg)
+## 0220
+![0220](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yN2NjOTgyMS0wYTQ0LTRiOTItYmZmMi05YmZjYjc1ZjdkY2UuanBn&n=5qGIMjAwMjguanBn&icon=.jpg)
 ## 0219
 ![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMjYwNDljYi04ZDhhLTQ0YzQtOTU1Ni1hY2Q5YWNjY2VkYzYuanBn&n=MTk5OTcuanBn&icon=.jpg)
 ![0219](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMmIzOWM5OS1mN2I5LTQyMjMtYWUzMy02NzNmZGYxY2IxYjAuanBn&n=MTk5OTIuanBn&icon=.jpg)
