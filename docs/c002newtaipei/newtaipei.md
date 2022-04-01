@@ -7,6 +7,10 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+## 0401
+![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277669667_5633803463303653_822429472718540141_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=pgb9YlFn61gAX-khxx_&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9Obcy5KRtw2RbXej23V4TV94lI5HcJ9-UKcVi7Xt4cMw&oe=624B0B0B)
+![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277807234_5633803426636990_4563130185023499067_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=bGbqirrJlh8AX_Vu1hB&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_HBg0tBmmEqaHjUKsfo_IDYGfaR_v-CpQx9dVyOdjn_w&oe=624C6DF7)
+![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277104024_5633845753299424_3507298713240105913_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=TsTlGm4tZHUAX-sLJw3&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-oWXn69U2wQ_hFy0wCZQWeWyreXw3yaN_EjnoxOAcwZw&oe=624C42A9)
 ## 0216
 ![0216](https://cc.tvbs.com.tw/img/program/upload/2022/02/16/20220216150045-b8fda65d.jpg)
 

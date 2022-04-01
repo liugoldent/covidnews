@@ -2,6 +2,8 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0401
+![0401](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241840/ecad5e49-b04f-4f4c-bf79-355ba7a57ac7.jpg)
 ## 0331
 ![0331](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241794/2be97b76-f846-44e8-af4c-8aa2e54d71b5.jpg)
 ## 0330
