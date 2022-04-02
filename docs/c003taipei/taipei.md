@@ -2,6 +2,19 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
+## 0402
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zNzUwZmRkNC1lM2QxLTQ2ZDEtOWE1Ny0wOWMwOGYyMjUzM2MuanBn&n=MTY0ODg3NjAwNjM1Ni5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80MDNhOTBiMS0yODlkLTQ1OGMtYWM1OS1kZjgxOTQ1N2U2NjUuanBn&n=MTY0ODg3ODYxNTY0Ni5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83NzgyMzI0OC0zY2IwLTQ3NzgtOTI2YS03M2ZlMjIxNjJmNDAuanBn&n=MTY0ODg3NzYyNzk1OS5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81OTliYTRkMS1kMjNjLTQxN2UtYjdiZC02NzdmZDYwNmI4MzYuanBn&n=MTY0ODg4MDc1ODA1Ni5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85ODY2MWRhYS00ODU0LTQ3OTgtOWFlNy05ZjVhNGM4MzJjMzAuanBn&n=MTY0ODg4MDc3Mzc1Ny5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yOGEzMWU5ZS1hYTQ0LTQwMzAtOGU0ZC1kMGY4YjRmNWMzMjAuanBn&n=MTY0ODg3NjE3MzUwOS5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zMmExNTU1YS1kN2FkLTQ3OWMtYjQwYS1hMmRlMGM5OTM3ODYuanBn&n=MTY0ODg4Mzk4MzE1MS5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81MDM5NzYwYS03NWVkLTQ2YTUtOGY3MC1jODFhMzkwMDFkMmYuanBn&n=MTY0ODg5NzkyNzI3MS5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85NWFlNGI0OC0xN2YwLTQzNmMtYTc5Mi03ODQwYmEyYjg0ZjIuanBn&n=MTY0ODg3NzU1OTMwMy5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9jMDg5OGFjOS03NzRmLTRiMTMtOTE1YS1lM2ViNzYyNDVhNTQuanBn&n=MTY0ODg3ODY2NjAyMy5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9iZjZlNmFhNS1mZjNiLTQ0NGQtYTQ4OS00YzlmMzQ4ZWU0MWQuanBn&n=MTY0ODg3OTYyMjI2NS5qcGc%3d&icon=.jpg)
+![0402](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9mNzlhZDlmNS1lZTFlLTQxZDktOTA1MC03MzYyNDY0YjQwNDcuanBn&n=MTY0ODg5Nzk1NTc0OC5qcGc%3d&icon=.jpg)
 ## 0330
 ![0330](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8wZjU1MzY4YS0wOTM1LTQ1M2QtYjBlMS0xODliN2Q2MGFjNWMuanBn&n=MjI3MzEuanBn&icon=.jpg)
 ![0330](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9lOTBlYzYzOS00NGE1LTQzODktYTllNC1iMzQ5MTJjMWYyYmIuanBn&n=5pys5ZyfLmpwZw%3d%3d&icon=.jpg)

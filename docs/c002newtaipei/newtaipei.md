@@ -7,6 +7,11 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+## 0402
+![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277229443_5636691906348142_1351475914472919436_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=dmJahzgNpg0AX9WOyvk&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-cc9b3WiGklQd3fJagirniL0K4zZEZcPRI3Zrpc88Akw&oe=624CC63A)
+![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277302514_5636691923014807_6999979916404439785_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=8u8G1l0gUysAX_ZkG8l&_nc_ht=scontent-tpe1-1.xx&oh=00_AT88FWwucJHURP7NT3U-FIiEkywxwemYxRTdgqSzdv5nJw&oe=624D087D)
+![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277668578_5636692349681431_8667305811331019552_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=F1r7O5Ky7PUAX9zHz9H&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_wgUQg2hc2z6okEqUNmEFjkn4Q88WeixhYV4XPFSFc1g&oe=624CB58A)
+![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/276995242_5636692826348050_2941808619332403231_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=cU8BPnvomY0AX-qkq9E&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8ZwLOLew4jU1xREe0vv5u2Fisk83EirTQP3bTXqOHpQg&oe=624DAC75)
 ## 0401
 ![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277669667_5633803463303653_822429472718540141_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=pgb9YlFn61gAX-khxx_&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9Obcy5KRtw2RbXej23V4TV94lI5HcJ9-UKcVi7Xt4cMw&oe=624B0B0B)
 ![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277807234_5633803426636990_4563130185023499067_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=bGbqirrJlh8AX_Vu1hB&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_HBg0tBmmEqaHjUKsfo_IDYGfaR_v-CpQx9dVyOdjn_w&oe=624C6DF7)
