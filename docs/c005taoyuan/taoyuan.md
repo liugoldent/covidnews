@@ -2,6 +2,14 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+## 0405
+![0405](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220405145357.jpg&flag=pic)
+![0405](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220405145435.jpg&flag=pic)
+## 0404
+![0404](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220405144521.jpg&flag=pic)
+![0404](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220405144638.jpg&flag=pic)
+## 0403
+![0403](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220403145854.jpg&flag=pic)
 ## 0402
 ![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277306625_5313948015283462_3491800227005486073_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Njui4umPMw8AX_dRJXv&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8McejH7KrkHwMSOxlJkjoRKBVdT9pa9zGqLXEQKv3eZA&oe=624D9109)
 ![0402](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277369395_5313398968671700_3630838291171709514_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Knd8pvPUOZAAX_6Yesr&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8ukpc2zbDDD7JdQVOZE4LJ7R6f0RmfLFe4lKDUaeGrGQ&oe=624DEC8D)

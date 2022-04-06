@@ -2,6 +2,15 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0405
+![0405](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176673030.jpg)
+![0405](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176672944.jpg)
+![0405](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176672818.jpg)
+## 0404
+![0404](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176581745.jpg)
+![0404](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176581679.jpg)
+![0404](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176581457.jpg)
+![0404](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649176581289.jpg)
 ## 0403
 ![0403](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1648999199326.jpg)
 ![0403](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1648999199223.jpg)
