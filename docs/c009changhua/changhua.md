@@ -2,6 +2,8 @@
 title: 彰化縣市確診案例
 tags: [covid-19, 彰化縣市確診案例]
 ---
+## 0408
+![0408](https://www.chcg.gov.tw/files/25_20220408144035661_0408-1_tmp.jpg)
 ## 0407
 ![0407](https://www.chcg.gov.tw/files/25_20220407145922165_0407-1_tmp.jpg)
 ## 0406

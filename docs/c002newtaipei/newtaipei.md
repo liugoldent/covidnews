@@ -7,6 +7,10 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+## 0408
+![0408](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/277564140_5652987898051876_1242677647115581218_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=SPafnUZfw_EAX9VCsR9&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT-oEfRr4xmMhq6BQr3yyuBvZSyLLXuSHgCy7Y-oHEk9xQ&oe=62563DD6)
+![0408](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/277819226_5652987864718546_3676277163361750971_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=nLd4lvq_nWMAX96SwTS&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT_8VltGdhzssUKouN_rQmuTt5IutK9qSpHnknK5HFE3pw&oe=62555B8D)
+![0408](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/277571706_5652987848051881_87301488428544807_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=uE7Gnnk5C2MAX9JWfs2&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT_KXbr4SYdDCfBhrHDToyO24GegRh45bjxto_kxgFt2Tw&oe=6255132A)
 ## 0407
 ![0407](https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/277755637_5650162711667728_2767864225066725557_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=PqsgcpGjhuAAX8oqDJw&_nc_ht=scontent.ftpe7-1.fna&oh=00_AT8BeDAg_frBZEY0j5I9NSG7OPNXDcLlbWIxIPhMGbKsAQ&oe=62557435)
 ![0407](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/277577864_5650162701667729_7300262818588811555_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=FSKTvlBQGpIAX_xTww0&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT9mWOr65s7-T65xNsSLWpSX8ZeKjZFeX8lu-cGMFhcCVg&oe=6253D73D)
@@ -28,40 +32,3 @@ tags: [covid-19, 新北市確診案例]
 ![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277669667_5633803463303653_822429472718540141_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=pgb9YlFn61gAX-khxx_&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9Obcy5KRtw2RbXej23V4TV94lI5HcJ9-UKcVi7Xt4cMw&oe=624B0B0B)
 ![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277807234_5633803426636990_4563130185023499067_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=bGbqirrJlh8AX_Vu1hB&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_HBg0tBmmEqaHjUKsfo_IDYGfaR_v-CpQx9dVyOdjn_w&oe=624C6DF7)
 ![0401](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277104024_5633845753299424_3507298713240105913_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=TsTlGm4tZHUAX-sLJw3&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-oWXn69U2wQ_hFy0wCZQWeWyreXw3yaN_EjnoxOAcwZw&oe=624C42A9)
-## 0216
-![0216](https://cc.tvbs.com.tw/img/program/upload/2022/02/16/20220216150045-b8fda65d.jpg)
-
-## 0210
-![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101735450.jpg&filedisplay=273633656_5488106317873369_1805484987435493790_n.jpg&flag=pic)
-![0210](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202202101734520.jpg&filedisplay=273679605_5488106064540061_5370974358488620686_n.jpg&flag=pic)
-## 0208
-![0208](https://s.yimg.com/ny/api/res/1.2/UKz9lJ9WTjJVW8i12FoElg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEzNTY7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/g6MCPT.qrvPZfFux.HOLTg--~B/aD0xMDI0O3c9NzI1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/zh-tw/news_ttv_com_tw_433/22b6531c6cc35a4151a6c7866fe083e1)
-![0208](https://s.yimg.com/ny/api/res/1.2/gV0MGAWIdv8EJL7zJnLJJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEzNTY7Y2Y9d2VicA--/https://s.yimg.com/uu/api/res/1.2/mL8zeWl59Yot4Zze.ySnEw--~B/aD0xMDI0O3c9NzI1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/zh-tw/news_ttv_com_tw_433/a54c73c3bb245efc1984cf9efe4bfd4c)
-## 0131
-![0131](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201311632150.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0131_1.jpg&flag=pic)
-## 0130
-![0130](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201301540541.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0130_%E6%94%B9%E8%89%B2_1+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-## 0126
-![0126](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201261806560.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0126_%E6%94%B9%E8%89%B2_6+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-
-## 0125
-![01251](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201251639192.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0125_%E6%94%B9%E8%89%B2_6+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-## 0123
-![01231](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201232134561.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_1210_6+%E8%A4%87%E6%9C%AC_0.jpg&flag=pic)
-## 0121
-![01211](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201201629000.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0120_%E6%94%B9%E8%89%B2_6+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-## 0120
-![01201](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201201629000.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0120_%E6%94%B9%E8%89%B2_6+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-## 0117 公布足跡
-![01171](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201171535160.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0117_1.jpg&flag=pic)
-
-## 0114 公布足跡
-![01141](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201141507310.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0114_%E8%A4%87%E6%9C%AC.jpg&flag=pic)
-
-## 0113 公布足跡
-![01131](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201131414180.jpg&filedisplay=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85%E7%B5%B1%E8%A8%88_0113%281%29.jpg&flag=pic)
-
-## 0111 公布足跡
-![01111](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201111513100.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_0111%281%29.jpg&flag=pic)
-## 0108 公布足跡
-![01081](https://healthcareathome.ntpc.gov.tw/uploaddowndoc?file=news/202201081710101.jpg&filedisplay=%E7%96%AB%E6%83%85%E6%AF%8F%E6%97%A5%E7%99%BC%E5%B8%83%E6%95%B8%E6%93%9A+_1210_6+%E8%A4%87%E6%9C%AC.jpg&flag=pic)
