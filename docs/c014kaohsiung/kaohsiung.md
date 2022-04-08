@@ -2,6 +2,35 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0407
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111040702.jpg?response-cache-control=0&amp;Signature=zgssxl68qT7zM8mXZZ1MSI6Jxm0%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111040703.jpg?response-cache-control=0&amp;Signature=93dhd%2BofZtbCFSfjjCzWXr6cPSc%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111040704.jpg?response-cache-control=0&amp;Signature=mETPPngQkuEgv17dnvieEofyt5c%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111040705.jpg?response-cache-control=0&amp;Signature=R1h9y5PBo7sSoEztdkMugw1bqWI%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25259.jpg?response-cache-control=0&amp;Signature=Xe2iaVbAAoie6Qf3wpQubpHhncU%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25351.jpg?response-cache-control=0&amp;Signature=FlfQpBGDOkws5Qd7qHaDp681gbA%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25354.jpg?response-cache-control=0&amp;Signature=zUa3Iqiz8q0p/Wi3r30oUcOJUgM%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25357.jpg?response-cache-control=0&amp;Signature=Em/EkGDqQM6O7raeaEoI/5nMy3E%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25438.jpg?response-cache-control=0&amp;Signature=RsA310Apd%2BrK6TZF8/IyvO4wIDY%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25597.jpg?response-cache-control=0&amp;Signature=2fzwKn3h3xhy6CBtvlTbw8kIUbs%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25697.jpg?response-cache-control=0&amp;Signature=%2BBS7b6GjZLwSOK5u46Yyr2Fgxww%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25701.jpg?response-cache-control=0&amp;Signature=JKYHMyZkUm5vkRwTK1fedUTz6VY%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25869.jpg?response-cache-control=0&amp;Signature=99fPpLOYJWV7JO8Mvf6hckeKqVU%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
+![0407](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110407%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25883.jpg?response-cache-control=0&amp;Signature=kdHaSSkOhzIBsGQk13Vw/1L3d94%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1680796800)
+
 ## 0406
 ![0406](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110406%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25262.jpg?response-cache-control=0&Signature=IEEKSIGmZhv7fpkvn1LdxvIqUwQ%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1680710400)
 ![0406](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110406%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/25176.jpg?response-cache-control=0&Signature=SgD2k9R2rUC0ipjoZR1%2BC0UpvXE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1680710400)
