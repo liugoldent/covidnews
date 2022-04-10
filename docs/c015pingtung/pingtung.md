@@ -2,6 +2,15 @@
 title: 屏東縣確診案例
 tags: [covid-19, 屏東縣確診案例]
 ---
+## 0409
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/a68b0ad7-7762-441f-942d-886cddb25843.jpg)
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/f49d72bd-de36-4230-9bd2-e3d86b139825.jpg)
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/2d154671-f750-4e81-aa4a-a49b6001d0ed.jpg)
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/cd07db4d-b868-4c50-807e-d5e83192ddce.jpg)
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/cc5e65b5-6b74-4e68-b53d-6897f691cbc7.jpg)
+![0409](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/d6d35a18-f185-429f-8a93-0ab3e98e4efa.jpg)
+
+
 ## 0408
 ![0408](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/fcbe35a3-9f14-4d68-be4d-b3de2a18e589.jpg)
 ![0408](https://www-ws.pthg.gov.tw/Upload/2015pthg/178/ckfile/b1f75edd-36e9-4243-a976-5642233997c4.jpg)
