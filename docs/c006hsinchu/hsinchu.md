@@ -2,6 +2,24 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0410
+![0410](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204101514230.jpg&flag=pic&filedisplay=0410%E6%96%B0%E7%AB%B9%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1%E6%9B%B4%E6%96%B0-1500.jpg)
+![0410](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204101347122.jpg&flag=pic&filedisplay=0410%E5%A4%96%E7%B8%A3%E5%B8%82%E8%B6%B3%E8%B7%A1-1500.jpg)
+
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/73151ff9-0b14-4e0e-8f23-31569b085132.png)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/8ee2611e-5eac-4694-b5e7-2b0214a43f1d.png)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/dfd0090a-ac34-4c91-8c62-837279c70abb.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/cb28ae70-a67c-46cd-a7a2-1abecda3e8af.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/f6627e01-4b07-42d3-92f5-90eb5e6e6194.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/aa4dd715-715f-4f81-b2d2-4ef954932cd4.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/ea469a5f-ec08-46db-adb0-a9d15a2ca83c.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/ab66eb3f-09c4-4dd7-8050-d3de7210833f.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/0795a736-7c8e-4483-9097-109a02ad3b17.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/aeb314b6-79f2-4c41-a1e7-bec8662e4bb4.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/ea443154-3547-4036-bacd-0847cc2b81b8.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/13dd8d14-6efa-4db1-bc7c-e74de8e84e7a.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/05dcc88a-8dda-48e7-b0d5-dc8b9c53a351.jpg)
+![0410](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241990/efd3cb34-bfc2-4997-9c69-22b56c056ee1.jpg)
 ## 0409
 ![0409](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241984/100be641-78a6-43d1-9fb4-e4b786b13ec3.jpg)
 ![0409](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/241984/06fe02b2-6603-48a4-9f83-462f21caa2eb.jpg)
