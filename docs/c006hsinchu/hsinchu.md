@@ -2,6 +2,33 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0412
+![0412](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204121456071.jpg&flag=pic&filedisplay=02.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/f9c94641-9ab9-4175-a108-ee132e1d5178.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/b23f2210-8a30-4e77-be89-f3411083dbcd.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/5dbc0600-27d5-4218-a973-79337970d2c7.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/088433c0-282f-463a-a2e0-46e0c5a1cbcb.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/8ac8d940-921d-4e29-b23b-ab83ab195ebc.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/9fe060c8-f5ad-4b44-9fae-bf557c1eb901.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/15b944dd-022a-4da1-895b-fbbe7009b365.jpg)
+![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/0945b1c9-656b-4292-a6ce-1c322300db0d.jpg)
+## 0411
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/f8074fc8-cd0e-4bfd-91ad-9ad032778191.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/c1d27fa5-12f6-4109-87d9-c8a56a4dce95.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/392d8110-13ef-4296-b8e3-bcd051ae61ab.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/15bd0dcb-89d0-4d61-85b6-c60a463d5993.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/daad26be-f86d-48a8-9f0f-d5078990ee7d.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/41a0ca68-2cb3-4588-9f17-3f3a4dad7b56.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/b9806531-90d5-43c3-8796-2c246329f0e7.jpg)
+
+![0411](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242010/ec825c7d-0a44-4e65-ac0c-7b51b0b84547.jpg)
 ## 0410
 ![0410](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204101514230.jpg&flag=pic&filedisplay=0410%E6%96%B0%E7%AB%B9%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1%E6%9B%B4%E6%96%B0-1500.jpg)
 ![0410](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204101347122.jpg&flag=pic&filedisplay=0410%E5%A4%96%E7%B8%A3%E5%B8%82%E8%B6%B3%E8%B7%A1-1500.jpg)

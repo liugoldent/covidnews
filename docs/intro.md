@@ -4,9 +4,7 @@ sidebar_position: 0
 # Covid-19 每日各縣市公布足跡
 
 ## 站主的話
-今日沒帶到充電器
-暫停更新一天
-sorry~~~~ 
+
 ___
 ## 各縣市公布資料
 * [基隆確診足跡](c001keelung/keelung.md)

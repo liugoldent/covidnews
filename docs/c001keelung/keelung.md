@@ -2,6 +2,21 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0411
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475987.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475237.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691474797.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649653815677.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691476272.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475987.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475237.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691474797.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649653815677.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691476272.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475987.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691475237.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649691474797.jpg)
+![0411](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649653815677.jpg)
 ## 0410
 ![0410](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649633223451.jpg)
 ![0410](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649633223133.jpg)

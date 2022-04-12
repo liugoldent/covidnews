@@ -7,6 +7,16 @@ tags: [covid-19, 新北市確診案例]
 
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
+
+## 0412
+![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277739175_5663714670312532_7462704478315050160_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=hMvP0l8ufkgAX-_YyPG&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_CVhjDA7m2WfXy3zjvEvg-1F3XFZcULYT6LDgy_B0l9w&oe=6259B2B8)
+![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277752508_5663714596979206_7211125447464583412_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=WiaqxNRkztMAX8qYZmm&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-3MNVZJ49wzllhhpZ085LTpeMMAfyWhJcnq5eeqFow4w&oe=6259739C)
+![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277757925_5663714646979201_4539594091534448841_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=YtG6cBmkapcAX8UFdjG&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9SgjEFC_vP4LjY2dKxNo13Lg4FfaAu9MglzzkaBUAXDw&oe=6259D050)
+## 0411
+![0411](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277772984_5663695466981119_7502162029404713062_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=fgdi5iJZvfMAX9_8hpU&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8XNcJ3ipotWK6YpCI4ndOwe5XaNK2vT3IZ4Exj0EdSiw&oe=625A1BD7)
+![0411](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277794815_5661512747199391_1080754611276128988_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=R3r3KOyeMKcAX-LeouH&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9_SIgyp6o0wFA6Dka42emuEZ8W8aP0PCIhLraXQ3Bg_g&oe=625A5F52)
+![0411](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277746542_5661160483901284_5058154053380252750_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=kMsGFSehrycAX86x9Fv&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-AEKeLhBF7vR35uM2Aj1NvdOnJfLiSWnGLeN7llzaR3g&oe=625A999A)
+
 ## 0410
 ![0410](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/277588613_5658721604145172_2626265467869634416_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=YwK0bISLGBkAX_dLxym&_nc_ht=scontent.ftpe8-4.fna&oh=00_AT9n0BYLisfJl2q9kYhRCB90UibKu5vSD5gs2L2aMdPK7g&oe=6258CC70)
 ![0410](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/277590054_5658721844145148_8298966628636606203_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=6wHFN41UB28AX_GqtuF&_nc_ht=scontent.ftpe8-3.fna&oh=00_AT8sU_UqLe02NvizAEEprUIaCxRzWtpwy8WwNxiiagneRQ&oe=6257EB69)
