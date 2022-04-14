@@ -2,6 +2,14 @@
 title: 臺東縣確診足跡
 tags: [covid-19, 臺東縣確診案例]
 ---
+## 0414
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277816974_518122173017417_6303824552106455099_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=99ipi8sP2LAAX_cE9CY&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8Vvv6I-ILr1nRHhdtLelW6hdgsjq56zTozaMR_iyBQ9g&oe=625C514E)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278371769_518122099684091_5464867418671123096_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=9XBJtk95RXAAX8BhAMW&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8emdobLqRVYs3_A_OcSYdejXWQ2MdwopUxB7PexqZMZQ&oe=625D024A)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277802891_518122239684077_6134687134908756914_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=YvO6ss2lBv8AX9Pn0HA&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8vkvfF2uv7vAsLQS0iiLD8Yz0UAHgLI0qs4uiLYqGsMg&oe=625C93A9)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277799667_518122223017412_7291017929835346155_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=_DKpGCHb_CoAX-RfFig&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8N62deapM8a43KeOfre5FMjxcgdh5Hz0Bs5fDtpgFZYw&oe=625C9352)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278423402_518122346350733_8311802161311479154_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=1nPds125posAX_kaOin&_nc_oc=AQmBRw1gNgy7vkZASVFBdXX_e4Qt0qmdgkouXlVEXDjh1NexcrmpO6kM9w3Ie-NHBBA&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8jla1i2KG8CJhqbzH2qr9z9IEI8mEE0DPm67y8V-ZzGg&oe=625DD218)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278351278_518122176350750_3813151166999552290_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=5AcpTMf8l1sAX9De_S-&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-7pA4FGzj3V4eZFs-foHSRPg99HmJ8JkoThfy2X8vNpQ&oe=625DA765)
+![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277812739_518122053017429_7155153714473864383_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=J7Y9M0TAD_8AX8hW-FG&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9BEY30FFNq-Aspj5XX-m5d2atCkZEPR76gXgbeF3A22Q&oe=625C69AC)
 ## 0413
 ![0413](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/278175567_517397159756585_3665964462346863002_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=Y5SwDsI1AT8AX87bEf5&_nc_oc=AQnZ1HrNMbm73_biSL46z_S_yFkm5lEqSeW3nmll9x-ALxmIe8BKAZpATpHqY9YZfqs&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT_RLweFjwdyrWHhhKvvdvg-_raBA1dvKh_W8TQ7EW9skA&oe=625CF059)
 ![0413](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/278230506_517397099756591_4365450830222794707_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=KF6HA9YfdywAX-1xp1o&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT_mK9GqTAwR2lQdF80Rm5mFs2INhGMSrWlWAjF5X9yVuQ&oe=625CE260)

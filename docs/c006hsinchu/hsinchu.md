@@ -2,6 +2,14 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0414
+![0414](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204141439190.jpg&flag=pic&filedisplay=0414%E9%98%B2%E7%96%AB%E5%A0%B1%E5%91%8A-1500.jpg)
+![0414](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204141439191.jpg&flag=pic&filedisplay=0414%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1-1500.jpg)
+![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/9ff0e804-e40c-45b3-a055-603cb54c2dc4.jpg)
+![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/653565ce-2406-4cd1-8d57-a90b29865a9e.jpg)
+![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/95b1e579-33f4-4558-b515-fca30b0b364f.jpg)
+![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/efce783c-54b1-46aa-8a0d-aa2e6249c1ae.jpg)
+![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/efe7d553-8360-4491-8233-e31e5e1de89a.jpg)
 ## 0413
 ![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/ddd7a779-3e47-4ffa-8720-f6ec435d1c15@710x470.jpg)
 ![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/5a3ea577-eb92-462d-a859-e3f971cde69c@710x470.jpg)

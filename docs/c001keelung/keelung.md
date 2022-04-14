@@ -2,6 +2,29 @@
 title: 基隆市確診足跡
 tags: [covid-19, 基隆市確診案例]
 ---
+## 0414
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940693164.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692982.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692653.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692261.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694790.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694578.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694432.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694209.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940693785.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940693164.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692982.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692653.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692261.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694790.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694578.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694432.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940694209.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940693785.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940693164.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692982.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692653.jpg)
+![0414](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649940692261.jpg)
 ## 0413
 ![0413](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649874462288.jpg)
 ![0413](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01201/f1649874462122.jpg)

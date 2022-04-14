@@ -2,8 +2,25 @@
 title: 台北市確診案例
 tags: [covid-19, 台北市確診案例]
 ---
-## 0413
+## 0414
 
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yNzYxZGZhZS1lZDI4LTQwNmUtYjViMi02MjA3MDZiOTQxY2QuanBn&amp;n=5qGIMjgxMjMuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9kZjg2M2VlZi03OGFmLTQ4NzAtOGVlMC05ZTk4ZGFjNjJkNjYuanBn&amp;n=5qGIMjg1NTcuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83ZjZkNjk0NC1jNGJhLTRiOTAtOTI4MC1iMDJhN2VhYjVhZTUuanBn&amp;n=5qGIMjg1NTguanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80ZTZlODY4OC0wOTU2LTRmMDQtYmY1My04MjNjNGI1NWI0OGQuanBn&amp;n=5qGIMjg3MzQuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zMzY1Njg5Yy1mMDcwLTQ1NjQtOThkNS03N2I2ZDgyMTNkNmUuanBn&amp;n=5qGIMjg4NDkuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8yNDM1YThjOS0xZTU1LTRiODctYmI0Zi1lZGU5NGFkZDBmOGMuanBn&amp;n=5qGIMjg4NjguanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS85NGNmM2QxMy1lMWYyLTQ4NGQtOWUwNi1lODYzMWIxMmZmNDIuanBn&amp;n=5qGIMjk0MjEuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9kZDU5M2VjZC02N2MwLTRlNWItYjczZC1hNmUwMjViOWVmZmEuanBn&amp;n=5qGIMzA2OTIuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS9kOGRjMTFlMC04Y2YwLTRhODYtYWMyOS1mY2UyM2JkMzZhNDYuanBn&amp;n=5qGIMjg1NTMuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81YTRmZmU0ZS00ZGI2LTQ4YmItYThiYS05YTBiZTljMTQ2NjIuanBn&amp;n=5qGIMjg1NjLjgIEyODU2My5qcGc%3d&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8wNWQwN2ZlOC0xZTRjLTQ3ZjMtYjhmYS0xMTc5ZGM1ZjYzODYuanBn&amp;n=5qGIMjg4NjMuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS83YzAwY2U4My0zOWRjLTQ5NTgtYTllYy01MmM5MDcxNjJmOWQuanBn&amp;n=5qGIMjg4NzUuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS84YjM5YzAyZi02ZGVjLTQ2YzctODIxOC05OGRmNmZlZDJkZTIuanBn&amp;n=5qGIMjk0MjIuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS81MWJmZTdiOS0xMjcxLTQ3NGItOGY5NC05MzcxYzIwNTY5NGEuanBn&amp;n=5qGIMjk0MzEuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zYjZjMGMxZi01OWY5LTQ0ZWQtYmE0Yi1kNmFkNGQyYjVjZGQuanBn&amp;n=5qGIMjk2NjIuanBn&amp;icon=.jpg)
+![0414](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zZjJkNjQ4OC0wNDgyLTQwZDgtYWYyMC05MmU4ZmIyYzkxZWUuanBn&amp;n=5qGIMjk4MjIuanBn&amp;icon=.jpg)
+## 0413
 ![0413](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80OGUwYWM1Yi05NWI5LTQyY2MtYmJmNC1hNmU4YTMxZTBhMjIuanBn&amp;n=5qGIMjg3NDkuanBn&amp;icon=.jpg)
 ![0413](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS8zYTY2YWIxZS00YzMwLTRjZjktOGNiYS1mMDQ3ZGZiNjI3NTIuanBn&amp;n=5qGIMjg4NjEuanBn&amp;icon=.jpg)
 ![0413](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNzQxL2NrZmlsZS80ZmIxODNhMS00YzNjLTQ3MmMtODg2OS02NmIxOTNhNzNiZjEuanBn&amp;n=5qGIMjg4NzQuanBn&amp;icon=.jpg)
