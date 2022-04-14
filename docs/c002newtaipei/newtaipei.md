@@ -8,6 +8,11 @@ tags: [covid-19, 新北市確診案例]
 近期新北已更新此網站為足跡公布，在此附上連結  
 [新北災訊 E 點通](https://e.tpf.gov.tw/)
 
+## 0413
+![0413](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/277773996_5666459213371411_699912673783309982_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=gMUuS2PCF9sAX9PL8qU&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT9iVVnezIashiu6gEwI4L0d-iVQS5phB6dLnfNqtAlDKw&oe=625CDA27)
+![0413](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/278416082_5666459350038064_1539974578841933648_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=DoVN5uFFCw8AX9baBpA&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT8IC_Epf-F0lkUjaCOiivuFUDkbWiwkoOAPAkYTpJHp4g&oe=625C9AA7)
+![0413](https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/277816194_5666459300038069_1115358376273368280_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=8ab9rv7vFlcAX_ncWNE&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-1.fna&oh=00_AT_Q-QPCNJx3ge0PgGj464GvJrv3CBw772sj9wiB6Za6DQ&oe=625C3B12)
+![0413](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/277783693_5666459286704737_4342817188243840940_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=rgZaEeXGKTEAX_g7oE8&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT_3bi_2-pdFmhn1YjeToq7mfmsK0_06lN7Xt515oT73Lw&oe=625D5A53)
 ## 0412
 ![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277739175_5663714670312532_7462704478315050160_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=hMvP0l8ufkgAX-_YyPG&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_CVhjDA7m2WfXy3zjvEvg-1F3XFZcULYT6LDgy_B0l9w&oe=6259B2B8)
 ![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277752508_5663714596979206_7211125447464583412_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=WiaqxNRkztMAX8qYZmm&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-3MNVZJ49wzllhhpZ085LTpeMMAfyWhJcnq5eeqFow4w&oe=6259739C)

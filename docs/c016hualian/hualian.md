@@ -2,6 +2,9 @@
 title: 花蓮縣確診足跡
 tags: [covid-19, 花蓮縣確診案例]
 ---
+## sorry 花蓮的真的太多，站主無法一個一個複製了！！
+## 請參考以下網址
+## [花蓮縣政府FB-相片](https://www.facebook.com/hlgov/photos)
 ## 0412
 ![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277755973_343483801146101_9219474697434766859_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=wFf4z2pjGSYAX8TPf7n&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_ReviP6g2dmnq17bPP8CE6FI55WW5h40Q_hJMlFFFh5A&oe=625A4ABD)
 ![0412](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277782272_343483761146105_3284383385602189342_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=3YqsBfFkS-cAX9FjQU4&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-vzDyKtxQ4-R9LKIXlHj9XQstnQqFvolH2gsHTgg6RnA&oe=625B1471)
