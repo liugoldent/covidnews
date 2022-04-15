@@ -2,6 +2,17 @@
 title: 臺東縣確診足跡
 tags: [covid-19, 臺東縣確診案例]
 ---
+## 0415
+![0415](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/277801533_518697766293191_6015845051839005418_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=uQbTpphFmPEAX-8LJq3&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT8yKkPtJfPoIJodRqLB2jIfZexYGJyd0xu-UVh4DQh_SQ&oe=625E1E95)
+![0415](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/278639589_518697372959897_8149935510809197639_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=-wzDHPm3uP4AX-Gbhm8&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT_FSBTN1rTHtqDJ-gkrdGMq4eh8hL_pjZWdhfPJHu6Guw&oe=625F2CDF)
+![0415](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/277817748_518697436293224_7255546373303644517_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=tjTuQnt6TVAAX_0xexG&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT9DEesQKu2jtPeyEcYuDJTLpXsGSUeEZUKOyXFo41Pykg&oe=625F9A31)
+![0415](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/277804608_518697716293196_4185273579585574221_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=WJBnaYirISMAX8fXy8x&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT_sc4GFFUnzjTzO9upOiGnHw1KjOnaJg3ouajMcQZnPRw&oe=625EE154)
+![0415](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/277809131_518697532959881_4577547414007588660_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=32nj6V3xa_0AX8u_VVr&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT8grhdmwQYLvHbp6oJ1QE2V-IroARP_E9qkdBqkIEgPUQ&oe=625E7CC7)
+![0415](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/277790245_518697619626539_3953158693723502254_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=wA7SoVqHDwkAX-cKjv0&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-2.fna&oh=00_AT_jIXV57uYeFEkOj9AyVqwIjiiHHMOEiAAmhoGz9WkBrg&oe=625F7C2E)
+![0415](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/278250840_518697492959885_4963744811249810182_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=jhhPYLrtiNkAX9R41s0&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT-sCOkkVqPvpvfLnJ1Nc_q9Uajb3iMNtiraNDm9C6OUOw&oe=625E6328)
+![0415](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/278475124_518697559626545_3869301199192351823_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=DTz6rCzeZI4AX-UP-zU&tn=pciiGwgV5MloIh58&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT_uGXyzT2K_DRIIOFuGqMI-bI2PhHWcdM0kHBMupriV_w&oe=625E57E8)
+![0415](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/277799235_518697689626532_731277169277469616_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=RW9bvkB07WoAX-7NuSW&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT_o3RIyuq4BMhIHg4KDu28SnVpwI9g3N9sWCcMiJeOshg&oe=625EABB4)
+![0415](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/277813601_518697739626527_6207230565746320976_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=fN3Pw5VevpgAX8JAFM4&_nc_ht=scontent.ftpe7-4.fna&oh=00_AT9xgRgqxN5WSUQ3SMvvYl7XO3PwFzHbFmnQjVgN0kIlPw&oe=625E9912)
 ## 0414
 ![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277816974_518122173017417_6303824552106455099_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=99ipi8sP2LAAX_cE9CY&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8Vvv6I-ILr1nRHhdtLelW6hdgsjq56zTozaMR_iyBQ9g&oe=625C514E)
 ![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278371769_518122099684091_5464867418671123096_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=9XBJtk95RXAAX8BhAMW&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8emdobLqRVYs3_A_OcSYdejXWQ2MdwopUxB7PexqZMZQ&oe=625D024A)
