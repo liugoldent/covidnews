@@ -9,8 +9,32 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
-## 0415
+## 0417
 
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/018ad4c5-e213-4ac6-81f6-470a6beabb8a@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/b7f4bcf0-c763-472c-8c3d-bee3f14362b2@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/09b07190-7fc7-44e5-84bd-728b2be1a228@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/9361ca59-8ffe-4713-a35c-5739b78d3b9b@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/232cf7df-e550-4aef-b45d-6a11e48f2584@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/b659f378-eaee-4f2f-81c7-c800c2e46cde@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/13cf5132-e475-44d9-a2b7-45f893f31ebc@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/fd1b1c47-7a92-4bde-9ce6-38f121cbb867@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/d69f5d3e-0e82-491c-81b9-d93e6165c134@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/dc7e4d54-c6f6-43b5-a1e9-f7906b19ab81@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/e6647610-f53b-4311-aeae-453467e0a7cb@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/90f5d6fd-a099-49ca-a75d-4a696d2c02c6@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/d44ada8b-e2f3-49a5-9ddf-d50af360b796@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/565fce47-eae4-4e7d-b8cd-de99da6fae29@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/66498013-b10c-4c6a-815d-b5b2171d5e1d@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/a38703ed-aa90-4a57-a0ae-7e5d8f489dd6@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/3837ab74-8ed9-47b0-a257-a4e10d5c314b@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/a9959af1-7ebf-480f-9a34-54fcb766770d@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/f5e32595-efb8-4910-b007-2de6b8caad90@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/5356e75c-9551-4d5f-964f-78e45c778dec@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/38f12dc5-8ef0-47cc-803b-2cd12f8c4a71@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/cffa99fa-01c7-48c5-bf53-18b81d5ef011@710x470.jpg)
+![0417](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7886201/4a035138-c73a-4b92-b2d1-7a18670af586@710x470.jpg)
+## 0415
 ![0415](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7886004/883aa3d6-cb2b-4f2d-85ba-6997c65c0a36@710x470.jpg)
 ![0415](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7886004/fb1c6297-6956-43c3-892d-522ea2057f05@710x470.jpg)
 ![0415](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7886004/b5db2395-d574-4645-a4c8-1d8b6a8446a1@710x470.jpg)
