@@ -2,6 +2,10 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0416
+![0416](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/278685627_294328626208106_2208963385016694611_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=tievQ3PfgZsAX-zo54K&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-3.fna&oh=00_AT-z_PUL1J6am--8E-yggqqPq94oUDsR2Vo1eiy2JWYjJg&oe=625FC905)
+## 0415
+![0415](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/278588314_293665442941091_1198906094934954214_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=hC1uG3QWgFUAX__AfPI&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT8tJN8-Ri-YttGo2_G8F29L-HDrFneF8YgyMl-OY84XCA&oe=6260B94F)
 ## 0414
 ![0414](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278582356_293037309670571_716591244969387636_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=OVHEV1-5FEoAX9olauG&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9tpiZlrEy6blF9Vl7xoovGuyVCLx8GevnkcqUC_usWRA&oe=625CACB3)
 ## 0413

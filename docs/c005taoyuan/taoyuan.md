@@ -2,6 +2,8 @@
 title: 桃園市確診案例
 tags: [covid-19, 桃園市確診案例]
 ---
+## 0416
+![0416](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220416153215.jpg&flag=pic)
 ## 0415
 ![0415](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220415231317.jpg&flag=pic)
 ![0415](https://www.tycg.gov.tw/fckdowndoc?file=/images/180006/202204/20220415231349.jpg&flag=pic)

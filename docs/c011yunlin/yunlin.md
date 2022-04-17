@@ -2,6 +2,11 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0416
+![0416](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS82M2Y2YmUxOS0xMTFlLTRhOTItOTg0Yy00ZWQwMmFiZjRkYzAuanBn&n=5qGIMzIzNjTmnKznuKPnorroqLrlgIvmoYjpm7LmnpfnuKPotrPot6EuanBn)
+![0416](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS9iZDk5NGRjZi1hN2Q0LTRkMzQtYTU0MS0yYmViZjYxMDJiNWIuanBn&n=5qGIMzMwNjLmnKznuKPnorroqLrlgIvmoYjpm7LmnpfnuKPotrPot6EuanBn)
+![0416](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS9kNmYxNmYwNy0wZjE1LTQxOTgtYjZjOC1kMzU2ZTY4OWMwZmIuanBn&n=5pys57ij56K66Ki65YCL5qGIKDMzMzgxKembsuael%2be4o%2bi2s%2bi3oS5qcGc%3d)
+![0416](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS82ZGI3M2RmYi1mZjM1LTQzN2YtODkyMC03ZDg2MzIxNTI4NzMuanBn&n=MzMzODLmnKznuKPnorroqLrlgIvmoYjpm7LmnpfnuKPotrPot6Eo5Yiq5rib55m85biD54mIKS5qcGc%3d)
 ## 0415
 ![0415](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS8zYTQwOWIzNi1kOWJkLTQ3YjItODIwMC02OThhMWQwZDc0ZWQuanBn&n=5qGIMzEzNDHpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
 ![0415](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS9iZTI3N2U1ZS0yMWUwLTRlMjctYTRiNi04NTFhZTE0NmQ4OTUuanBn&n=5qGIMzEzNDLpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
