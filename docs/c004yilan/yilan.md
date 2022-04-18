@@ -2,6 +2,9 @@
 title: 宜蘭縣確診案例
 tags: [covid-19, 宜蘭縣確診案例]
 ---
+## 0418
+![0418](https://lh3.googleusercontent.com/pw/AM-JKLVY97rQssxkpdXwgoLld6ToxLh2PK1qyS7OkMnYQMq1CLuLmFwK_53BQpZSlNVJDqsZS5lJAZ5req0bH4mrQCV4vmGXpNeQw29VLq47hb0B3IZSpsN7mQ4vganDO7TDCDiWtxujHajAze2933x3WffT=w1922-h1358-no?authuser=0)
+![0418](https://lh3.googleusercontent.com/pw/AM-JKLUHhSval3Fdt0cIioFsL3Y9p7q7CipF-Iz9zOFGoaRCsc04p8RHE_apsiW4-oTT_4vKKljxx03PwM4C0ZjUrPiZvrgKnOMR1N2MJCT7uq45GraCEOLoXGKQHeLtH6_b9U7GqeUVaAIBlRjgoFvTvk2z=w1922-h1358-no?authuser=0)
 ## 0417
 ![0417](https://lh3.googleusercontent.com/pw/AM-JKLWP1SOCD3pd0u4mQsTBi1zZDyC73ONjq6VS-0-zAJqO8xA5OloFnA1OQulfj0G9Qni9XIJj-36q2HyGqYZKyGK9pmkxIpc9VIs1ZN2S5W8LeroBF7S7gyefJBV13R5i-xo1EPsS6c1td2nykEeg9ofz=w1922-h1358-no?authuser=0)
 ![0417](https://lh3.googleusercontent.com/pw/AM-JKLVxlvkj_ZQmXZNeKedA0tAYVz98iOnv7g06Wu-n3CHolo1B0YZvckdReSCwSs05zvWoFDBd3t8YD5uSWp10SxwL_ePjy6pKfo_Ih6qBMpQ5EumKh88NulHbVj8ka_mfLABTdbjj-7L7J5artccK8Xfa=w1922-h1358-no?authuser=0)
