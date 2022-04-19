@@ -2,6 +2,17 @@
 title: 新竹縣市確診案例
 tags: [covid-19, 新竹縣市確診案例]
 ---
+## 0419
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/0790e0e8-89fa-4ba2-86c2-4ddcf53ed1bf.png)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/6ae8e2f2-4ae0-48f0-9429-220b5e8d0182.png)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/39639599-d48d-446e-96c8-1facc01c92b5.jpg)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/bed1a0e1-8c72-47b9-9aa9-5c7802e21382.jpg)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/fb1ac8c0-4cf5-42a4-9eec-97d5427d7703.jpg)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/84f9a586-c9a6-4f71-995c-0a02f04b5315.jpg)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/8c70a1af-f4f2-4460-8db8-b8e642791d81.jpg)
+![0419](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242251/bb430f70-ae3c-40c9-8935-efa4c0fb7567.jpg)
+![0419](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204191450352.jpeg&flag=pic&filedisplay=0419%E6%9B%B4%E6%96%B0+%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1_19.jpeg)
+![0419](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204191450351.jpeg&flag=pic&filedisplay=0419%E6%9B%B4%E6%96%B0+%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1_18.jpeg)
 ## 0418
 ![0418](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204181451550.jpg&flag=pic&filedisplay=0418%E8%B6%B3%E8%B7%A1-1500.jpg)
 ## 0417
@@ -25,12 +36,12 @@ tags: [covid-19, 新竹縣市確診案例]
 ![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/efce783c-54b1-46aa-8a0d-aa2e6249c1ae.jpg)
 ![0414](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242130/efe7d553-8360-4491-8233-e31e5e1de89a.jpg)
 ## 0413
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/ddd7a779-3e47-4ffa-8720-f6ec435d1c15@710x470.jpg)
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/5a3ea577-eb92-462d-a859-e3f971cde69c@710x470.jpg)
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/8880aaa7-c47a-4e29-985c-4dcfd453f41e@710x470.jpg)
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/b5208510-29dc-491c-b1b2-6d4da235f3ac@710x470.jpg)
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/80d0ee9b-b0f5-41d4-9431-53022f6dd448@710x470.jpg)
-![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/d66005ac-981b-4e8f-808a-ea2cbd7cf8ee@710x470.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/ddd7a779-3e47-4ffa-8720-f6ec435d1c15.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/5a3ea577-eb92-462d-a859-e3f971cde69c.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/8880aaa7-c47a-4e29-985c-4dcfd453f41e.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/b5208510-29dc-491c-b1b2-6d4da235f3ac.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/80d0ee9b-b0f5-41d4-9431-53022f6dd448.jpg)
+![0413](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242106/d66005ac-981b-4e8f-808a-ea2cbd7cf8ee.jpg)
 ## 0412
 ![0412](https://www.hccg.gov.tw/uploaddowndoc?file=municipalnews%2F202204121456071.jpg&flag=pic&filedisplay=02.jpg)
 ![0412](https://ws.hsinchu.gov.tw/001/Upload/1/relpic/8603/242052/f9c94641-9ab9-4175-a108-ee132e1d5178.jpg)

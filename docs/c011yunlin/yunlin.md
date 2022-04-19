@@ -2,6 +2,31 @@
 title: 雲林縣確診案例
 tags: [covid-19, 雲林縣確診案例]
 ---
+## 0419
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/9f8cacac-d649-4c31-9262-7cf8b41b0ec2.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/e10f0c35-e733-4cba-84cd-69857416d57d.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/f9eb54e5-7c27-4243-8bc3-d0b0ba78a1b8.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/8df1e9a1-81ef-4191-9e7d-cc073ec0ff96.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/3bde1650-c341-4992-bd55-08e287775b1b.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/f796cb92-c656-4086-a2cc-408b59d621e5.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/aa1b333f-011c-4b3d-aafa-2e602a64ca22.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/83263e28-1a71-4be8-8c96-a0946c74cb95.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/3a7fa436-7236-4806-99f3-5ac24f8927b5.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/ee59efa7-e019-47dc-bd91-89bfffce13e5.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/478f68db-9dbc-4b2c-8f47-ea5b55b1383a.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/a325bff7-d53f-49ae-a05d-546ce9b7e7ff.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/f8bde331-2247-48ed-9cbd-ef979c24e138.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/3524eead-6f00-4968-ba6a-d1ce85a3cfa4.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/f934e497-c568-49cc-94d7-7a7b6c405fee.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/a1d90180-5254-40ae-99cd-13dfbd928ad4.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/5a426bb1-9491-439a-9ba4-9329f0db6672.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/11e9591d-c00a-4a56-881d-98bc2bb22572.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/5be36ab1-0ffe-4ff7-88d7-9d0b10f58d14.jpg)
+![0419](https://ws.yunlin.gov.tw/001/Upload/400/relpic/9662/376905/efa9f7fb-efd3-4347-b466-3e0d14477b31.jpg)
+## 0418
+![0418](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS9hMTJlMjZiZS02NDQzLTQwNTItOWFhYy02ZGE1MjJmNmJmOWEuanBn&n=5qGIMzUyNjLpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
+![0418](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS85NzhjMDc0ZS0xYWExLTRhNzktYmJjZi05MjcxOGU0Yjc3ODUuanBn&n=5qGIMzUyNjbpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
+
 ## 0417
 ![0417](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS81MTU0NjMwZS01MGZkLTQ3YTctYmM4Yy1lNmU5MzVlYzYwYWEuanBn&n=5qGIMzM3NDPpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
 ![0417](https://ws.yunlin.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL2NrZmlsZS81MTAxYzY3YS1jYzlhLTQ0ZjMtOWE3Zi1lOTVkZGI0MmM4MDUuanBn&n=5qGIMzM3NDTpm7LmnpfnuKPnorroqLrlgIvmoYjotrPot6EuanBn)
