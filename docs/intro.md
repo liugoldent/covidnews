@@ -6,9 +6,7 @@ sidebar_position: 0
 ## 站主的話
 除了花蓮我是直接貼連結以外 
 大部份縣市我能整理的盡量整理囉～
-### 小額樂捐
-如果您喜歡我的網站，歡迎小小小小額贊助給站主，支持我繼續更新此網站，感謝大家。  
-[贊助點這](https://richart.tw/TSDIB_RichartWeb/RC04/RC040300?token=EDFbf56XqAk%3D)
+歡迎分享出去！！！
 ___
 ## 各縣市公布資料
 * [基隆確診足跡](c001keelung/keelung.md)
