@@ -2,6 +2,10 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0420
+![0420](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278958485_285826357070837_7004306090644913324_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=2ofFFfn5u34AX_aFfaZ&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_ADST4r1fCpFi9T_U63BRtJeeUvq97KpIOa9vdu3PRTQ&oe=6264127C)
+![0420](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278947996_285826273737512_7079095722634313893_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=zE2SNZsSAisAX9dRD3f&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9IVvvY-XyGbWr8Kii7LQ7dAHUW3v2l0AuxVqC9xSHTvQ&oe=6265644B)
+![0420](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278933494_285826287070844_2321666709845375010_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=c0W_lwtP7KgAX-xiqY7&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9T1-c4npatjWaycGPpsWF5L3RC-dF-76xuICm9Q6gBaA&oe=6265AA97)
 ## 0419
 ![0419](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278919551_285111390475667_1405183986516368818_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=05zUtV8QqnAAX9vhFNm&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_aEJYxq4JOIZjFflr3tY4Z72l8CDV0Jk4_-yVi4M81jg&oe=6263BB3D)
 ![0419](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278915856_285111400475666_3046747662585346229_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=KHs3f-Hv4eQAX8uFriZ&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9PvFt7g7t45oQfkF02CIodNJiGTv62I9mNZ0r-0ZjwAw&oe=6263B4FD)
