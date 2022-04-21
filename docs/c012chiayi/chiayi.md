@@ -2,6 +2,8 @@
 title: 嘉義縣市確診案例
 tags: [covid-19, 嘉義縣市確診案例]
 ---
+## 0421
+![0421](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/640401/ad3d64f9-2d9e-4a29-9f5b-3b2c2643bc7e.jpg)
 ## 0420
 ![0420](https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/640313/db77b20d-abc1-4e9b-a986-b6533fe53eb2.jpg)
 ## 0419

@@ -9,7 +9,25 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
-
+## 0421
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/a2fd8f9f-58c9-4ad4-b87b-9a54b51b04e9.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/915b5a61-1d6b-4ef6-a8b0-c7170c8aed9a.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/6965f2c3-d679-4558-a0aa-85e2d97d5176.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/3981e65a-c0c9-419c-b75a-b54eff4077fc.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/81e94b4f-5e09-43e1-af9e-2f4fa9931f31.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/b5bece8e-ad38-409f-b2c6-7dfef6582ca7.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/9dbe454d-f8eb-4150-bff6-14352c59c2a8.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/f32bcf25-64e9-4ff6-8980-1993f45fab77.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/dab83d29-ca54-4786-87a5-36cee8c22639.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/291bfc34-deed-4370-b2ed-3caff26ef23a.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/475e13c1-d6e6-423b-98d6-b8c554c9c283.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/a1b6a46b-ed35-4ada-8346-75993eaa452a.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/5d496684-a7ac-491a-8fea-c7242923bc5c.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/7506ac33-67cd-4be9-a24e-430b4b62ffbd.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/ba1db9e8-8b9d-4973-8780-fb2f493a48be.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/ba2796cc-bebc-4d04-bd5d-a9bc2a664765.jpg)
+![0421](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7887747/0d7667d3-0d40-4f48-89eb-0b3962063913.jpg)
+## 0420
 ![0420](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7887464/fea2c496-259e-464f-b956-140c03eedaeb.jpg)
 ![0420](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7887464/8f811279-5e72-4c0c-9f55-250c8a4187bf.jpg)
 ![0420](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/20162/7887464/bd571645-7c77-4ad1-8c95-9659e9152808.jpg)
