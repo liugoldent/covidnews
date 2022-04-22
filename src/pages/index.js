@@ -30,7 +30,19 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="股票分享，選股分享，各縣市確診個案公共場所活動史，確診個案足跡圖卡資訊，國內疫情通報最新情況，確診足跡，台北市確診足跡，新北市確診足跡，桃園市確診足跡，新竹市確診足跡，高雄市確診足跡>">
+      description="股票分享，
+      選股分享，各縣市確診個案公共場所活動史，確診個案足跡圖卡資訊，
+      國內疫情通報最新情況，確診足跡，台北市確診足跡，新北市確診足跡，
+      桃園市確診足跡，新竹市確診足跡，高雄市確診足跡，
+      covid-19專區
+      covid-19主題網站，
+      covid-19，
+      疫情，
+      肺炎，
+      冠狀病毒，
+      防疫資訊
+      "
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
