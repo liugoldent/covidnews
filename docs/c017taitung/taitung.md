@@ -2,6 +2,9 @@
 title: 臺東縣確診足跡
 tags: [covid-19, 臺東縣確診案例]
 ---
+## 0423
+![0423](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/278796366_523647202464914_1642345898655466278_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=Pk3AVryNQZYAX_q66gj&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=00_AT-RqqQnTTSKIyKkanZ6QSJx3bmmDhitYBYkMiCLDMW1hQ&oe=62697D45)
+![0423](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/278932679_523647169131584_8429542607523068025_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=yPk82sCAexEAX9s-rDT&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT_bQGWT_dLE8ACPVCgx3mLIHzP88JHV6F1ALYNK-mgmHA&oe=6268A91A)
 ## 0422
 ![0422](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279079583_522951659201135_7455400329172170362_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=Im_5uD0dUTgAX_U2yr3&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-3OSwb6d6EaiAPdUdyLQiqHOT-sGDA84JezB0vIBqfNA&oe=62676CE6)
 ![0422](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279013621_522951669201134_3825499747649453537_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=jma4u8Wm6icAX8DJm_6&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9puqsLN8jl5E7ijtK671aoZ2mHF3GFybF32xvluwa8rw&oe=6267042B)
