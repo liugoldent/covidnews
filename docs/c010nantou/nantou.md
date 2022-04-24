@@ -2,6 +2,8 @@
 title: 南投縣確診案例
 tags: [covid-19, 南投縣確診案例]
 ---
+## 0424
+![0424](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/279103347_299414445699524_5836684371665229364_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=spZM2J5FZOoAX-XvR-7&_nc_ht=scontent.ftpe8-4.fna&oh=00_AT9IXVz3Fxv521GOgTHsPe5qq7Ma0v_JDDdaLk3vBthFlg&oe=626AAB94)
 ## 0423
 ![0423](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/279075919_298820645758904_8973398607616312077_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=Rbfo3jrHimMAX9KjVog&_nc_ht=scontent.ftpe8-2.fna&oh=00_AT8aqmEsA0lu3vLNy7FU5CmIeaqV_U3p54NlewYTlcMUdw&oe=626935D5)
 ## 0422

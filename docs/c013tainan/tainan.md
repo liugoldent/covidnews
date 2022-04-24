@@ -9,8 +9,23 @@ tags: [covid-19, 台南縣市確診案例]
 [台南足跡儀表板](https://public.tableau.com/views/COVID19-_16220813360970/1_1?:language=zh-TW&:display_count=n&:origin=viz_share_link:linktarget=_top&:showVizHome=no&:embed=yes&:tabs=no#2)
 
 ---
-## 0423
+## 0424
 
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/8304d3e5-3245-4c88-a1e5-67168138b200.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/89952c30-d894-4853-8780-8e3be93d2788.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/07b60b7b-6843-4adc-9cad-aff0570c432c.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/2034120a-3d1e-4d64-8593-859f82bff1d9.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/557c00c7-08c8-4f0f-8bae-7d0f746d10ab.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/91e02486-a925-409b-b239-3f0de7af8734.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/0a800629-8607-4872-8062-ea3d90b0778a.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/83e2ef94-ca01-4c6b-8c48-f4c5be9d9986.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/69c827c2-a5f3-46b6-8c49-e6b4ac04db6b.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/bd481ef1-1ad0-442d-bbe7-917c8b1d0a72.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/9cac9767-92cf-428d-8110-f6c7624f4e05.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/01bf5c6f-c163-4dcd-a14d-2c0b77082d2a.jpg)
+![0424](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888104/b1d283ec-846d-4085-a8d7-1a8012f6085d.jpg)
+
+## 0423
 ![0423](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888044/e225d9da-442a-4b3d-8b9a-a0de5ee9955d.jpg)
 ![0423](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888044/16feb9bd-49df-491a-aed8-820a95d0acc4.jpg)
 ![0423](https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/7888044/d74a5290-e401-40a0-a8bd-8bd390e58497.jpg)
