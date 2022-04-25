@@ -2,6 +2,13 @@
 title: 臺東縣確診足跡
 tags: [covid-19, 臺東縣確診案例]
 ---
+## 0425
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278646559_524779305685037_7817429004702265125_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=-rzcS8UbfikAX9ooulC&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8kRCFC3ZosHeoYQ5HAz15xd_xKuAau38nK-FWmxKFSew&oe=626C0706)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279132095_524779295685038_493904301142346389_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=vD_SjFhIz9oAX8L0PHv&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_KOsQIWRLEjrPtc6ZH164N2co3EdC1vv-lFiIusIe65g&oe=626C469F)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279089331_524779329018368_6215814736740437801_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=cdvy5Guh_iEAX9lckJr&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9uccuh5pJbxCqNuubvHNRujIxKUY2u-Tmzo3z0C6eJrA&oe=626C18C0)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279095122_524779392351695_6340293230283026706_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=Ad0Xt7gBHnAAX-v1V8Z&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-nTt6SFe95Auqn2Mzf5fPY_2oF0RC8ysZpXr87wTXYIA&oe=626AA04A)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278913738_524779412351693_3684278905783786332_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=is5Tr0KB4WgAX8BVgWW&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-zOzA4Kg3xc8wkiE-X8I7tD0HEE6g1UQSwkXLgbYxQSw&oe=626B753E)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278740925_524779429018358_9030952098965477206_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=1RbElDwGrIIAX_P8yl1&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8-k7ffBc5ubB_gjfxafbXGAboMhOSvwki5BqOgnXAcsg&oe=626C1842)
 ## 0424
 ![0424](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/278610147_524189005744067_516607274083045615_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=7Aha3vzn01MAX-W-vnH&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-4.fna&oh=00_AT9K70IK2SI-_1C8_xPtPsQ9cE6NR6imUa7d0dxfChg1cw&oe=62699328)
 ![0424](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/278958967_524188989077402_1107349743036534107_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=rd8aA-eu_84AX-AbVL8&tn=iAodmyEv752TGOIn&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT-4IX7fTSdM7LMST6ev_cKom1I-JVVsfodkjKZ9d-gZwg&oe=6269CE37)
