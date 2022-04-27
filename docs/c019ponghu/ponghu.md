@@ -2,6 +2,13 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0425
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278859722_289265860060220_8265109383189997023_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=_bpulD8tzPsAX9lPNJS&_nc_oc=AQmkF6vL6lY9es8jX_SNUq0ymKOlsUAPVUDxcz4Xy0wzNI8UQg2oh8Djmc9XuY8i-xc&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-xee0OJGRTEk6yWDfAV9lEqZkJl-dF50fDihoj4_EMBg&oe=626C06E1)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279111901_289265836726889_5400804539014945254_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=JKGekQlSsTkAX-2MUSC&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-3OUUssy7omefLq4Wkt_nxuybQNXX_l_LHhMuHRivWbg&oe=626C1C23)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279021807_289265833393556_249954739800988796_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=DhD-49k64wkAX8qBAwY&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9Alfm7Y9Oh6OaxvxszWxie6pww2wmzNbFcPqyufBp5pA&oe=626D417B)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278945865_289265916726881_8960482591596949630_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=VsgN76sc-vwAX-_uLul&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_CVpIcy5OYuVANsJktcFDmCUqMRoEGs1WmKKVJUQ1Cjg&oe=626C0B4B)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279293529_289800693340070_1428849671089587046_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=2idOXK6Yr2UAX9fxi8_&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_PQFLsjZrT0tUiQUEuNTaZ-m-pWMcca9oZ5IS9_v82wQ&oe=626DB7C9)
+![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278865874_289800663340073_4866350399870993124_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=lbxpm_z_w24AX_PKO-n&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8_G05cuWnqVGlnYiV3yJcvPIp4SckoGKFAuYTLn1eYJA&oe=626C1ACF)
 ## 0423
 ![0423](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/278739002_287921206861352_404385837645772845_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=vdNRqeeRbhgAX_iEK7e&_nc_ht=scontent.ftpe8-2.fna&oh=00_AT9TCIryhefg9OjrfFrnjpvez4hPvpvQEAcky3OrHZbjUg&oe=62689203)
 ![0423](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/278742908_287921196861353_4730353311314884359_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=4uvw5j8uci4AX-Di_0_&_nc_ht=scontent.ftpe8-1.fna&oh=00_AT_HnkWfHqZfXw2Bd9HZJ6zItr7ntqaopiZKPsava2OnWQ&oe=626853A9)
