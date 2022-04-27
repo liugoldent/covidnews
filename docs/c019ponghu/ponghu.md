@@ -2,6 +2,10 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0427
+![0427](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278907834_290532606600212_7985520029329119032_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=zVZ0cAMCcYUAX-dmi5C&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_I_xm-s2KChwqITsXljKkyRvWOWplHcJhy5m97NUv3Hg&oe=626D9C12)
+![0427](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278843818_290532639933542_7851600223582886424_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=DMJj527WUZYAX8TPRbh&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-CCLjMqY5rdYHkmiOO2dONOKk6zTUTeEEtJYFZXh0IWA&oe=626E123F)
+![0427](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278808677_290532616600211_7797148530109302501_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=FLvg9IpxwcwAX_hTLzN&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-xilnHM6ZaZZ6_p3YJrotvLezgcI8OCSX9p392Ei6-Qw&oe=626DB6DD)
 ## 0425
 ![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278859722_289265860060220_8265109383189997023_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=_bpulD8tzPsAX9lPNJS&_nc_oc=AQmkF6vL6lY9es8jX_SNUq0ymKOlsUAPVUDxcz4Xy0wzNI8UQg2oh8Djmc9XuY8i-xc&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-xee0OJGRTEk6yWDfAV9lEqZkJl-dF50fDihoj4_EMBg&oe=626C06E1)
 ![0425](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279111901_289265836726889_5400804539014945254_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=JKGekQlSsTkAX-2MUSC&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-3OUUssy7omefLq4Wkt_nxuybQNXX_l_LHhMuHRivWbg&oe=626C1C23)

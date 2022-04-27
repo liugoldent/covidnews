@@ -2,6 +2,8 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0427
+![0427](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110427%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111042701.jpg?response-cache-control=0&Signature=thWp7zUeROMTowa1rj%2Bwq0nWVwM%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682524800)
 ## 0426
 
 ![0426](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110426%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/1110426001.jpg?response-cache-control=0&amp;Signature=bO2zmanV0qdgfjIL9/34RDg0u3A%3D&amp;AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&amp;Expires=1682438400)
