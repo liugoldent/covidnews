@@ -2,6 +2,10 @@
 title: 台中縣市確診案例
 tags: [covid-19, 台中縣市確診案例]
 ---
+## 0428
+![0428](https://www.taichung.gov.tw/media/791808/15993943030565.jpg)
+![0428](https://www.taichung.gov.tw/media/791807/15993943028803.jpg)
+![0428](https://www.taichung.gov.tw/media/791806/15993943026149.jpg)
 ## 0427
 ![0427](https://www.taichung.gov.tw/media/791541/15988152571393.jpg)
 ![0427](https://www.taichung.gov.tw/media/791539/15988152566494.jpg)
