@@ -2,6 +2,14 @@
 title: 澎湖確診足跡
 tags: [covid-19, 澎湖確診案例]
 ---
+## 0429
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279129983_291947166458756_1617662814860065188_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=a7K2-q12PbwAX97z0Nz&_nc_ht=scontent-tpe1-1.xx&oh=00_AT91uTXESLLsrXOTQbwYzoBqN4k8_CA99K713V0G51Y6wg&oe=626FFC14)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279156515_291947176458755_7089369732347796788_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=GSc7QZYIUIwAX_qlxs5&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-XxaF_p8Eq7XapWzHKiATMA7zfyniCYUhH54H78WQaGA&oe=62712B50)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279046736_291947186458754_6749207360488654149_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=lKIUixr3zwYAX8lJuXT&_nc_oc=AQl2g3G5r4ARx-fPyqASHUGaeVZL_Q8cr12PPUV9IgV6318HGkffs_OIesKIyPiYY8g&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_etnCxMfdzvuHpmYEAH8_ZmG6xaV-oT5NSitqzGHo51A&oe=6271268B)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279029793_291947256458747_564963197230378369_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=0rwfWCx3uYUAX8kjBb1&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-x0FMjuex6EgmoHoK2Y6ohDZm_3f5CV9Oipwqrp7HnmA&oe=6270D16B)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279437835_291947283125411_3373194402960083643_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=lvcv66I5KOoAX9hkQoL&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT8SL0a09xT92xsWMadRBz2rOSiRU9cfqm7_37O-v11WZA&oe=626FD4A6)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279126672_291947299792076_4944032584774847917_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=lbesmJkuGMcAX_uk7iH&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9TsUMJ324wFsftL5EcIg29b2SAbHs9wpILQ0UorjLSVA&oe=626FD50B)
+![0429](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/279044404_291947329792073_1120739095990224614_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=D5L21CyhLA8AX_st82W&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9y6cejDMvGq00gBNgzKHeLDbXq9EMBl-zN-WLnJxsNhQ&oe=62700FDB)
 ## 0427
 ![0427](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278907834_290532606600212_7985520029329119032_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=zVZ0cAMCcYUAX-dmi5C&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_I_xm-s2KChwqITsXljKkyRvWOWplHcJhy5m97NUv3Hg&oe=626D9C12)
 ![0427](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/278843818_290532639933542_7851600223582886424_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=DMJj527WUZYAX8TPRbh&tn=pciiGwgV5MloIh58&_nc_ht=scontent-tpe1-1.xx&oh=00_AT-CCLjMqY5rdYHkmiOO2dONOKk6zTUTeEEtJYFZXh0IWA&oe=626E123F)
