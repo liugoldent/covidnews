@@ -2,6 +2,12 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0501
+![0501](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110501%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050101.jpg?response-cache-control=0&Signature=ZLk%2Bn545qBxavo2iOQOAudZASZk%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682870400)
+![0501](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110501%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050102.jpg?response-cache-control=0&Signature=/ZLqq6eIHRzNUYUWpJnKSLxBr2c%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682870400)
+## 0430
+![0430](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110430%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111043001.jpg?response-cache-control=0&Signature=tY/yIrxxSXQkm6C/CMCtK3BqeVE%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682784000)
+![0430](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110430%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111043002.jpg?response-cache-control=0&Signature=6tTrHtOrdbd88HdZQ3wwyAxcc44%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682784000)
 ## 0429
 ![0429](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110429%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111042901.jpg?response-cache-control=0&Signature=QVl887IUnYVeiZEJ4mni4Tu35xY%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682697600)
 ![0429](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110429%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111042902.jpg?response-cache-control=0&Signature=SF1zAnxV7Amfxr2h177XTcnS4h8%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1682697600)
