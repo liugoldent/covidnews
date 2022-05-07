@@ -2,6 +2,10 @@
 title: 高雄市確診案例
 tags: [covid-19, 高雄市確診案例]
 ---
+## 0504
+![0504](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110504%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050406.jpg?response-cache-control=0&Signature=ul9nGSPExQWZcNAC9GnYDQXTedU%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1683129600)
+![0504](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110504%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050407.jpg?response-cache-control=0&Signature=dkPYgQo1HGAa1268qo2yyo0FUm8%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1683129600)
+![0504](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110504%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050408.jpg?response-cache-control=0&Signature=e1IHpazS2dBP/uQ6teTIcJv0O6I%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1683129600)
 ## 0503
 ![0503](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110503%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050303.jpg?response-cache-control=0&Signature=5hSHthU96amPrTt0OoabqoOaQ0M%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1683043200)
 ![0503](https://footprint.s3.hicloud.net.tw/Footprint/%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E8%B6%B3%E8%B7%A1/1110503%E6%9C%AC%E5%B8%82%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E6%B4%BB%E5%8B%95%E5%8F%B2/111050302.jpg?response-cache-control=0&Signature=IZRIJwaiUMHJ7cGZO8YkWVc%2B2o4%3D&AWSAccessKeyId=SE41NTAyMjEyNjE2MjIxMDY5NjM2MDA&Expires=1683043200)

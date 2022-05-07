@@ -2,6 +2,14 @@
 title: 嘉義縣市確診案例
 tags: [covid-19, 嘉義縣市確診案例]
 ---
+## 0507
+![0507](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/254888/f55e1e3a-98cc-42db-be40-d3573bbc5ce4.png)
+## 0506
+![0506](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/254763/794007eb-ff33-423b-981f-91e7ed69b701.jpg)
+## 0505
+![0505](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/254630/201f2e46-e6c5-4cb7-a8ce-acbf1f12ced6.jpg)
+## 0504
+![0504](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/254476/7ed21ab2-1270-45bf-a76f-de9f5ce81a56.jpg)
 ## 0503
 ![0503](https://extws.cyhg.gov.tw/001/Upload/1462/relpic/15690/254153/3071dcfb-23bd-443c-ab1a-004d7d7032f4.jpg)
 ## 0501
